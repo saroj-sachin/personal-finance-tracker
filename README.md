@@ -45,5 +45,3 @@ amount            INT,
 category          TEXT,
 sub_category      TEXT
 ```
-
-<img src="Screenshots/postgres(supabase).png" width="946" height="464.5">

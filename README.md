@@ -45,3 +45,16 @@ amount            INT,
 category          TEXT,
 sub_category      TEXT
 ```
+
+<img src="Screenshots/postgres(supabase).png" height="300">
+
+- A confirmation message is sent back to Telegram once a transaction is logged.
+
+### 4️⃣ Data Visualization (Power BI)
+- Power BI connects directly to the Supabase PostgreSQL database.
+- It provides interactive dashboards for:
+  - Expense distribution by category
+  - Spending trends over time
+  - Weekday vs. weekend spending
+  - Key KPIs like **average daily expense, monthly spend,** and **average transactions per day**
+- <img src="Screenshots/dashboard.png" height="400">

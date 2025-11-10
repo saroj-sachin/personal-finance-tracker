@@ -32,7 +32,7 @@ A Google Gemini Chat Model node interprets each message and extracts structured 
 
 Output is parsed into a JSON structure using the Structured Output Parser.
 
-<img src="Screenshots/n8n_workflow.png" width="613.67" height="354.67">
+<img src="Screenshots/n8n_workflow.png" height="300">
 
 ### 3️⃣ Data Storage (PostgreSQL on Supabase)
 - Parsed transactions are inserted into the ``transactions`` table in PostgreSQL with auto-incrementing ``transaction_id``.
@@ -58,3 +58,13 @@ sub_category      TEXT
   - Weekday vs. weekend spending
   - Key KPIs like **average daily expense, monthly spend,** and **average transactions per day**
 - <img src="Screenshots/dashboard.png" height="400">
+
+
+## 🧰 Skills Demonstrated
+- **Data Analytics:** Power BI (DAX, measures, visuals)
+- **Data Engineering**: n8n workflow automation, Supabase (PostgreSQL)
+- **Data Processing**: Prompt engineering, structured output parsing, AI-based NLP extraction
+- **Data Simulation**: Python (NumPy, pandas, random distributions)
+- **Database Design**: SQL schema design, identity columns, sequence management
+- **ETL Automation**: No-code pipeline from Telegram → n8n → PostgreSQL → Power BI
+- **Soft Skills**: Problem-solving, data storytelling, automation mindset 

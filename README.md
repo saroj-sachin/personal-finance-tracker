@@ -19,7 +19,7 @@ Messages sent on Telegram are automatically parsed into structured financial ent
 
 - Transaction details (e.g. “Paid ₹250 for groceries”) are sent on Telegram.
 - The n8n workflow triggers automatically when a message is received.
-<img src="Screenshots/telegram.png" width="672" height="310.5">
+<img src="Screenshots/telegram.png" height="310.5">
 
 ### 2️⃣ AI Processing
 A Google Gemini Chat Model node interprets each message and extracts structured fields:

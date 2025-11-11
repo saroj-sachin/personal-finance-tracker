@@ -1,0 +1,1616 @@
+transaction_id,transaction_date,transaction_type,amount,category,sub_category
+10001,2024-01-01,Debit,20000,Bills,Rent
+10002,2024-01-01,Debit,2000,Bills,Internet
+10003,2024-01-01,Credit,55798,Salary,Monthly Salary
+10004,2024-01-01,Debit,2000,Healthcare,Gym
+10005,2024-01-03,Debit,123,Food,Fast Food
+10006,2024-01-04,Debit,593,Food,Bakery
+10007,2024-01-05,Debit,2000,Investment,SIP
+10008,2024-01-06,Debit,516,Food,Groceries
+10009,2024-01-06,Debit,1503,Investment,Stocks
+10010,2024-01-06,Debit,1490,Travel,Fuel
+10011,2024-01-07,Debit,8382,Shopping,Online
+10012,2024-01-07,Debit,6183,Healthcare,Wellness
+10013,2024-01-07,Debit,80,Food,Fast Food
+10014,2024-01-08,Debit,1018,Travel,Parking
+10015,2024-01-08,Debit,945,Travel,Ride-share
+10016,2024-01-10,Debit,2084,Bills,Electricity
+10017,2024-01-10,Debit,1000,Bills,Phone
+10018,2024-01-10,Debit,7547,Healthcare,Wellness
+10019,2024-01-10,Debit,763,Food,Delivery
+10020,2024-01-10,Debit,5408,Shopping,Online
+10021,2024-01-10,Debit,8605,Other,Gifts
+10022,2024-01-10,Debit,500,Bills,Water
+10023,2024-01-12,Debit,771,Food,Bakery
+10024,2024-01-13,Debit,3339,Healthcare,Medical
+10025,2024-01-13,Debit,78,Food,Coffee Shop
+10026,2024-01-15,Debit,1500,Entertainment,Streaming
+10027,2024-01-15,Debit,858,Bills,Gas
+10028,2024-01-16,Debit,389,Food,Bakery
+10029,2024-01-16,Debit,4076,Entertainment,Gaming
+10030,2024-01-16,Debit,129,Food,Fast Food
+10031,2024-01-17,Debit,2137,Travel,Flight
+10032,2024-01-17,Debit,4319,Entertainment,Gaming
+10033,2024-01-18,Debit,296,Food,Groceries
+10034,2024-01-20,Debit,72,Travel,Public Transport
+10035,2024-01-20,Debit,500,Bills,Insurance
+10036,2024-01-20,Debit,1862,Travel,Parking
+10037,2024-01-21,Debit,88,Food,Coffee Shop
+10038,2024-01-23,Debit,5718,Shopping,Household
+10039,2024-01-24,Debit,3922,Other,Miscellaneous
+10040,2024-01-24,Debit,3303,Entertainment,Events
+10041,2024-01-25,Debit,370,Food,Bakery
+10042,2024-01-26,Debit,830,Food,Restaurants
+10043,2024-01-26,Debit,9616,Other,Gifts
+10044,2024-01-26,Debit,506,Food,Groceries
+10045,2024-01-26,Debit,138,Food,Coffee Shop
+10046,2024-01-27,Debit,1375,Investment,Mutual Funds
+10047,2024-01-27,Debit,806,Food,Restaurants
+10048,2024-01-28,Debit,682,Food,Groceries
+10049,2024-01-29,Debit,143,Travel,Public Transport
+10050,2024-01-30,Debit,246,Food,Bakery
+10051,2024-01-31,Debit,9574,Healthcare,Wellness
+10052,2024-02-01,Debit,729,Food,Restaurants
+10053,2024-02-01,Debit,2000,Healthcare,Gym
+10054,2024-02-01,Debit,454,Food,Groceries
+10055,2024-02-01,Debit,2000,Bills,Internet
+10056,2024-02-01,Debit,20000,Bills,Rent
+10057,2024-02-01,Credit,57328,Salary,Monthly Salary
+10058,2024-02-02,Debit,57,Food,Fast Food
+10059,2024-02-03,Debit,3690,Healthcare,Medical
+10060,2024-02-04,Debit,3263,Entertainment,Sports
+10061,2024-02-04,Debit,86,Food,Coffee Shop
+10062,2024-02-05,Debit,2000,Investment,SIP
+10063,2024-02-07,Debit,4590,Shopping,Household
+10064,2024-02-08,Debit,150,Food,Fast Food
+10065,2024-02-08,Debit,10000,Shopping,Electronics
+10066,2024-02-09,Debit,679,Food,Delivery
+10067,2024-02-09,Debit,1443,Travel,Ride-share
+10068,2024-02-10,Debit,500,Bills,Water
+10069,2024-02-10,Debit,1545,Travel,Ride-share
+10070,2024-02-10,Debit,4317,Entertainment,Movies
+10071,2024-02-10,Debit,1000,Bills,Phone
+10072,2024-02-10,Debit,71,Food,Fast Food
+10073,2024-02-10,Debit,1865,Bills,Electricity
+10074,2024-02-11,Debit,1396,Travel,Fuel
+10075,2024-02-12,Debit,1323,Travel,Parking
+10076,2024-02-12,Debit,143,Travel,Public Transport
+10077,2024-02-12,Debit,2398,Travel,Hotel
+10078,2024-02-12,Debit,86,Food,Fast Food
+10079,2024-02-13,Debit,10000,Shopping,Online
+10080,2024-02-14,Debit,1900,Travel,Hotel
+10081,2024-02-15,Debit,10000,Other,ATM Withdrawal
+10082,2024-02-15,Debit,1500,Entertainment,Streaming
+10083,2024-02-15,Debit,917,Bills,Gas
+10084,2024-02-15,Debit,105,Travel,Public Transport
+10085,2024-02-15,Debit,5234,Other,Donations
+10086,2024-02-17,Debit,130,Food,Fast Food
+10087,2024-02-18,Debit,1412,Travel,Ride-share
+10088,2024-02-18,Debit,467,Food,Groceries
+10089,2024-02-18,Debit,2242,Travel,Hotel
+10090,2024-02-18,Debit,3480,Entertainment,Events
+10091,2024-02-19,Debit,4402,Healthcare,Medical
+10092,2024-02-20,Debit,125,Food,Coffee Shop
+10093,2024-02-20,Debit,500,Bills,Insurance
+10094,2024-02-21,Debit,75,Food,Coffee Shop
+10095,2024-02-21,Debit,98,Food,Coffee Shop
+10096,2024-02-21,Debit,74,Food,Fast Food
+10097,2024-02-22,Debit,110,Food,Fast Food
+10098,2024-02-22,Debit,144,Food,Fast Food
+10099,2024-02-22,Debit,422,Travel,Taxi
+10100,2024-02-23,Debit,5446,Shopping,Clothing
+10101,2024-02-23,Debit,2500,Travel,Ride-share
+10102,2024-02-24,Debit,6696,Other,Miscellaneous
+10103,2024-02-24,Debit,206,Food,Restaurants
+10104,2024-02-25,Debit,79,Food,Coffee Shop
+10105,2024-02-25,Debit,583,Food,Bakery
+10106,2024-02-25,Debit,643,Food,Restaurants
+10107,2024-02-27,Debit,4173,Healthcare,Wellness
+10108,2024-02-27,Debit,101,Travel,Public Transport
+10109,2024-02-28,Debit,842,Travel,Fuel
+10110,2024-02-28,Debit,58,Food,Coffee Shop
+10111,2024-02-28,Debit,133,Travel,Public Transport
+10112,2024-02-29,Debit,124,Food,Coffee Shop
+10113,2024-02-29,Debit,2233,Shopping,Personal Care
+10114,2024-02-29,Debit,316,Food,Restaurants
+10115,2024-03-01,Debit,2000,Bills,Internet
+10116,2024-03-01,Credit,56010,Salary,Monthly Salary
+10117,2024-03-01,Debit,2000,Healthcare,Gym
+10118,2024-03-01,Debit,217,Food,Restaurants
+10119,2024-03-01,Debit,5109,Shopping,Clothing
+10120,2024-03-01,Debit,20000,Bills,Rent
+10121,2024-03-02,Debit,1509,Travel,Ride-share
+10122,2024-03-02,Debit,146,Food,Coffee Shop
+10123,2024-03-02,Debit,3474,Healthcare,Wellness
+10124,2024-03-02,Debit,2812,Entertainment,Movies
+10125,2024-03-03,Debit,713,Food,Bakery
+10126,2024-03-04,Debit,544,Travel,Parking
+10127,2024-03-04,Debit,1854,Travel,Flight
+10128,2024-03-04,Debit,1854,Shopping,Personal Care
+10129,2024-03-04,Debit,789,Food,Restaurants
+10130,2024-03-05,Debit,2000,Investment,SIP
+10131,2024-03-05,Debit,8044,Other,Donations
+10132,2024-03-05,Debit,522,Food,Bakery
+10133,2024-03-06,Debit,485,Food,Delivery
+10134,2024-03-06,Debit,1728,Entertainment,Hobbies
+10135,2024-03-07,Debit,412,Food,Delivery
+10136,2024-03-07,Debit,811,Travel,Taxi
+10137,2024-03-08,Debit,90,Travel,Public Transport
+10138,2024-03-08,Debit,497,Food,Restaurants
+10139,2024-03-09,Debit,5259,Other,Miscellaneous
+10140,2024-03-10,Debit,4235,Healthcare,Wellness
+10141,2024-03-10,Debit,1000,Bills,Phone
+10142,2024-03-10,Debit,1797,Travel,Parking
+10143,2024-03-10,Debit,2142,Bills,Electricity
+10144,2024-03-10,Debit,500,Bills,Water
+10145,2024-03-11,Debit,1000,Food,Restaurants
+10146,2024-03-13,Debit,454,Food,Bakery
+10147,2024-03-14,Debit,721,Food,Groceries
+10148,2024-03-15,Debit,506,Food,Groceries
+10149,2024-03-15,Debit,1053,Bills,Gas
+10150,2024-03-15,Debit,3034,Entertainment,Movies
+10151,2024-03-15,Debit,1500,Entertainment,Streaming
+10152,2024-03-16,Debit,557,Food,Delivery
+10153,2024-03-16,Debit,1452,Travel,Parking
+10154,2024-03-17,Debit,4587,Healthcare,Wellness
+10155,2024-03-17,Debit,556,Food,Delivery
+10156,2024-03-17,Debit,7645,Healthcare,Wellness
+10157,2024-03-18,Debit,1761,Travel,Ride-share
+10158,2024-03-19,Debit,2398,Travel,Flight
+10159,2024-03-19,Debit,1340,Travel,Taxi
+10160,2024-03-20,Debit,242,Food,Bakery
+10161,2024-03-20,Debit,500,Bills,Insurance
+10162,2024-03-21,Debit,1319,Travel,Parking
+10163,2024-03-21,Debit,4066,Shopping,Online
+10164,2024-03-21,Debit,4306,Healthcare,Wellness
+10165,2024-03-21,Debit,4218,Healthcare,Pharmacy
+10166,2024-03-23,Debit,111,Food,Fast Food
+10167,2024-03-23,Debit,9967,Healthcare,Wellness
+10168,2024-03-23,Debit,54,Food,Coffee Shop
+10169,2024-03-23,Debit,135,Food,Fast Food
+10170,2024-03-24,Debit,1532,Travel,Taxi
+10171,2024-03-24,Debit,94,Travel,Public Transport
+10172,2024-03-24,Debit,943,Travel,Fuel
+10173,2024-03-24,Debit,542,Food,Restaurants
+10174,2024-03-25,Debit,1345,Investment,Stocks
+10175,2024-03-27,Debit,106,Travel,Public Transport
+10176,2024-03-27,Credit,3911,Other,Transfer
+10177,2024-03-27,Debit,102,Food,Fast Food
+10178,2024-03-28,Debit,659,Investment,Mutual Funds
+10179,2024-03-28,Debit,2500,Travel,Taxi
+10180,2024-03-28,Debit,740,Food,Restaurants
+10181,2024-03-28,Debit,333,Food,Bakery
+10182,2024-03-29,Debit,2597,Shopping,Household
+10183,2024-03-30,Debit,2261,Travel,Hotel
+10184,2024-03-31,Debit,75,Food,Fast Food
+10185,2024-04-01,Debit,20000,Bills,Rent
+10186,2024-04-01,Credit,61357,Salary,Monthly Salary
+10187,2024-04-01,Debit,2000,Healthcare,Gym
+10188,2024-04-01,Debit,2000,Bills,Internet
+10189,2024-04-02,Debit,460,Travel,Taxi
+10190,2024-04-02,Debit,705,Food,Delivery
+10191,2024-04-02,Debit,1287,Travel,Parking
+10192,2024-04-03,Debit,393,Food,Bakery
+10193,2024-04-03,Debit,531,Food,Groceries
+10194,2024-04-03,Debit,353,Food,Restaurants
+10195,2024-04-03,Debit,590,Food,Bakery
+10196,2024-04-03,Debit,444,Food,Delivery
+10197,2024-04-03,Debit,5559,Shopping,Personal Care
+10198,2024-04-04,Debit,550,Food,Bakery
+10199,2024-04-04,Debit,2829,Entertainment,Hobbies
+10200,2024-04-05,Debit,369,Food,Restaurants
+10201,2024-04-05,Debit,1279,Investment,Crypto
+10202,2024-04-05,Debit,856,Travel,Taxi
+10203,2024-04-05,Debit,673,Food,Delivery
+10204,2024-04-05,Debit,366,Food,Restaurants
+10205,2024-04-05,Debit,2000,Investment,SIP
+10206,2024-04-05,Debit,4135,Healthcare,Pharmacy
+10207,2024-04-07,Debit,93,Food,Fast Food
+10208,2024-04-07,Debit,3558,Shopping,Electronics
+10209,2024-04-08,Debit,1000,Food,Bakery
+10210,2024-04-09,Debit,1083,Travel,Fuel
+10211,2024-04-09,Debit,792,Food,Bakery
+10212,2024-04-09,Debit,531,Food,Bakery
+10213,2024-04-09,Debit,6068,Other,Gifts
+10214,2024-04-10,Debit,270,Food,Groceries
+10215,2024-04-10,Debit,7735,Healthcare,Pharmacy
+10216,2024-04-10,Debit,1000,Bills,Phone
+10217,2024-04-10,Debit,604,Food,Bakery
+10218,2024-04-10,Debit,500,Bills,Water
+10219,2024-04-10,Debit,5000,Entertainment,Sports
+10220,2024-04-10,Debit,2235,Bills,Electricity
+10221,2024-04-10,Debit,3892,Other,Miscellaneous
+10222,2024-04-11,Debit,234,Food,Restaurants
+10223,2024-04-12,Debit,385,Food,Delivery
+10224,2024-04-12,Debit,679,Food,Restaurants
+10225,2024-04-12,Debit,867,Food,Groceries
+10226,2024-04-13,Debit,5000,Entertainment,Hobbies
+10227,2024-04-14,Debit,8147,Other,Donations
+10228,2024-04-14,Debit,623,Food,Bakery
+10229,2024-04-15,Debit,2424,Travel,Hotel
+10230,2024-04-15,Debit,2384,Travel,Flight
+10231,2024-04-15,Debit,876,Bills,Gas
+10232,2024-04-15,Debit,128,Food,Fast Food
+10233,2024-04-15,Debit,2500,Travel,Ride-share
+10234,2024-04-15,Debit,1500,Entertainment,Streaming
+10235,2024-04-16,Debit,2186,Travel,Hotel
+10236,2024-04-16,Debit,516,Food,Restaurants
+10237,2024-04-17,Debit,6528,Other,Miscellaneous
+10238,2024-04-18,Debit,342,Food,Delivery
+10239,2024-04-18,Debit,2565,Other,ATM Withdrawal
+10240,2024-04-19,Debit,5187,Shopping,Online
+10241,2024-04-19,Debit,6659,Healthcare,Medical
+10242,2024-04-19,Debit,471,Food,Restaurants
+10243,2024-04-19,Debit,1694,Investment,Mutual Funds
+10244,2024-04-19,Debit,142,Food,Bakery
+10245,2024-04-20,Debit,500,Bills,Insurance
+10246,2024-04-20,Debit,1930,Travel,Parking
+10247,2024-04-20,Debit,403,Food,Delivery
+10248,2024-04-20,Debit,681,Food,Delivery
+10249,2024-04-21,Debit,520,Food,Delivery
+10250,2024-04-21,Debit,4851,Shopping,Personal Care
+10251,2024-04-21,Debit,93,Food,Coffee Shop
+10252,2024-04-23,Debit,2429,Travel,Hotel
+10253,2024-04-23,Debit,118,Travel,Public Transport
+10254,2024-04-24,Debit,138,Food,Fast Food
+10255,2024-04-24,Debit,628,Food,Groceries
+10256,2024-04-25,Debit,1297,Entertainment,Movies
+10257,2024-04-26,Debit,1673,Travel,Fuel
+10258,2024-04-26,Debit,655,Food,Delivery
+10259,2024-04-26,Debit,5370,Other,Miscellaneous
+10260,2024-04-27,Debit,430,Food,Bakery
+10261,2024-04-27,Debit,72,Food,Coffee Shop
+10262,2024-04-27,Debit,415,Food,Bakery
+10263,2024-04-27,Debit,145,Food,Coffee Shop
+10264,2024-04-27,Debit,792,Food,Restaurants
+10265,2024-04-28,Credit,7313,Other,Transfer
+10266,2024-04-28,Debit,68,Food,Fast Food
+10267,2024-04-28,Debit,379,Food,Delivery
+10268,2024-04-28,Debit,488,Food,Groceries
+10269,2024-04-29,Credit,4779,Other,Transfer
+10270,2024-04-30,Credit,3333,Other,Transfer
+10271,2024-04-30,Debit,3058,Shopping,Books
+10272,2024-04-30,Debit,773,Food,Bakery
+10273,2024-05-01,Debit,20000,Bills,Rent
+10274,2024-05-01,Debit,2000,Healthcare,Gym
+10275,2024-05-01,Debit,2000,Bills,Internet
+10276,2024-05-01,Debit,126,Food,Coffee Shop
+10277,2024-05-01,Credit,58648,Salary,Monthly Salary
+10278,2024-05-01,Debit,1016,Entertainment,Gaming
+10279,2024-05-01,Debit,4353,Shopping,Household
+10280,2024-05-02,Debit,75,Food,Coffee Shop
+10281,2024-05-03,Debit,555,Food,Restaurants
+10282,2024-05-04,Debit,780,Food,Delivery
+10283,2024-05-04,Debit,3536,Shopping,Personal Care
+10284,2024-05-05,Debit,358,Food,Delivery
+10285,2024-05-05,Debit,415,Food,Delivery
+10286,2024-05-05,Debit,2000,Investment,SIP
+10287,2024-05-05,Debit,1306,Travel,Ride-share
+10288,2024-05-07,Debit,58,Travel,Public Transport
+10289,2024-05-07,Debit,725,Travel,Taxi
+10290,2024-05-07,Debit,259,Food,Bakery
+10291,2024-05-08,Debit,71,Food,Coffee Shop
+10292,2024-05-08,Debit,114,Travel,Public Transport
+10293,2024-05-09,Debit,956,Travel,Fuel
+10294,2024-05-09,Debit,147,Food,Coffee Shop
+10295,2024-05-09,Debit,727,Food,Bakery
+10296,2024-05-10,Debit,1953,Bills,Electricity
+10297,2024-05-10,Debit,2277,Travel,Flight
+10298,2024-05-10,Debit,103,Food,Coffee Shop
+10299,2024-05-10,Debit,500,Bills,Water
+10300,2024-05-10,Debit,1000,Bills,Phone
+10301,2024-05-11,Debit,469,Food,Bakery
+10302,2024-05-11,Debit,1510,Travel,Fuel
+10303,2024-05-12,Debit,748,Travel,Parking
+10304,2024-05-12,Debit,797,Travel,Taxi
+10305,2024-05-12,Debit,1936,Travel,Parking
+10306,2024-05-13,Debit,2028,Travel,Hotel
+10307,2024-05-13,Debit,75,Food,Coffee Shop
+10308,2024-05-14,Debit,617,Food,Groceries
+10309,2024-05-14,Debit,1000,Food,Bakery
+10310,2024-05-15,Debit,859,Bills,Gas
+10311,2024-05-15,Debit,1500,Entertainment,Streaming
+10312,2024-05-15,Debit,138,Food,Coffee Shop
+10313,2024-05-16,Debit,333,Food,Delivery
+10314,2024-05-17,Debit,123,Travel,Public Transport
+10315,2024-05-17,Debit,3994,Shopping,Personal Care
+10316,2024-05-18,Debit,595,Food,Delivery
+10317,2024-05-19,Credit,7556,Other,Transfer
+10318,2024-05-19,Debit,315,Food,Groceries
+10319,2024-05-19,Debit,2000,Investment,Stocks
+10320,2024-05-20,Debit,1942,Travel,Hotel
+10321,2024-05-20,Debit,500,Bills,Insurance
+10322,2024-05-20,Debit,1856,Travel,Taxi
+10323,2024-05-20,Debit,1000,Food,Bakery
+10324,2024-05-20,Debit,4439,Shopping,Clothing
+10325,2024-05-20,Debit,1126,Travel,Fuel
+10326,2024-05-21,Debit,665,Food,Restaurants
+10327,2024-05-21,Debit,99,Food,Coffee Shop
+10328,2024-05-22,Debit,2279,Travel,Hotel
+10329,2024-05-22,Debit,1072,Investment,Stocks
+10330,2024-05-23,Debit,5000,Entertainment,Hobbies
+10331,2024-05-23,Credit,3980,Other,Transfer
+10332,2024-05-23,Debit,143,Travel,Public Transport
+10333,2024-05-23,Debit,4218,Healthcare,Wellness
+10334,2024-05-23,Debit,3013,Shopping,Household
+10335,2024-05-23,Debit,855,Food,Groceries
+10336,2024-05-24,Debit,81,Travel,Public Transport
+10337,2024-05-24,Debit,10000,Other,Donations
+10338,2024-05-24,Debit,286,Food,Restaurants
+10339,2024-05-25,Debit,1000,Food,Bakery
+10340,2024-05-26,Debit,64,Food,Fast Food
+10341,2024-05-26,Debit,2206,Travel,Hotel
+10342,2024-05-27,Debit,544,Food,Delivery
+10343,2024-05-27,Debit,5410,Healthcare,Wellness
+10344,2024-05-29,Debit,3979,Entertainment,Movies
+10345,2024-05-29,Debit,10000,Shopping,Online
+10346,2024-05-29,Debit,391,Food,Restaurants
+10347,2024-05-31,Debit,610,Food,Bakery
+10348,2024-06-01,Debit,145,Food,Coffee Shop
+10349,2024-06-01,Debit,2000,Healthcare,Gym
+10350,2024-06-01,Debit,2457,Entertainment,Events
+10351,2024-06-01,Debit,2000,Bills,Internet
+10352,2024-06-01,Debit,133,Food,Fast Food
+10353,2024-06-01,Debit,54,Food,Coffee Shop
+10354,2024-06-01,Debit,20000,Bills,Rent
+10355,2024-06-01,Credit,58702,Salary,Monthly Salary
+10356,2024-06-02,Debit,2500,Travel,Taxi
+10357,2024-06-02,Debit,5002,Shopping,Electronics
+10358,2024-06-03,Debit,4458,Healthcare,Medical
+10359,2024-06-04,Debit,1969,Travel,Parking
+10360,2024-06-05,Debit,470,Food,Delivery
+10361,2024-06-05,Debit,5000,Entertainment,Gaming
+10362,2024-06-05,Debit,1000,Food,Bakery
+10363,2024-06-05,Debit,2000,Investment,SIP
+10364,2024-06-05,Debit,66,Travel,Public Transport
+10365,2024-06-05,Debit,2319,Travel,Hotel
+10366,2024-06-05,Debit,467,Food,Bakery
+10367,2024-06-06,Debit,500,Investment,Crypto
+10368,2024-06-06,Debit,330,Food,Delivery
+10369,2024-06-06,Debit,858,Travel,Ride-share
+10370,2024-06-06,Debit,1535,Travel,Ride-share
+10371,2024-06-07,Debit,645,Food,Delivery
+10372,2024-06-07,Debit,779,Travel,Fuel
+10373,2024-06-09,Debit,737,Food,Groceries
+10374,2024-06-10,Debit,500,Bills,Water
+10375,2024-06-10,Debit,416,Food,Delivery
+10376,2024-06-10,Debit,1831,Bills,Electricity
+10377,2024-06-10,Debit,1000,Bills,Phone
+10378,2024-06-10,Debit,2213,Travel,Hotel
+10379,2024-06-10,Debit,2282,Travel,Flight
+10380,2024-06-11,Debit,704,Food,Bakery
+10381,2024-06-11,Debit,105,Food,Fast Food
+10382,2024-06-12,Debit,1000,Food,Bakery
+10383,2024-06-12,Debit,500,Travel,Parking
+10384,2024-06-12,Debit,1131,Travel,Fuel
+10385,2024-06-13,Debit,91,Food,Fast Food
+10386,2024-06-13,Debit,95,Travel,Public Transport
+10387,2024-06-14,Debit,1900,Travel,Hotel
+10388,2024-06-15,Debit,1002,Bills,Gas
+10389,2024-06-15,Debit,1500,Entertainment,Streaming
+10390,2024-06-17,Debit,5391,Other,Transfer
+10391,2024-06-18,Debit,271,Food,Delivery
+10392,2024-06-18,Debit,110,Food,Fast Food
+10393,2024-06-19,Debit,473,Food,Bakery
+10394,2024-06-19,Debit,417,Food,Delivery
+10395,2024-06-20,Debit,500,Bills,Insurance
+10396,2024-06-22,Debit,2000,Investment,Crypto
+10397,2024-06-22,Debit,643,Food,Bakery
+10398,2024-06-24,Debit,6087,Healthcare,Medical
+10399,2024-06-25,Debit,2084,Travel,Flight
+10400,2024-06-25,Debit,1982,Other,Miscellaneous
+10401,2024-06-26,Debit,2072,Travel,Taxi
+10402,2024-06-27,Debit,55,Food,Fast Food
+10403,2024-06-27,Debit,107,Food,Coffee Shop
+10404,2024-06-27,Debit,1000,Food,Groceries
+10405,2024-06-28,Debit,496,Food,Delivery
+10406,2024-06-28,Debit,3498,Entertainment,Sports
+10407,2024-06-28,Debit,823,Food,Groceries
+10408,2024-06-28,Debit,492,Food,Restaurants
+10409,2024-06-29,Debit,750,Food,Bakery
+10410,2024-06-29,Debit,930,Food,Bakery
+10411,2024-06-30,Debit,409,Food,Delivery
+10412,2024-07-01,Debit,2000,Bills,Internet
+10413,2024-07-01,Credit,57670,Salary,Monthly Salary
+10414,2024-07-01,Debit,20000,Bills,Rent
+10415,2024-07-01,Debit,2000,Healthcare,Gym
+10416,2024-07-03,Debit,1089,Entertainment,Gaming
+10417,2024-07-03,Debit,371,Food,Restaurants
+10418,2024-07-03,Debit,999,Travel,Taxi
+10419,2024-07-03,Debit,120,Food,Fast Food
+10420,2024-07-04,Debit,359,Food,Restaurants
+10421,2024-07-04,Debit,2270,Travel,Hotel
+10422,2024-07-05,Debit,624,Food,Groceries
+10423,2024-07-05,Debit,1851,Travel,Hotel
+10424,2024-07-05,Debit,2000,Investment,SIP
+10425,2024-07-08,Debit,328,Food,Restaurants
+10426,2024-07-09,Debit,2000,Investment,Crypto
+10427,2024-07-09,Debit,10000,Shopping,Clothing
+10428,2024-07-09,Debit,345,Food,Groceries
+10429,2024-07-09,Debit,915,Travel,Parking
+10430,2024-07-10,Debit,500,Bills,Water
+10431,2024-07-10,Debit,1000,Bills,Phone
+10432,2024-07-10,Debit,1268,Investment,Stocks
+10433,2024-07-10,Debit,1716,Bills,Electricity
+10434,2024-07-10,Debit,6804,Other,Miscellaneous
+10435,2024-07-11,Debit,2500,Entertainment,Hobbies
+10436,2024-07-13,Debit,309,Food,Groceries
+10437,2024-07-13,Debit,1970,Entertainment,Movies
+10438,2024-07-13,Debit,75,Food,Coffee Shop
+10439,2024-07-13,Debit,95,Food,Coffee Shop
+10440,2024-07-13,Debit,72,Food,Fast Food
+10441,2024-07-14,Debit,282,Food,Groceries
+10442,2024-07-14,Debit,101,Food,Coffee Shop
+10443,2024-07-14,Debit,2921,Entertainment,Movies
+10444,2024-07-15,Debit,1500,Entertainment,Streaming
+10445,2024-07-15,Debit,910,Bills,Gas
+10446,2024-07-16,Debit,9789,Shopping,Electronics
+10447,2024-07-16,Debit,446,Food,Delivery
+10448,2024-07-16,Debit,62,Food,Fast Food
+10449,2024-07-16,Debit,4001,Shopping,Clothing
+10450,2024-07-17,Debit,118,Travel,Public Transport
+10451,2024-07-20,Debit,93,Food,Fast Food
+10452,2024-07-20,Debit,500,Bills,Insurance
+10453,2024-07-21,Debit,1000,Food,Delivery
+10454,2024-07-22,Debit,597,Food,Restaurants
+10455,2024-07-22,Debit,337,Food,Groceries
+10456,2024-07-23,Debit,322,Food,Groceries
+10457,2024-07-24,Debit,748,Investment,Stocks
+10458,2024-07-24,Debit,1854,Travel,Hotel
+10459,2024-07-24,Debit,543,Food,Bakery
+10460,2024-07-25,Debit,9073,Shopping,Personal Care
+10461,2024-07-27,Debit,2500,Travel,Parking
+10462,2024-07-27,Debit,105,Food,Fast Food
+10463,2024-07-27,Debit,111,Travel,Public Transport
+10464,2024-07-29,Debit,5152,Shopping,Books
+10465,2024-07-30,Debit,1586,Entertainment,Movies
+10466,2024-07-31,Debit,1568,Travel,Taxi
+10467,2024-07-31,Debit,3816,Healthcare,Wellness
+10468,2024-07-31,Debit,5600,Shopping,Books
+10469,2024-08-01,Debit,20000,Bills,Rent
+10470,2024-08-01,Debit,2000,Healthcare,Gym
+10471,2024-08-01,Credit,64367,Salary,Monthly Salary
+10472,2024-08-01,Debit,2000,Bills,Internet
+10473,2024-08-04,Debit,126,Food,Coffee Shop
+10474,2024-08-05,Debit,130,Food,Fast Food
+10475,2024-08-05,Debit,255,Food,Bakery
+10476,2024-08-05,Debit,2000,Investment,SIP
+10477,2024-08-06,Debit,97,Food,Coffee Shop
+10478,2024-08-06,Debit,623,Food,Delivery
+10479,2024-08-07,Debit,63,Food,Coffee Shop
+10480,2024-08-07,Debit,355,Food,Groceries
+10481,2024-08-07,Debit,145,Travel,Public Transport
+10482,2024-08-07,Credit,2491,Other,Transfer
+10483,2024-08-08,Debit,587,Food,Delivery
+10484,2024-08-09,Debit,679,Food,Bakery
+10485,2024-08-10,Debit,1000,Bills,Phone
+10486,2024-08-10,Debit,500,Bills,Water
+10487,2024-08-10,Debit,2090,Bills,Electricity
+10488,2024-08-10,Debit,2710,Entertainment,Movies
+10489,2024-08-11,Debit,2574,Entertainment,Hobbies
+10490,2024-08-11,Debit,3692,Shopping,Electronics
+10491,2024-08-11,Debit,4777,Healthcare,Wellness
+10492,2024-08-12,Debit,4497,Shopping,Electronics
+10493,2024-08-13,Debit,2368,Travel,Parking
+10494,2024-08-13,Debit,389,Food,Groceries
+10495,2024-08-14,Debit,719,Food,Bakery
+10496,2024-08-14,Debit,6559,Other,Gifts
+10497,2024-08-15,Debit,2088,Travel,Hotel
+10498,2024-08-15,Debit,5376,Other,Donations
+10499,2024-08-15,Debit,1500,Entertainment,Streaming
+10500,2024-08-15,Debit,1013,Bills,Gas
+10501,2024-08-15,Debit,551,Food,Restaurants
+10502,2024-08-16,Debit,2583,Entertainment,Movies
+10503,2024-08-17,Debit,1234,Travel,Fuel
+10504,2024-08-17,Debit,345,Food,Groceries
+10505,2024-08-18,Debit,295,Food,Groceries
+10506,2024-08-18,Debit,2991,Shopping,Online
+10507,2024-08-19,Debit,2056,Travel,Ride-share
+10508,2024-08-19,Debit,88,Food,Coffee Shop
+10509,2024-08-19,Debit,3999,Healthcare,Pharmacy
+10510,2024-08-20,Debit,500,Bills,Insurance
+10511,2024-08-21,Debit,1789,Travel,Flight
+10512,2024-08-21,Debit,852,Food,Restaurants
+10513,2024-08-22,Debit,1000,Food,Groceries
+10514,2024-08-23,Debit,4531,Healthcare,Medical
+10515,2024-08-24,Debit,889,Food,Groceries
+10516,2024-08-24,Debit,332,Food,Delivery
+10517,2024-08-25,Debit,397,Food,Delivery
+10518,2024-08-25,Debit,7436,Shopping,Personal Care
+10519,2024-08-25,Debit,10000,Healthcare,Medical
+10520,2024-08-25,Debit,121,Food,Fast Food
+10521,2024-08-26,Debit,127,Food,Fast Food
+10522,2024-08-27,Debit,129,Food,Fast Food
+10523,2024-08-27,Debit,1912,Entertainment,Hobbies
+10524,2024-08-27,Debit,717,Food,Delivery
+10525,2024-08-28,Debit,620,Food,Delivery
+10526,2024-08-28,Debit,1000,Food,Bakery
+10527,2024-08-28,Debit,64,Food,Coffee Shop
+10528,2024-08-29,Debit,60,Food,Fast Food
+10529,2024-08-29,Debit,4656,Shopping,Clothing
+10530,2024-08-29,Debit,2234,Travel,Hotel
+10531,2024-08-30,Debit,350,Food,Restaurants
+10532,2024-08-31,Debit,117,Food,Fast Food
+10533,2024-08-31,Debit,760,Travel,Parking
+10534,2024-08-31,Debit,82,Food,Coffee Shop
+10535,2024-09-01,Debit,88,Food,Coffee Shop
+10536,2024-09-01,Credit,61480,Salary,Monthly Salary
+10537,2024-09-01,Debit,2000,Healthcare,Gym
+10538,2024-09-01,Debit,2000,Bills,Internet
+10539,2024-09-01,Debit,937,Food,Restaurants
+10540,2024-09-01,Debit,20000,Bills,Rent
+10541,2024-09-02,Debit,306,Food,Restaurants
+10542,2024-09-03,Debit,7036,Healthcare,Medical
+10543,2024-09-03,Debit,1501,Travel,Ride-share
+10544,2024-09-03,Debit,719,Food,Delivery
+10545,2024-09-03,Debit,1308,Entertainment,Gaming
+10546,2024-09-03,Debit,2243,Travel,Flight
+10547,2024-09-04,Debit,572,Food,Bakery
+10548,2024-09-04,Debit,1858,Travel,Flight
+10549,2024-09-05,Debit,3165,Shopping,Clothing
+10550,2024-09-05,Debit,2000,Investment,SIP
+10551,2024-09-05,Debit,2000,Investment,Stocks
+10552,2024-09-05,Debit,1540,Travel,Fuel
+10553,2024-09-06,Debit,806,Food,Delivery
+10554,2024-09-06,Debit,116,Food,Fast Food
+10555,2024-09-07,Debit,1660,Entertainment,Movies
+10556,2024-09-07,Debit,201,Food,Delivery
+10557,2024-09-07,Debit,79,Food,Fast Food
+10558,2024-09-08,Debit,246,Food,Groceries
+10559,2024-09-09,Debit,1192,Investment,Crypto
+10560,2024-09-09,Debit,5106,Shopping,Online
+10561,2024-09-10,Debit,1971,Travel,Ride-share
+10562,2024-09-10,Debit,1878,Entertainment,Sports
+10563,2024-09-10,Debit,1832,Bills,Electricity
+10564,2024-09-10,Debit,1000,Bills,Phone
+10565,2024-09-10,Debit,500,Bills,Water
+10566,2024-09-11,Debit,572,Food,Restaurants
+10567,2024-09-11,Debit,66,Food,Fast Food
+10568,2024-09-11,Debit,2427,Travel,Hotel
+10569,2024-09-12,Debit,405,Food,Bakery
+10570,2024-09-12,Debit,251,Food,Groceries
+10571,2024-09-13,Debit,1662,Travel,Ride-share
+10572,2024-09-13,Debit,1205,Travel,Fuel
+10573,2024-09-13,Debit,391,Food,Delivery
+10574,2024-09-14,Debit,452,Food,Groceries
+10575,2024-09-15,Debit,1500,Entertainment,Streaming
+10576,2024-09-15,Debit,1027,Bills,Gas
+10577,2024-09-15,Debit,2389,Travel,Flight
+10578,2024-09-15,Debit,10000,Healthcare,Pharmacy
+10579,2024-09-16,Debit,639,Travel,Fuel
+10580,2024-09-17,Debit,526,Food,Groceries
+10581,2024-09-17,Debit,4789,Shopping,Clothing
+10582,2024-09-18,Debit,2462,Entertainment,Gaming
+10583,2024-09-18,Debit,145,Food,Fast Food
+10584,2024-09-19,Debit,1126,Travel,Ride-share
+10585,2024-09-19,Debit,67,Food,Fast Food
+10586,2024-09-19,Debit,4930,Shopping,Books
+10587,2024-09-20,Debit,4622,Shopping,Books
+10588,2024-09-20,Debit,500,Bills,Insurance
+10589,2024-09-20,Debit,707,Food,Delivery
+10590,2024-09-22,Debit,320,Food,Restaurants
+10591,2024-09-23,Debit,374,Food,Delivery
+10592,2024-09-24,Debit,2850,Shopping,Books
+10593,2024-09-24,Debit,2657,Entertainment,Hobbies
+10594,2024-09-24,Debit,302,Food,Restaurants
+10595,2024-09-25,Debit,88,Food,Coffee Shop
+10596,2024-09-25,Debit,1945,Travel,Hotel
+10597,2024-09-26,Debit,126,Food,Coffee Shop
+10598,2024-09-27,Debit,10000,Shopping,Personal Care
+10599,2024-09-27,Debit,62,Food,Coffee Shop
+10600,2024-09-27,Debit,905,Food,Bakery
+10601,2024-09-27,Debit,1000,Food,Groceries
+10602,2024-09-28,Debit,788,Food,Delivery
+10603,2024-09-28,Debit,112,Food,Fast Food
+10604,2024-09-28,Debit,2337,Travel,Flight
+10605,2024-09-28,Debit,253,Food,Groceries
+10606,2024-09-30,Debit,3998,Healthcare,Pharmacy
+10607,2024-09-30,Debit,404,Food,Groceries
+10608,2024-09-30,Debit,2500,Travel,Parking
+10609,2024-10-01,Debit,2000,Healthcare,Gym
+10610,2024-10-01,Debit,1347,Entertainment,Sports
+10611,2024-10-01,Debit,20000,Bills,Rent
+10612,2024-10-01,Debit,2000,Bills,Internet
+10613,2024-10-01,Credit,56711,Salary,Monthly Salary
+10614,2024-10-02,Debit,54,Food,Coffee Shop
+10615,2024-10-03,Debit,131,Food,Coffee Shop
+10616,2024-10-03,Debit,1027,Investment,Mutual Funds
+10617,2024-10-04,Debit,6501,Healthcare,Medical
+10618,2024-10-04,Debit,2252,Shopping,Personal Care
+10619,2024-10-05,Debit,2000,Investment,SIP
+10620,2024-10-05,Debit,10000,Shopping,Electronics
+10621,2024-10-05,Debit,82,Food,Fast Food
+10622,2024-10-05,Debit,110,Food,Fast Food
+10623,2024-10-06,Debit,598,Food,Delivery
+10624,2024-10-06,Debit,8290,Healthcare,Pharmacy
+10625,2024-10-06,Debit,551,Food,Restaurants
+10626,2024-10-06,Debit,2500,Travel,Fuel
+10627,2024-10-07,Debit,846,Food,Groceries
+10628,2024-10-07,Debit,5872,Shopping,Online
+10629,2024-10-08,Debit,2164,Travel,Taxi
+10630,2024-10-08,Debit,4942,Healthcare,Wellness
+10631,2024-10-08,Debit,113,Food,Coffee Shop
+10632,2024-10-08,Debit,408,Food,Delivery
+10633,2024-10-08,Debit,3633,Entertainment,Movies
+10634,2024-10-08,Debit,371,Travel,Ride-share
+10635,2024-10-09,Debit,1607,Entertainment,Gaming
+10636,2024-10-09,Debit,51,Food,Coffee Shop
+10637,2024-10-09,Debit,463,Food,Delivery
+10638,2024-10-09,Debit,407,Food,Restaurants
+10639,2024-10-10,Debit,613,Food,Restaurants
+10640,2024-10-10,Debit,500,Bills,Water
+10641,2024-10-10,Debit,1000,Bills,Phone
+10642,2024-10-10,Debit,2186,Bills,Electricity
+10643,2024-10-12,Debit,73,Food,Coffee Shop
+10644,2024-10-12,Debit,114,Food,Fast Food
+10645,2024-10-12,Debit,420,Food,Delivery
+10646,2024-10-12,Debit,452,Food,Delivery
+10647,2024-10-13,Debit,348,Food,Groceries
+10648,2024-10-14,Debit,10000,Healthcare,Wellness
+10649,2024-10-15,Debit,1143,Travel,Parking
+10650,2024-10-15,Debit,852,Bills,Gas
+10651,2024-10-15,Debit,1500,Entertainment,Streaming
+10652,2024-10-16,Debit,2850,Entertainment,Sports
+10653,2024-10-18,Debit,5797,Shopping,Household
+10654,2024-10-19,Debit,136,Travel,Public Transport
+10655,2024-10-19,Debit,1363,Shopping,Books
+10656,2024-10-19,Debit,543,Food,Restaurants
+10657,2024-10-20,Debit,5366,Healthcare,Medical
+10658,2024-10-20,Debit,500,Bills,Insurance
+10659,2024-10-20,Debit,3127,Entertainment,Sports
+10660,2024-10-20,Debit,789,Food,Restaurants
+10661,2024-10-20,Debit,2104,Travel,Hotel
+10662,2024-10-21,Debit,712,Food,Bakery
+10663,2024-10-21,Debit,487,Food,Restaurants
+10664,2024-10-21,Debit,1000,Food,Delivery
+10665,2024-10-21,Debit,4581,Shopping,Online
+10666,2024-10-22,Debit,10000,Shopping,Books
+10667,2024-10-22,Debit,609,Travel,Fuel
+10668,2024-10-22,Debit,791,Travel,Ride-share
+10669,2024-10-23,Debit,2467,Travel,Flight
+10670,2024-10-23,Debit,10000,Shopping,Clothing
+10671,2024-10-23,Debit,592,Travel,Fuel
+10672,2024-10-23,Debit,2430,Entertainment,Gaming
+10673,2024-10-24,Debit,2325,Travel,Parking
+10674,2024-10-25,Debit,121,Food,Coffee Shop
+10675,2024-10-25,Debit,947,Investment,Crypto
+10676,2024-10-25,Debit,537,Food,Groceries
+10677,2024-10-27,Debit,416,Food,Delivery
+10678,2024-10-27,Debit,60,Travel,Public Transport
+10679,2024-10-27,Debit,87,Food,Fast Food
+10680,2024-10-27,Debit,759,Travel,Ride-share
+10681,2024-10-28,Debit,628,Food,Restaurants
+10682,2024-10-29,Debit,63,Food,Coffee Shop
+10683,2024-10-29,Debit,7143,Shopping,Online
+10684,2024-10-29,Debit,793,Food,Groceries
+10685,2024-10-29,Debit,1150,Investment,Mutual Funds
+10686,2024-10-29,Debit,125,Food,Fast Food
+10687,2024-10-29,Debit,349,Food,Bakery
+10688,2024-10-29,Debit,909,Food,Bakery
+10689,2024-10-29,Debit,2341,Travel,Hotel
+10690,2024-10-30,Debit,679,Food,Restaurants
+10691,2024-11-01,Credit,62291,Salary,Monthly Salary
+10692,2024-11-01,Debit,2000,Healthcare,Gym
+10693,2024-11-01,Debit,2000,Bills,Internet
+10694,2024-11-01,Debit,20000,Bills,Rent
+10695,2024-11-02,Debit,410,Food,Groceries
+10696,2024-11-02,Debit,4246,Healthcare,Medical
+10697,2024-11-02,Debit,1321,Travel,Taxi
+10698,2024-11-03,Debit,81,Food,Coffee Shop
+10699,2024-11-03,Debit,3084,Entertainment,Gaming
+10700,2024-11-04,Debit,1278,Travel,Ride-share
+10701,2024-11-04,Debit,571,Travel,Fuel
+10702,2024-11-04,Debit,603,Food,Bakery
+10703,2024-11-05,Debit,2000,Investment,SIP
+10704,2024-11-05,Debit,698,Food,Groceries
+10705,2024-11-05,Debit,545,Food,Bakery
+10706,2024-11-05,Debit,5000,Entertainment,Gaming
+10707,2024-11-05,Debit,690,Food,Restaurants
+10708,2024-11-07,Debit,576,Food,Bakery
+10709,2024-11-07,Debit,71,Food,Fast Food
+10710,2024-11-10,Debit,2183,Bills,Electricity
+10711,2024-11-10,Debit,1000,Bills,Phone
+10712,2024-11-10,Debit,500,Bills,Water
+10713,2024-11-10,Debit,7491,Shopping,Electronics
+10714,2024-11-10,Debit,396,Food,Restaurants
+10715,2024-11-11,Debit,2424,Travel,Hotel
+10716,2024-11-11,Debit,7613,Shopping,Books
+10717,2024-11-11,Debit,1630,Entertainment,Events
+10718,2024-11-12,Debit,85,Food,Fast Food
+10719,2024-11-12,Debit,2338,Travel,Hotel
+10720,2024-11-12,Debit,450,Food,Delivery
+10721,2024-11-13,Debit,2005,Travel,Flight
+10722,2024-11-13,Debit,529,Travel,Parking
+10723,2024-11-13,Debit,573,Food,Restaurants
+10724,2024-11-14,Debit,9374,Shopping,Books
+10725,2024-11-14,Debit,1000,Food,Groceries
+10726,2024-11-15,Debit,271,Food,Bakery
+10727,2024-11-15,Debit,258,Food,Delivery
+10728,2024-11-15,Debit,118,Food,Coffee Shop
+10729,2024-11-15,Debit,6880,Other,Miscellaneous
+10730,2024-11-15,Debit,1059,Bills,Gas
+10731,2024-11-15,Debit,1500,Entertainment,Streaming
+10732,2024-11-16,Debit,770,Travel,Ride-share
+10733,2024-11-16,Debit,1820,Travel,Taxi
+10734,2024-11-16,Debit,2289,Travel,Hotel
+10735,2024-11-17,Debit,1959,Travel,Flight
+10736,2024-11-17,Debit,609,Food,Delivery
+10737,2024-11-17,Debit,289,Food,Restaurants
+10738,2024-11-17,Debit,879,Food,Groceries
+10739,2024-11-17,Debit,804,Travel,Parking
+10740,2024-11-18,Debit,2760,Healthcare,Medical
+10741,2024-11-20,Debit,831,Investment,Stocks
+10742,2024-11-20,Debit,500,Bills,Insurance
+10743,2024-11-20,Debit,283,Food,Bakery
+10744,2024-11-21,Debit,560,Food,Bakery
+10745,2024-11-22,Debit,1033,Travel,Ride-share
+10746,2024-11-22,Debit,1931,Travel,Ride-share
+10747,2024-11-23,Debit,2813,Entertainment,Gaming
+10748,2024-11-23,Debit,2011,Travel,Flight
+10749,2024-11-24,Debit,2506,Entertainment,Gaming
+10750,2024-11-25,Debit,257,Food,Restaurants
+10751,2024-11-26,Debit,75,Food,Coffee Shop
+10752,2024-11-26,Debit,1919,Travel,Flight
+10753,2024-11-27,Debit,10000,Shopping,Electronics
+10754,2024-11-28,Debit,633,Investment,Stocks
+10755,2024-11-28,Debit,1505,Travel,Ride-share
+10756,2024-11-28,Debit,110,Food,Coffee Shop
+10757,2024-11-28,Debit,741,Food,Delivery
+10758,2024-11-28,Debit,2109,Travel,Flight
+10759,2024-11-29,Credit,3391,Other,Transfer
+10760,2024-12-01,Debit,1972,Travel,Flight
+10761,2024-12-01,Debit,2000,Healthcare,Gym
+10762,2024-12-01,Debit,1305,Travel,Fuel
+10763,2024-12-01,Debit,20000,Bills,Rent
+10764,2024-12-01,Debit,2000,Bills,Internet
+10765,2024-12-01,Debit,590,Food,Restaurants
+10766,2024-12-01,Credit,56634,Salary,Monthly Salary
+10767,2024-12-01,Debit,460,Travel,Taxi
+10768,2024-12-01,Debit,3998,Shopping,Personal Care
+10769,2024-12-02,Debit,136,Food,Fast Food
+10770,2024-12-03,Debit,1782,Travel,Fuel
+10771,2024-12-03,Debit,2985,Shopping,Online
+10772,2024-12-04,Debit,3676,Shopping,Electronics
+10773,2024-12-04,Debit,81,Food,Coffee Shop
+10774,2024-12-04,Debit,1111,Entertainment,Movies
+10775,2024-12-04,Debit,97,Food,Coffee Shop
+10776,2024-12-05,Debit,3221,Other,Gifts
+10777,2024-12-05,Debit,321,Food,Groceries
+10778,2024-12-05,Debit,2000,Investment,SIP
+10779,2024-12-05,Debit,1832,Travel,Flight
+10780,2024-12-06,Debit,2588,Entertainment,Events
+10781,2024-12-06,Debit,126,Food,Coffee Shop
+10782,2024-12-06,Debit,619,Food,Delivery
+10783,2024-12-06,Debit,829,Travel,Ride-share
+10784,2024-12-07,Debit,117,Food,Fast Food
+10785,2024-12-07,Debit,194,Food,Restaurants
+10786,2024-12-07,Debit,1876,Travel,Hotel
+10787,2024-12-07,Debit,2105,Travel,Hotel
+10788,2024-12-10,Debit,500,Bills,Water
+10789,2024-12-10,Debit,1000,Bills,Phone
+10790,2024-12-10,Debit,2214,Travel,Hotel
+10791,2024-12-10,Debit,1004,Travel,Taxi
+10792,2024-12-10,Debit,584,Food,Groceries
+10793,2024-12-10,Debit,1904,Bills,Electricity
+10794,2024-12-11,Debit,1395,Shopping,Online
+10795,2024-12-11,Debit,2443,Travel,Hotel
+10796,2024-12-12,Debit,2198,Travel,Flight
+10797,2024-12-12,Debit,1000,Food,Groceries
+10798,2024-12-12,Debit,633,Food,Groceries
+10799,2024-12-13,Debit,1036,Travel,Taxi
+10800,2024-12-13,Debit,759,Food,Groceries
+10801,2024-12-14,Debit,77,Food,Coffee Shop
+10802,2024-12-14,Debit,357,Food,Restaurants
+10803,2024-12-14,Debit,138,Food,Fast Food
+10804,2024-12-14,Debit,7365,Healthcare,Wellness
+10805,2024-12-14,Debit,689,Food,Groceries
+10806,2024-12-15,Debit,897,Bills,Gas
+10807,2024-12-15,Debit,1500,Entertainment,Streaming
+10808,2024-12-15,Debit,1000,Food,Groceries
+10809,2024-12-16,Debit,3566,Shopping,Personal Care
+10810,2024-12-17,Debit,1813,Travel,Flight
+10811,2024-12-17,Debit,548,Food,Restaurants
+10812,2024-12-19,Debit,1027,Travel,Parking
+10813,2024-12-19,Debit,80,Food,Coffee Shop
+10814,2024-12-19,Debit,2500,Travel,Parking
+10815,2024-12-20,Debit,9270,Healthcare,Medical
+10816,2024-12-20,Debit,1262,Entertainment,Gaming
+10817,2024-12-20,Debit,500,Bills,Insurance
+10818,2024-12-21,Debit,93,Food,Coffee Shop
+10819,2024-12-22,Debit,5574,Other,Miscellaneous
+10820,2024-12-22,Debit,10000,Other,Gifts
+10821,2024-12-22,Debit,414,Food,Delivery
+10822,2024-12-23,Debit,380,Food,Groceries
+10823,2024-12-23,Debit,956,Travel,Fuel
+10824,2024-12-23,Debit,123,Travel,Public Transport
+10825,2024-12-24,Debit,87,Food,Coffee Shop
+10826,2024-12-24,Debit,1000,Food,Restaurants
+10827,2024-12-26,Debit,1000,Food,Groceries
+10828,2024-12-27,Debit,1306,Travel,Taxi
+10829,2024-12-28,Debit,2818,Shopping,Books
+10830,2024-12-28,Debit,1187,Travel,Fuel
+10831,2024-12-28,Debit,812,Food,Bakery
+10832,2024-12-30,Debit,9375,Healthcare,Wellness
+10833,2024-12-31,Debit,1801,Travel,Hotel
+10834,2025-01-01,Credit,64895,Salary,Monthly Salary
+10835,2025-01-01,Debit,2000,Bills,Internet
+10836,2025-01-01,Debit,20000,Bills,Rent
+10837,2025-01-01,Debit,2000,Healthcare,Gym
+10838,2025-01-03,Debit,2323,Entertainment,Hobbies
+10839,2025-01-03,Debit,1412,Investment,Crypto
+10840,2025-01-03,Debit,7499,Shopping,Books
+10841,2025-01-04,Debit,920,Travel,Taxi
+10842,2025-01-04,Debit,1981,Travel,Fuel
+10843,2025-01-04,Debit,1000,Food,Restaurants
+10844,2025-01-05,Debit,556,Travel,Taxi
+10845,2025-01-05,Debit,2000,Investment,SIP
+10846,2025-01-05,Debit,2768,Shopping,Clothing
+10847,2025-01-05,Debit,1000,Food,Restaurants
+10848,2025-01-05,Debit,751,Travel,Fuel
+10849,2025-01-05,Debit,1860,Travel,Parking
+10850,2025-01-05,Debit,2500,Travel,Fuel
+10851,2025-01-05,Debit,307,Food,Bakery
+10852,2025-01-06,Debit,1875,Travel,Taxi
+10853,2025-01-06,Debit,68,Travel,Public Transport
+10854,2025-01-07,Debit,1243,Travel,Taxi
+10855,2025-01-07,Debit,142,Travel,Public Transport
+10856,2025-01-09,Debit,1858,Travel,Hotel
+10857,2025-01-09,Debit,100,Food,Coffee Shop
+10858,2025-01-10,Debit,553,Travel,Parking
+10859,2025-01-10,Debit,1000,Bills,Phone
+10860,2025-01-10,Debit,500,Bills,Water
+10861,2025-01-10,Debit,2274,Bills,Electricity
+10862,2025-01-11,Debit,140,Food,Coffee Shop
+10863,2025-01-11,Debit,634,Travel,Parking
+10864,2025-01-12,Debit,780,Food,Bakery
+10865,2025-01-12,Debit,902,Food,Delivery
+10866,2025-01-13,Debit,105,Food,Coffee Shop
+10867,2025-01-14,Debit,593,Food,Restaurants
+10868,2025-01-14,Debit,1000,Food,Groceries
+10869,2025-01-14,Debit,4272,Entertainment,Events
+10870,2025-01-15,Debit,951,Bills,Gas
+10871,2025-01-15,Debit,1500,Entertainment,Streaming
+10872,2025-01-15,Debit,1733,Travel,Taxi
+10873,2025-01-16,Debit,848,Food,Restaurants
+10874,2025-01-17,Debit,125,Travel,Public Transport
+10875,2025-01-17,Debit,598,Travel,Ride-share
+10876,2025-01-17,Debit,222,Food,Restaurants
+10877,2025-01-18,Debit,2500,Travel,Ride-share
+10878,2025-01-18,Debit,3230,Entertainment,Sports
+10879,2025-01-18,Debit,2942,Other,Gifts
+10880,2025-01-19,Debit,9869,Healthcare,Pharmacy
+10881,2025-01-19,Debit,4168,Entertainment,Movies
+10882,2025-01-19,Debit,360,Food,Delivery
+10883,2025-01-20,Debit,500,Bills,Insurance
+10884,2025-01-20,Debit,3478,Entertainment,Gaming
+10885,2025-01-20,Debit,671,Food,Delivery
+10886,2025-01-20,Debit,146,Travel,Public Transport
+10887,2025-01-21,Debit,1000,Food,Delivery
+10888,2025-01-21,Debit,1558,Investment,Mutual Funds
+10889,2025-01-23,Debit,3628,Healthcare,Pharmacy
+10890,2025-01-23,Debit,1748,Entertainment,Gaming
+10891,2025-01-23,Debit,125,Food,Fast Food
+10892,2025-01-23,Debit,442,Food,Bakery
+10893,2025-01-23,Debit,617,Food,Groceries
+10894,2025-01-24,Debit,1729,Investment,Mutual Funds
+10895,2025-01-24,Debit,1021,Travel,Ride-share
+10896,2025-01-24,Debit,1000,Investment,Stocks
+10897,2025-01-25,Debit,150,Food,Coffee Shop
+10898,2025-01-25,Debit,256,Food,Delivery
+10899,2025-01-25,Debit,86,Food,Coffee Shop
+10900,2025-01-26,Debit,1298,Travel,Taxi
+10901,2025-01-27,Debit,9915,Shopping,Electronics
+10902,2025-01-28,Debit,1000,Food,Delivery
+10903,2025-01-28,Debit,10000,Healthcare,Wellness
+10904,2025-01-28,Debit,475,Food,Delivery
+10905,2025-01-28,Debit,1825,Travel,Parking
+10906,2025-01-30,Debit,147,Travel,Public Transport
+10907,2025-01-30,Debit,2259,Travel,Taxi
+10908,2025-01-30,Debit,2500,Travel,Fuel
+10909,2025-01-31,Debit,664,Travel,Parking
+10910,2025-02-01,Credit,61400,Salary,Monthly Salary
+10911,2025-02-01,Debit,2000,Healthcare,Gym
+10912,2025-02-01,Debit,7577,Other,Gifts
+10913,2025-02-01,Debit,3208,Entertainment,Gaming
+10914,2025-02-01,Debit,2000,Bills,Internet
+10915,2025-02-01,Debit,20000,Bills,Rent
+10916,2025-02-02,Debit,1637,Other,ATM Withdrawal
+10917,2025-02-02,Debit,117,Food,Fast Food
+10918,2025-02-03,Debit,2103,Travel,Hotel
+10919,2025-02-03,Debit,1000,Food,Delivery
+10920,2025-02-03,Debit,143,Food,Fast Food
+10921,2025-02-05,Debit,2000,Investment,SIP
+10922,2025-02-06,Debit,584,Investment,Stocks
+10923,2025-02-06,Debit,831,Travel,Taxi
+10924,2025-02-07,Debit,129,Travel,Public Transport
+10925,2025-02-07,Debit,106,Food,Coffee Shop
+10926,2025-02-08,Debit,937,Food,Groceries
+10927,2025-02-08,Debit,10000,Shopping,Online
+10928,2025-02-09,Debit,1372,Investment,Stocks
+10929,2025-02-09,Debit,403,Travel,Taxi
+10930,2025-02-09,Debit,4400,Other,ATM Withdrawal
+10931,2025-02-09,Debit,51,Food,Fast Food
+10932,2025-02-10,Debit,500,Bills,Water
+10933,2025-02-10,Debit,1000,Bills,Phone
+10934,2025-02-10,Debit,2052,Entertainment,Gaming
+10935,2025-02-10,Debit,1756,Bills,Electricity
+10936,2025-02-10,Debit,2307,Travel,Hotel
+10937,2025-02-10,Debit,87,Food,Coffee Shop
+10938,2025-02-10,Debit,7390,Healthcare,Pharmacy
+10939,2025-02-11,Debit,731,Food,Bakery
+10940,2025-02-11,Debit,10000,Healthcare,Medical
+10941,2025-02-11,Debit,1336,Investment,Stocks
+10942,2025-02-12,Debit,551,Food,Delivery
+10943,2025-02-13,Debit,477,Food,Restaurants
+10944,2025-02-13,Debit,432,Food,Bakery
+10945,2025-02-13,Debit,2080,Travel,Flight
+10946,2025-02-14,Debit,623,Food,Groceries
+10947,2025-02-14,Debit,2299,Travel,Taxi
+10948,2025-02-14,Debit,54,Food,Coffee Shop
+10949,2025-02-15,Debit,3619,Entertainment,Sports
+10950,2025-02-15,Debit,2500,Travel,Taxi
+10951,2025-02-15,Debit,879,Bills,Gas
+10952,2025-02-15,Debit,1500,Entertainment,Streaming
+10953,2025-02-16,Debit,100,Food,Fast Food
+10954,2025-02-16,Debit,579,Food,Bakery
+10955,2025-02-16,Debit,55,Travel,Public Transport
+10956,2025-02-18,Debit,2415,Travel,Fuel
+10957,2025-02-18,Debit,283,Food,Bakery
+10958,2025-02-18,Debit,2230,Travel,Flight
+10959,2025-02-18,Debit,695,Food,Bakery
+10960,2025-02-19,Debit,6556,Shopping,Books
+10961,2025-02-19,Debit,133,Food,Coffee Shop
+10962,2025-02-19,Debit,4028,Healthcare,Pharmacy
+10963,2025-02-19,Debit,4423,Shopping,Household
+10964,2025-02-19,Debit,95,Travel,Public Transport
+10965,2025-02-20,Debit,4611,Shopping,Books
+10966,2025-02-20,Debit,125,Food,Coffee Shop
+10967,2025-02-20,Debit,637,Food,Delivery
+10968,2025-02-20,Debit,500,Bills,Insurance
+10969,2025-02-22,Debit,90,Food,Fast Food
+10970,2025-02-22,Debit,364,Food,Delivery
+10971,2025-02-22,Debit,2000,Investment,Crypto
+10972,2025-02-22,Debit,10000,Other,Gifts
+10973,2025-02-22,Debit,374,Food,Groceries
+10974,2025-02-24,Debit,2057,Travel,Hotel
+10975,2025-02-24,Debit,118,Travel,Public Transport
+10976,2025-02-24,Debit,421,Food,Groceries
+10977,2025-02-26,Debit,10000,Healthcare,Medical
+10978,2025-02-27,Debit,1213,Entertainment,Movies
+10979,2025-02-27,Debit,1815,Investment,Stocks
+10980,2025-02-27,Debit,2755,Shopping,Online
+10981,2025-02-27,Debit,5000,Entertainment,Events
+10982,2025-02-27,Debit,133,Food,Fast Food
+10983,2025-02-28,Debit,1111,Travel,Fuel
+10984,2025-02-28,Debit,72,Travel,Public Transport
+10985,2025-02-28,Debit,447,Food,Delivery
+10986,2025-03-01,Credit,60570,Salary,Monthly Salary
+10987,2025-03-01,Debit,4786,Shopping,Books
+10988,2025-03-01,Debit,510,Food,Delivery
+10989,2025-03-01,Debit,6911,Other,ATM Withdrawal
+10990,2025-03-01,Debit,2000,Healthcare,Gym
+10991,2025-03-01,Debit,20000,Bills,Rent
+10992,2025-03-01,Debit,2000,Bills,Internet
+10993,2025-03-01,Debit,6071,Other,Gifts
+10994,2025-03-02,Debit,742,Travel,Ride-share
+10995,2025-03-02,Debit,4378,Entertainment,Hobbies
+10996,2025-03-02,Debit,1506,Travel,Taxi
+10997,2025-03-02,Debit,2253,Entertainment,Sports
+10998,2025-03-03,Debit,1969,Entertainment,Events
+10999,2025-03-03,Debit,9221,Shopping,Electronics
+11000,2025-03-04,Debit,1781,Investment,Crypto
+11001,2025-03-05,Debit,2000,Investment,SIP
+11002,2025-03-05,Debit,1565,Entertainment,Hobbies
+11003,2025-03-05,Debit,478,Food,Bakery
+11004,2025-03-05,Debit,2345,Travel,Flight
+11005,2025-03-06,Debit,284,Food,Delivery
+11006,2025-03-06,Debit,718,Food,Delivery
+11007,2025-03-06,Debit,425,Food,Bakery
+11008,2025-03-07,Debit,61,Food,Coffee Shop
+11009,2025-03-07,Debit,133,Food,Fast Food
+11010,2025-03-08,Debit,56,Food,Coffee Shop
+11011,2025-03-08,Debit,496,Food,Restaurants
+11012,2025-03-09,Credit,7323,Other,Transfer
+11013,2025-03-09,Debit,54,Food,Fast Food
+11014,2025-03-09,Debit,1947,Entertainment,Events
+11015,2025-03-09,Debit,575,Food,Bakery
+11016,2025-03-09,Debit,1196,Travel,Fuel
+11017,2025-03-10,Debit,994,Food,Bakery
+11018,2025-03-10,Debit,2299,Travel,Parking
+11019,2025-03-10,Debit,2209,Bills,Electricity
+11020,2025-03-10,Debit,1000,Bills,Phone
+11021,2025-03-10,Debit,1690,Travel,Fuel
+11022,2025-03-10,Debit,2800,Entertainment,Hobbies
+11023,2025-03-10,Debit,500,Bills,Water
+11024,2025-03-11,Debit,293,Food,Restaurants
+11025,2025-03-12,Debit,828,Travel,Ride-share
+11026,2025-03-12,Debit,347,Food,Bakery
+11027,2025-03-15,Debit,107,Food,Fast Food
+11028,2025-03-15,Debit,1500,Entertainment,Streaming
+11029,2025-03-15,Debit,923,Travel,Fuel
+11030,2025-03-15,Debit,147,Food,Coffee Shop
+11031,2025-03-15,Debit,727,Travel,Taxi
+11032,2025-03-15,Debit,1031,Bills,Gas
+11033,2025-03-16,Credit,1377,Investment,Crypto
+11034,2025-03-16,Debit,1741,Travel,Ride-share
+11035,2025-03-16,Debit,921,Travel,Taxi
+11036,2025-03-16,Debit,3137,Healthcare,Medical
+11037,2025-03-16,Debit,1000,Food,Restaurants
+11038,2025-03-17,Debit,92,Food,Fast Food
+11039,2025-03-18,Debit,804,Food,Bakery
+11040,2025-03-20,Debit,500,Bills,Insurance
+11041,2025-03-21,Debit,1416,Investment,Stocks
+11042,2025-03-21,Debit,114,Travel,Public Transport
+11043,2025-03-22,Debit,1354,Travel,Fuel
+11044,2025-03-22,Debit,1351,Travel,Taxi
+11045,2025-03-22,Debit,467,Food,Groceries
+11046,2025-03-23,Debit,978,Travel,Fuel
+11047,2025-03-23,Debit,1829,Travel,Hotel
+11048,2025-03-24,Debit,120,Food,Coffee Shop
+11049,2025-03-24,Debit,1254,Travel,Parking
+11050,2025-03-24,Debit,810,Travel,Fuel
+11051,2025-03-24,Debit,1209,Travel,Fuel
+11052,2025-03-26,Debit,661,Food,Groceries
+11053,2025-03-26,Debit,1038,Travel,Parking
+11054,2025-03-28,Debit,484,Food,Bakery
+11055,2025-03-28,Debit,68,Food,Fast Food
+11056,2025-03-28,Debit,1977,Travel,Flight
+11057,2025-03-28,Debit,6410,Shopping,Clothing
+11058,2025-03-28,Debit,121,Food,Coffee Shop
+11059,2025-03-28,Debit,3201,Shopping,Books
+11060,2025-03-28,Debit,831,Food,Groceries
+11061,2025-03-29,Debit,136,Food,Fast Food
+11062,2025-03-29,Debit,132,Food,Coffee Shop
+11063,2025-03-29,Debit,60,Food,Coffee Shop
+11064,2025-03-30,Debit,95,Travel,Public Transport
+11065,2025-03-30,Debit,1000,Food,Groceries
+11066,2025-03-30,Debit,593,Food,Delivery
+11067,2025-04-01,Debit,517,Travel,Ride-share
+11068,2025-04-01,Debit,948,Travel,Taxi
+11069,2025-04-01,Debit,5660,Shopping,Clothing
+11070,2025-04-01,Debit,20000,Bills,Rent
+11071,2025-04-01,Debit,2000,Bills,Internet
+11072,2025-04-01,Credit,63429,Salary,Monthly Salary
+11073,2025-04-01,Debit,2000,Healthcare,Gym
+11074,2025-04-02,Debit,98,Food,Coffee Shop
+11075,2025-04-02,Debit,7531,Shopping,Online
+11076,2025-04-04,Debit,2898,Entertainment,Sports
+11077,2025-04-04,Debit,967,Travel,Ride-share
+11078,2025-04-04,Debit,1701,Travel,Taxi
+11079,2025-04-04,Debit,101,Food,Fast Food
+11080,2025-04-05,Debit,87,Travel,Public Transport
+11081,2025-04-05,Debit,956,Travel,Parking
+11082,2025-04-05,Debit,3161,Entertainment,Events
+11083,2025-04-05,Debit,2000,Investment,SIP
+11084,2025-04-06,Debit,7798,Other,Donations
+11085,2025-04-06,Debit,2162,Travel,Hotel
+11086,2025-04-07,Debit,528,Food,Restaurants
+11087,2025-04-07,Debit,706,Travel,Fuel
+11088,2025-04-08,Debit,7840,Other,Miscellaneous
+11089,2025-04-09,Debit,66,Food,Fast Food
+11090,2025-04-09,Debit,117,Food,Fast Food
+11091,2025-04-09,Debit,81,Food,Fast Food
+11092,2025-04-09,Debit,4377,Shopping,Electronics
+11093,2025-04-09,Debit,379,Food,Groceries
+11094,2025-04-10,Debit,92,Food,Fast Food
+11095,2025-04-10,Debit,2184,Bills,Electricity
+11096,2025-04-10,Debit,500,Bills,Water
+11097,2025-04-10,Debit,84,Food,Fast Food
+11098,2025-04-10,Debit,2809,Shopping,Books
+11099,2025-04-10,Debit,1000,Bills,Phone
+11100,2025-04-11,Debit,2808,Healthcare,Pharmacy
+11101,2025-04-11,Debit,541,Food,Delivery
+11102,2025-04-11,Credit,7585,Other,Transfer
+11103,2025-04-12,Debit,6123,Shopping,Personal Care
+11104,2025-04-12,Debit,64,Food,Coffee Shop
+11105,2025-04-12,Debit,1013,Travel,Ride-share
+11106,2025-04-13,Debit,1669,Travel,Fuel
+11107,2025-04-13,Debit,874,Travel,Fuel
+11108,2025-04-13,Debit,6104,Other,Donations
+11109,2025-04-14,Debit,5537,Shopping,Books
+11110,2025-04-14,Debit,150,Food,Coffee Shop
+11111,2025-04-15,Debit,2500,Travel,Taxi
+11112,2025-04-15,Debit,1649,Travel,Fuel
+11113,2025-04-15,Debit,1069,Bills,Gas
+11114,2025-04-15,Debit,1500,Entertainment,Streaming
+11115,2025-04-15,Debit,668,Food,Bakery
+11116,2025-04-16,Debit,81,Food,Fast Food
+11117,2025-04-17,Debit,1961,Travel,Hotel
+11118,2025-04-17,Debit,1210,Investment,Crypto
+11119,2025-04-18,Debit,2676,Shopping,Books
+11120,2025-04-18,Credit,3913,Other,Transfer
+11121,2025-04-19,Debit,3460,Entertainment,Movies
+11122,2025-04-19,Debit,1774,Entertainment,Hobbies
+11123,2025-04-19,Debit,10000,Other,Donations
+11124,2025-04-20,Debit,2173,Travel,Hotel
+11125,2025-04-20,Debit,500,Bills,Insurance
+11126,2025-04-20,Debit,2109,Travel,Flight
+11127,2025-04-20,Debit,335,Food,Bakery
+11128,2025-04-21,Debit,352,Food,Delivery
+11129,2025-04-21,Debit,344,Food,Delivery
+11130,2025-04-21,Debit,850,Food,Bakery
+11131,2025-04-22,Debit,1474,Travel,Fuel
+11132,2025-04-22,Debit,2007,Entertainment,Hobbies
+11133,2025-04-23,Debit,285,Food,Bakery
+11134,2025-04-24,Debit,5165,Shopping,Online
+11135,2025-04-24,Debit,317,Food,Groceries
+11136,2025-04-24,Debit,191,Food,Bakery
+11137,2025-04-26,Debit,104,Travel,Public Transport
+11138,2025-04-26,Debit,608,Food,Groceries
+11139,2025-04-27,Debit,2386,Travel,Hotel
+11140,2025-04-28,Debit,1563,Entertainment,Movies
+11141,2025-04-28,Debit,104,Food,Restaurants
+11142,2025-04-28,Debit,2747,Shopping,Clothing
+11143,2025-04-29,Debit,348,Food,Bakery
+11144,2025-04-29,Debit,521,Food,Delivery
+11145,2025-04-29,Debit,1000,Food,Bakery
+11146,2025-04-30,Debit,357,Food,Groceries
+11147,2025-05-01,Debit,67,Food,Coffee Shop
+11148,2025-05-01,Credit,62760,Salary,Monthly Salary
+11149,2025-05-01,Debit,2000,Bills,Internet
+11150,2025-05-01,Debit,1000,Food,Delivery
+11151,2025-05-01,Debit,20000,Bills,Rent
+11152,2025-05-01,Debit,1762,Travel,Hotel
+11153,2025-05-01,Debit,2000,Healthcare,Gym
+11154,2025-05-02,Debit,567,Food,Bakery
+11155,2025-05-02,Debit,2476,Shopping,Household
+11156,2025-05-04,Debit,6180,Shopping,Electronics
+11157,2025-05-04,Debit,466,Food,Groceries
+11158,2025-05-05,Debit,5398,Shopping,Electronics
+11159,2025-05-05,Debit,767,Food,Delivery
+11160,2025-05-05,Debit,2586,Entertainment,Gaming
+11161,2025-05-05,Debit,617,Food,Delivery
+11162,2025-05-05,Debit,2000,Investment,SIP
+11163,2025-05-05,Debit,2676,Entertainment,Gaming
+11164,2025-05-05,Debit,1052,Travel,Taxi
+11165,2025-05-06,Debit,782,Travel,Ride-share
+11166,2025-05-06,Debit,7547,Shopping,Online
+11167,2025-05-09,Debit,1448,Travel,Ride-share
+11168,2025-05-10,Debit,7282,Shopping,Electronics
+11169,2025-05-10,Debit,999,Travel,Parking
+11170,2025-05-10,Debit,2000,Investment,Mutual Funds
+11171,2025-05-10,Debit,500,Bills,Water
+11172,2025-05-10,Debit,2022,Bills,Electricity
+11173,2025-05-10,Debit,1000,Bills,Phone
+11174,2025-05-10,Debit,122,Food,Fast Food
+11175,2025-05-11,Debit,880,Food,Groceries
+11176,2025-05-12,Debit,891,Food,Delivery
+11177,2025-05-12,Debit,776,Food,Groceries
+11178,2025-05-12,Debit,1236,Travel,Ride-share
+11179,2025-05-12,Debit,259,Food,Groceries
+11180,2025-05-13,Debit,374,Food,Restaurants
+11181,2025-05-14,Debit,576,Food,Restaurants
+11182,2025-05-14,Debit,5405,Healthcare,Medical
+11183,2025-05-14,Debit,54,Food,Coffee Shop
+11184,2025-05-15,Debit,5545,Shopping,Online
+11185,2025-05-15,Debit,1500,Entertainment,Streaming
+11186,2025-05-15,Debit,1142,Bills,Gas
+11187,2025-05-15,Debit,10000,Other,Transfer
+11188,2025-05-16,Debit,2172,Travel,Flight
+11189,2025-05-16,Debit,5666,Other,Miscellaneous
+11190,2025-05-16,Debit,91,Food,Coffee Shop
+11191,2025-05-16,Debit,5490,Other,Donations
+11192,2025-05-16,Debit,281,Food,Restaurants
+11193,2025-05-17,Debit,448,Food,Groceries
+11194,2025-05-17,Debit,565,Travel,Ride-share
+11195,2025-05-17,Debit,7088,Healthcare,Medical
+11196,2025-05-17,Debit,541,Food,Delivery
+11197,2025-05-18,Debit,547,Food,Groceries
+11198,2025-05-19,Debit,1395,Investment,Mutual Funds
+11199,2025-05-20,Debit,500,Bills,Insurance
+11200,2025-05-20,Debit,377,Food,Delivery
+11201,2025-05-20,Debit,696,Travel,Fuel
+11202,2025-05-21,Debit,68,Food,Fast Food
+11203,2025-05-22,Debit,116,Food,Fast Food
+11204,2025-05-22,Debit,3019,Shopping,Electronics
+11205,2025-05-22,Debit,528,Food,Groceries
+11206,2025-05-23,Debit,2123,Travel,Flight
+11207,2025-05-24,Debit,2047,Entertainment,Sports
+11208,2025-05-25,Debit,279,Food,Bakery
+11209,2025-05-25,Debit,100,Travel,Public Transport
+11210,2025-05-26,Debit,2578,Healthcare,Pharmacy
+11211,2025-05-27,Credit,5279,Other,Transfer
+11212,2025-05-28,Debit,639,Travel,Ride-share
+11213,2025-05-28,Debit,2209,Travel,Hotel
+11214,2025-05-29,Debit,1792,Travel,Hotel
+11215,2025-05-29,Debit,4383,Shopping,Books
+11216,2025-05-29,Debit,7707,Healthcare,Wellness
+11217,2025-05-30,Debit,318,Food,Restaurants
+11218,2025-05-31,Debit,1000,Food,Delivery
+11219,2025-06-01,Debit,10000,Shopping,Electronics
+11220,2025-06-01,Debit,93,Food,Coffee Shop
+11221,2025-06-01,Debit,2000,Healthcare,Gym
+11222,2025-06-01,Credit,57290,Salary,Monthly Salary
+11223,2025-06-01,Debit,2000,Bills,Internet
+11224,2025-06-01,Debit,20000,Bills,Rent
+11225,2025-06-01,Debit,2500,Travel,Parking
+11226,2025-06-02,Debit,460,Food,Bakery
+11227,2025-06-02,Debit,63,Food,Fast Food
+11228,2025-06-03,Debit,2491,Travel,Hotel
+11229,2025-06-03,Debit,2155,Travel,Hotel
+11230,2025-06-03,Debit,70,Food,Coffee Shop
+11231,2025-06-03,Debit,202,Food,Groceries
+11232,2025-06-05,Debit,2000,Investment,SIP
+11233,2025-06-05,Debit,1620,Travel,Taxi
+11234,2025-06-06,Debit,1836,Travel,Flight
+11235,2025-06-06,Debit,2500,Travel,Ride-share
+11236,2025-06-08,Debit,541,Travel,Fuel
+11237,2025-06-09,Debit,1862,Travel,Ride-share
+11238,2025-06-09,Debit,5103,Shopping,Household
+11239,2025-06-10,Debit,500,Bills,Water
+11240,2025-06-10,Debit,1000,Food,Groceries
+11241,2025-06-10,Debit,1000,Bills,Phone
+11242,2025-06-10,Debit,1927,Bills,Electricity
+11243,2025-06-11,Debit,4360,Shopping,Online
+11244,2025-06-11,Debit,1070,Travel,Parking
+11245,2025-06-11,Debit,1159,Travel,Parking
+11246,2025-06-13,Debit,400,Food,Delivery
+11247,2025-06-13,Debit,63,Travel,Public Transport
+11248,2025-06-14,Debit,765,Food,Delivery
+11249,2025-06-14,Debit,112,Food,Fast Food
+11250,2025-06-14,Debit,1696,Travel,Parking
+11251,2025-06-15,Debit,130,Travel,Public Transport
+11252,2025-06-15,Debit,1500,Entertainment,Streaming
+11253,2025-06-15,Debit,6212,Other,Donations
+11254,2025-06-15,Debit,135,Travel,Public Transport
+11255,2025-06-15,Debit,1016,Bills,Gas
+11256,2025-06-15,Debit,676,Food,Bakery
+11257,2025-06-16,Debit,119,Food,Coffee Shop
+11258,2025-06-17,Debit,96,Food,Fast Food
+11259,2025-06-17,Debit,1864,Entertainment,Gaming
+11260,2025-06-17,Debit,396,Food,Delivery
+11261,2025-06-18,Debit,665,Food,Bakery
+11262,2025-06-20,Credit,32035,Salary,Bonus
+11263,2025-06-20,Debit,453,Travel,Taxi
+11264,2025-06-20,Debit,10000,Healthcare,Medical
+11265,2025-06-20,Debit,500,Bills,Insurance
+11266,2025-06-20,Debit,5977,Healthcare,Medical
+11267,2025-06-20,Debit,2291,Travel,Flight
+11268,2025-06-20,Debit,3941,Shopping,Household
+11269,2025-06-21,Debit,78,Food,Coffee Shop
+11270,2025-06-21,Debit,1773,Entertainment,Events
+11271,2025-06-22,Debit,2411,Shopping,Household
+11272,2025-06-22,Debit,580,Food,Delivery
+11273,2025-06-22,Debit,1270,Travel,Taxi
+11274,2025-06-23,Debit,986,Travel,Fuel
+11275,2025-06-23,Debit,1981,Travel,Flight
+11276,2025-06-23,Debit,1640,Travel,Fuel
+11277,2025-06-24,Debit,92,Food,Coffee Shop
+11278,2025-06-24,Debit,7108,Shopping,Books
+11279,2025-06-24,Debit,899,Travel,Parking
+11280,2025-06-24,Debit,4049,Healthcare,Medical
+11281,2025-06-25,Debit,1000,Food,Groceries
+11282,2025-06-25,Debit,1866,Entertainment,Gaming
+11283,2025-06-25,Debit,147,Food,Fast Food
+11284,2025-06-26,Debit,8997,Healthcare,Wellness
+11285,2025-06-26,Debit,3869,Entertainment,Gaming
+11286,2025-06-27,Debit,335,Food,Restaurants
+11287,2025-06-27,Debit,2295,Shopping,Electronics
+11288,2025-06-27,Debit,803,Food,Delivery
+11289,2025-06-27,Debit,836,Food,Restaurants
+11290,2025-06-27,Debit,110,Food,Coffee Shop
+11291,2025-06-29,Debit,1923,Travel,Flight
+11292,2025-06-29,Debit,1000,Food,Restaurants
+11293,2025-06-30,Debit,926,Food,Restaurants
+11294,2025-06-30,Debit,1000,Food,Delivery
+11295,2025-06-30,Debit,700,Travel,Ride-share
+11296,2025-07-01,Debit,2000,Bills,Internet
+11297,2025-07-01,Debit,2000,Healthcare,Gym
+11298,2025-07-01,Debit,20000,Bills,Rent
+11299,2025-07-01,Credit,750,Investment,Crypto
+11300,2025-07-01,Credit,57110,Salary,Monthly Salary
+11301,2025-07-02,Debit,264,Food,Bakery
+11302,2025-07-03,Debit,943,Investment,Crypto
+11303,2025-07-03,Debit,127,Food,Fast Food
+11304,2025-07-03,Debit,144,Food,Fast Food
+11305,2025-07-04,Debit,1345,Entertainment,Sports
+11306,2025-07-04,Debit,8871,Shopping,Books
+11307,2025-07-04,Debit,2787,Entertainment,Sports
+11308,2025-07-04,Debit,629,Food,Restaurants
+11309,2025-07-05,Debit,2000,Investment,SIP
+11310,2025-07-05,Debit,506,Food,Delivery
+11311,2025-07-05,Debit,235,Food,Bakery
+11312,2025-07-06,Debit,367,Food,Groceries
+11313,2025-07-06,Debit,5000,Entertainment,Gaming
+11314,2025-07-06,Debit,142,Food,Coffee Shop
+11315,2025-07-07,Debit,9964,Healthcare,Pharmacy
+11316,2025-07-07,Debit,347,Food,Delivery
+11317,2025-07-07,Debit,309,Food,Groceries
+11318,2025-07-09,Debit,139,Travel,Public Transport
+11319,2025-07-10,Debit,823,Travel,Parking
+11320,2025-07-10,Debit,6646,Shopping,Household
+11321,2025-07-10,Debit,2198,Bills,Electricity
+11322,2025-07-10,Debit,1000,Bills,Phone
+11323,2025-07-10,Debit,500,Bills,Water
+11324,2025-07-12,Debit,1509,Investment,Mutual Funds
+11325,2025-07-13,Debit,140,Food,Coffee Shop
+11326,2025-07-13,Debit,520,Food,Restaurants
+11327,2025-07-15,Debit,642,Food,Bakery
+11328,2025-07-15,Debit,1500,Entertainment,Streaming
+11329,2025-07-15,Debit,260,Food,Delivery
+11330,2025-07-15,Debit,1036,Bills,Gas
+11331,2025-07-16,Debit,4043,Shopping,Household
+11332,2025-07-17,Debit,85,Food,Fast Food
+11333,2025-07-17,Credit,2000,Investment,Mutual Funds
+11334,2025-07-17,Debit,10000,Shopping,Electronics
+11335,2025-07-18,Debit,2191,Travel,Flight
+11336,2025-07-18,Debit,10000,Healthcare,Pharmacy
+11337,2025-07-18,Debit,1306,Travel,Ride-share
+11338,2025-07-19,Debit,989,Food,Delivery
+11339,2025-07-19,Debit,2185,Entertainment,Events
+11340,2025-07-19,Debit,6962,Healthcare,Pharmacy
+11341,2025-07-19,Debit,367,Food,Groceries
+11342,2025-07-19,Credit,2690,Other,Transfer
+11343,2025-07-20,Debit,500,Bills,Insurance
+11344,2025-07-20,Debit,84,Food,Coffee Shop
+11345,2025-07-20,Debit,792,Food,Restaurants
+11346,2025-07-21,Debit,2500,Travel,Fuel
+11347,2025-07-21,Debit,143,Food,Fast Food
+11348,2025-07-21,Debit,260,Food,Restaurants
+11349,2025-07-22,Debit,337,Food,Restaurants
+11350,2025-07-22,Debit,2000,Investment,Crypto
+11351,2025-07-23,Debit,1000,Food,Groceries
+11352,2025-07-23,Debit,433,Food,Bakery
+11353,2025-07-23,Debit,4147,Entertainment,Sports
+11354,2025-07-24,Debit,389,Food,Groceries
+11355,2025-07-24,Debit,1925,Entertainment,Hobbies
+11356,2025-07-25,Debit,6039,Shopping,Online
+11357,2025-07-25,Debit,2040,Travel,Flight
+11358,2025-07-26,Debit,2251,Travel,Hotel
+11359,2025-07-26,Debit,1726,Investment,Mutual Funds
+11360,2025-07-26,Debit,3585,Entertainment,Gaming
+11361,2025-07-27,Debit,5864,Other,Gifts
+11362,2025-07-27,Debit,6677,Shopping,Books
+11363,2025-07-28,Debit,142,Food,Fast Food
+11364,2025-07-28,Debit,76,Food,Coffee Shop
+11365,2025-07-28,Debit,470,Food,Groceries
+11366,2025-07-29,Debit,3374,Entertainment,Sports
+11367,2025-07-29,Debit,1553,Travel,Fuel
+11368,2025-07-29,Debit,871,Travel,Fuel
+11369,2025-07-29,Debit,9295,Other,Donations
+11370,2025-07-29,Debit,1434,Travel,Ride-share
+11371,2025-07-30,Debit,2914,Entertainment,Gaming
+11372,2025-07-31,Debit,5034,Healthcare,Wellness
+11373,2025-07-31,Debit,6151,Healthcare,Medical
+11374,2025-07-31,Debit,10000,Shopping,Clothing
+11375,2025-07-31,Debit,945,Investment,Mutual Funds
+11376,2025-08-01,Debit,20000,Bills,Rent
+11377,2025-08-01,Debit,4166,Healthcare,Medical
+11378,2025-08-01,Debit,2226,Travel,Flight
+11379,2025-08-01,Debit,3897,Other,ATM Withdrawal
+11380,2025-08-01,Debit,2000,Bills,Internet
+11381,2025-08-01,Debit,2000,Healthcare,Gym
+11382,2025-08-01,Credit,64429,Salary,Monthly Salary
+11383,2025-08-02,Debit,566,Food,Bakery
+11384,2025-08-02,Debit,628,Food,Bakery
+11385,2025-08-02,Debit,528,Food,Groceries
+11386,2025-08-02,Debit,10000,Healthcare,Medical
+11387,2025-08-03,Debit,1638,Travel,Fuel
+11388,2025-08-03,Debit,614,Food,Groceries
+11389,2025-08-03,Debit,6345,Healthcare,Pharmacy
+11390,2025-08-03,Debit,5455,Healthcare,Pharmacy
+11391,2025-08-04,Debit,9061,Shopping,Books
+11392,2025-08-04,Debit,5287,Shopping,Personal Care
+11393,2025-08-05,Debit,2000,Investment,SIP
+11394,2025-08-05,Debit,94,Food,Fast Food
+11395,2025-08-06,Debit,117,Food,Coffee Shop
+11396,2025-08-07,Debit,2500,Travel,Parking
+11397,2025-08-07,Debit,97,Food,Coffee Shop
+11398,2025-08-08,Debit,1891,Travel,Flight
+11399,2025-08-08,Debit,1180,Travel,Parking
+11400,2025-08-09,Debit,5834,Shopping,Personal Care
+11401,2025-08-09,Debit,97,Travel,Public Transport
+11402,2025-08-09,Debit,6705,Shopping,Clothing
+11403,2025-08-09,Debit,1832,Travel,Flight
+11404,2025-08-10,Debit,500,Bills,Water
+11405,2025-08-10,Debit,1000,Bills,Phone
+11406,2025-08-10,Debit,2217,Bills,Electricity
+11407,2025-08-11,Debit,2109,Travel,Fuel
+11408,2025-08-12,Debit,145,Food,Coffee Shop
+11409,2025-08-12,Debit,4530,Entertainment,Events
+11410,2025-08-13,Debit,1000,Food,Bakery
+11411,2025-08-13,Debit,598,Food,Restaurants
+11412,2025-08-14,Debit,1794,Entertainment,Hobbies
+11413,2025-08-14,Debit,71,Food,Coffee Shop
+11414,2025-08-15,Debit,464,Food,Groceries
+11415,2025-08-15,Debit,1023,Bills,Gas
+11416,2025-08-15,Debit,1114,Travel,Taxi
+11417,2025-08-15,Debit,1500,Entertainment,Streaming
+11418,2025-08-16,Debit,115,Food,Coffee Shop
+11419,2025-08-16,Debit,787,Travel,Parking
+11420,2025-08-17,Debit,4875,Other,Donations
+11421,2025-08-17,Debit,2500,Travel,Taxi
+11422,2025-08-19,Debit,4039,Shopping,Books
+11423,2025-08-20,Debit,55,Travel,Public Transport
+11424,2025-08-20,Debit,500,Bills,Insurance
+11425,2025-08-20,Debit,726,Food,Delivery
+11426,2025-08-20,Debit,9115,Shopping,Household
+11427,2025-08-20,Debit,347,Food,Restaurants
+11428,2025-08-20,Debit,102,Food,Coffee Shop
+11429,2025-08-21,Debit,490,Food,Delivery
+11430,2025-08-21,Debit,4344,Entertainment,Hobbies
+11431,2025-08-21,Debit,588,Food,Bakery
+11432,2025-08-22,Debit,809,Food,Delivery
+11433,2025-08-23,Debit,367,Food,Restaurants
+11434,2025-08-23,Debit,106,Food,Coffee Shop
+11435,2025-08-23,Debit,4241,Shopping,Electronics
+11436,2025-08-24,Debit,447,Food,Bakery
+11437,2025-08-24,Debit,4925,Other,ATM Withdrawal
+11438,2025-08-24,Debit,150,Food,Coffee Shop
+11439,2025-08-25,Debit,73,Food,Coffee Shop
+11440,2025-08-29,Debit,82,Food,Fast Food
+11441,2025-08-29,Debit,4387,Other,Gifts
+11442,2025-08-29,Debit,1152,Travel,Taxi
+11443,2025-08-29,Debit,349,Food,Bakery
+11444,2025-08-30,Debit,1204,Travel,Parking
+11445,2025-08-31,Debit,585,Food,Delivery
+11446,2025-08-31,Debit,855,Food,Groceries
+11447,2025-08-31,Debit,1114,Travel,Taxi
+11448,2025-08-31,Debit,1437,Investment,Crypto
+11449,2025-09-01,Credit,63764,Salary,Monthly Salary
+11450,2025-09-01,Debit,2000,Bills,Internet
+11451,2025-09-01,Debit,20000,Bills,Rent
+11452,2025-09-01,Debit,2000,Healthcare,Gym
+11453,2025-09-01,Debit,450,Food,Groceries
+11454,2025-09-02,Debit,472,Food,Groceries
+11455,2025-09-02,Credit,4134,Other,Transfer
+11456,2025-09-02,Debit,2596,Shopping,Clothing
+11457,2025-09-03,Debit,2241,Travel,Hotel
+11458,2025-09-03,Debit,10000,Other,Gifts
+11459,2025-09-03,Debit,79,Food,Coffee Shop
+11460,2025-09-03,Debit,978,Travel,Parking
+11461,2025-09-03,Debit,988,Travel,Parking
+11462,2025-09-03,Debit,626,Travel,Taxi
+11463,2025-09-04,Debit,973,Investment,Stocks
+11464,2025-09-04,Debit,2797,Entertainment,Movies
+11465,2025-09-05,Debit,99,Food,Fast Food
+11466,2025-09-05,Debit,2000,Investment,SIP
+11467,2025-09-05,Debit,574,Travel,Fuel
+11468,2025-09-06,Debit,794,Food,Groceries
+11469,2025-09-08,Debit,1750,Travel,Taxi
+11470,2025-09-09,Debit,1863,Travel,Hotel
+11471,2025-09-10,Debit,2024,Entertainment,Gaming
+11472,2025-09-10,Debit,1000,Bills,Phone
+11473,2025-09-10,Debit,2123,Bills,Electricity
+11474,2025-09-10,Debit,500,Bills,Water
+11475,2025-09-11,Debit,782,Travel,Ride-share
+11476,2025-09-11,Debit,1485,Entertainment,Hobbies
+11477,2025-09-11,Debit,2500,Travel,Parking
+11478,2025-09-11,Debit,1419,Travel,Ride-share
+11479,2025-09-12,Debit,8333,Shopping,Online
+11480,2025-09-12,Debit,129,Food,Coffee Shop
+11481,2025-09-12,Debit,834,Travel,Taxi
+11482,2025-09-12,Debit,62,Food,Coffee Shop
+11483,2025-09-13,Debit,645,Food,Bakery
+11484,2025-09-13,Debit,1008,Travel,Parking
+11485,2025-09-13,Debit,72,Food,Fast Food
+11486,2025-09-15,Debit,1500,Entertainment,Streaming
+11487,2025-09-15,Debit,182,Food,Bakery
+11488,2025-09-15,Debit,864,Bills,Gas
+11489,2025-09-15,Debit,2232,Travel,Taxi
+11490,2025-09-15,Debit,412,Food,Restaurants
+11491,2025-09-16,Debit,612,Food,Delivery
+11492,2025-09-16,Debit,1219,Travel,Ride-share
+11493,2025-09-17,Debit,518,Food,Groceries
+11494,2025-09-17,Debit,125,Travel,Public Transport
+11495,2025-09-17,Debit,8529,Other,Gifts
+11496,2025-09-17,Debit,1862,Shopping,Books
+11497,2025-09-18,Debit,119,Travel,Public Transport
+11498,2025-09-18,Debit,829,Travel,Fuel
+11499,2025-09-18,Debit,629,Food,Bakery
+11500,2025-09-20,Debit,500,Bills,Insurance
+11501,2025-09-20,Debit,4596,Healthcare,Wellness
+11502,2025-09-20,Credit,2138,Other,Transfer
+11503,2025-09-21,Debit,74,Travel,Public Transport
+11504,2025-09-21,Debit,7062,Shopping,Electronics
+11505,2025-09-21,Debit,520,Food,Groceries
+11506,2025-09-21,Debit,4861,Other,Donations
+11507,2025-09-22,Debit,1040,Travel,Parking
+11508,2025-09-23,Debit,3747,Healthcare,Pharmacy
+11509,2025-09-24,Debit,1773,Travel,Flight
+11510,2025-09-24,Debit,877,Travel,Parking
+11511,2025-09-26,Debit,413,Food,Groceries
+11512,2025-09-26,Debit,788,Food,Bakery
+11513,2025-09-26,Debit,6356,Healthcare,Wellness
+11514,2025-09-28,Debit,778,Food,Restaurants
+11515,2025-09-28,Debit,118,Food,Coffee Shop
+11516,2025-09-30,Debit,2208,Travel,Flight
+11517,2025-10-01,Debit,2000,Bills,Internet
+11518,2025-10-01,Debit,2427,Travel,Flight
+11519,2025-10-01,Debit,20000,Bills,Rent
+11520,2025-10-01,Debit,2000,Healthcare,Gym
+11521,2025-10-01,Credit,61554,Salary,Monthly Salary
+11522,2025-10-01,Debit,2427,Travel,Hotel
+11523,2025-10-01,Debit,136,Travel,Public Transport
+11524,2025-10-02,Debit,111,Travel,Public Transport
+11525,2025-10-02,Debit,116,Food,Coffee Shop
+11526,2025-10-02,Debit,134,Food,Fast Food
+11527,2025-10-02,Debit,415,Food,Restaurants
+11528,2025-10-03,Debit,552,Food,Restaurants
+11529,2025-10-04,Debit,2286,Travel,Taxi
+11530,2025-10-04,Debit,65,Travel,Public Transport
+11531,2025-10-04,Debit,505,Food,Restaurants
+11532,2025-10-05,Debit,2500,Travel,Parking
+11533,2025-10-05,Debit,2000,Investment,SIP
+11534,2025-10-06,Debit,8373,Other,Transfer
+11535,2025-10-06,Debit,69,Food,Coffee Shop
+11536,2025-10-06,Debit,2142,Travel,Fuel
+11537,2025-10-07,Debit,10000,Healthcare,Medical
+11538,2025-10-08,Debit,2001,Travel,Flight
+11539,2025-10-08,Debit,389,Food,Groceries
+11540,2025-10-08,Debit,198,Food,Bakery
+11541,2025-10-10,Debit,84,Food,Coffee Shop
+11542,2025-10-10,Credit,881,Investment,Stocks
+11543,2025-10-10,Debit,844,Food,Groceries
+11544,2025-10-10,Debit,1837,Bills,Electricity
+11545,2025-10-10,Debit,1000,Bills,Phone
+11546,2025-10-10,Debit,500,Bills,Water
+11547,2025-10-10,Debit,606,Investment,Stocks
+11548,2025-10-11,Debit,2000,Investment,Mutual Funds
+11549,2025-10-11,Debit,101,Food,Fast Food
+11550,2025-10-12,Debit,1325,Travel,Parking
+11551,2025-10-12,Debit,2500,Travel,Taxi
+11552,2025-10-12,Debit,10000,Other,Donations
+11553,2025-10-12,Debit,288,Food,Delivery
+11554,2025-10-14,Debit,127,Food,Fast Food
+11555,2025-10-14,Debit,66,Food,Fast Food
+11556,2025-10-14,Debit,1460,Travel,Parking
+11557,2025-10-15,Debit,1500,Entertainment,Streaming
+11558,2025-10-15,Debit,937,Bills,Gas
+11559,2025-10-15,Debit,7923,Shopping,Electronics
+11560,2025-10-15,Debit,3329,Healthcare,Wellness
+11561,2025-10-15,Debit,61,Food,Fast Food
+11562,2025-10-15,Debit,96,Food,Fast Food
+11563,2025-10-15,Debit,1755,Travel,Ride-share
+11564,2025-10-16,Debit,147,Food,Coffee Shop
+11565,2025-10-16,Debit,3082,Other,Miscellaneous
+11566,2025-10-17,Debit,3969,Other,Gifts
+11567,2025-10-18,Debit,2183,Travel,Hotel
+11568,2025-10-18,Debit,1701,Travel,Ride-share
+11569,2025-10-18,Debit,4884,Shopping,Personal Care
+11570,2025-10-18,Debit,1142,Travel,Parking
+11571,2025-10-18,Debit,4266,Entertainment,Sports
+11572,2025-10-20,Debit,1163,Entertainment,Sports
+11573,2025-10-20,Debit,1996,Travel,Hotel
+11574,2025-10-20,Debit,609,Food,Delivery
+11575,2025-10-20,Debit,2157,Shopping,Books
+11576,2025-10-20,Debit,673,Food,Delivery
+11577,2025-10-20,Debit,2500,Travel,Ride-share
+11578,2025-10-20,Debit,500,Bills,Insurance
+11579,2025-10-22,Debit,56,Food,Fast Food
+11580,2025-10-22,Debit,96,Food,Fast Food
+11581,2025-10-22,Debit,8733,Other,Transfer
+11582,2025-10-22,Debit,10000,Healthcare,Pharmacy
+11583,2025-10-22,Debit,10000,Other,Gifts
+11584,2025-10-22,Debit,1861,Travel,Hotel
+11585,2025-10-23,Debit,2068,Travel,Flight
+11586,2025-10-23,Debit,1240,Travel,Ride-share
+11587,2025-10-23,Debit,738,Food,Groceries
+11588,2025-10-24,Debit,2026,Travel,Ride-share
+11589,2025-10-24,Debit,7613,Other,Donations
+11590,2025-10-25,Debit,10000,Other,ATM Withdrawal
+11591,2025-10-26,Debit,4778,Entertainment,Events
+11592,2025-10-27,Debit,94,Food,Fast Food
+11593,2025-10-27,Debit,10000,Healthcare,Medical
+11594,2025-10-27,Debit,665,Food,Groceries
+11595,2025-10-27,Debit,129,Travel,Public Transport
+11596,2025-10-28,Debit,122,Food,Coffee Shop
+11597,2025-10-28,Debit,1331,Travel,Ride-share
+11598,2025-10-28,Debit,4643,Shopping,Electronics
+11599,2025-10-29,Debit,289,Food,Groceries
+11600,2025-10-29,Debit,134,Food,Coffee Shop
+11601,2025-10-29,Debit,4677,Shopping,Personal Care
+11602,2025-10-29,Debit,939,Food,Restaurants
+11603,2025-10-30,Debit,4209,Other,Gifts
+11604,2025-10-31,Debit,197,Food,Bakery
+11605,2025-10-31,Debit,4235,Entertainment,Events
+11606,2025-11-01,Debit,20000,Bills,Rent
+11607,2025-11-01,Debit,2000,Bills,Internet
+11608,2025-11-01,Debit,2000,Healthcare,Gym
+11609,2025-11-01,Debit,433,Food,Restaurants
+11610,2025-11-01,Credit,58956,Salary,Monthly Salary
+11611,2025-11-01,Debit,396,Food,Groceries
+11612,2025-11-02,Debit,2247,Travel,Flight
+11613,2025-11-03,Debit,350,Food,Delivery
+11614,2025-11-04,Debit,96,Food,Coffee Shop
+11615,2025-11-04,Debit,1934,Investment,Crypto

@@ -1,8 +1,8 @@
 # Personal Finance Tracker - Automated Data Pipeline and Dashboard
 ## 🧾 Executive Summary
-This project automates personal finance tracking from message-based inputs to interactive financial dashboards.  
-It integrates **Telegram, n8n, AI-powered message parsing, PostgreSQL,** and **Power BI** to deliver real-time financial insights and visual analytics.  
-The pipeline automatically converts unstructured expense messages into structured transactions, stores them in a database, and visualizes key spending metrics.
+- This project automates personal finance tracking from message-based inputs to interactive financial dashboards.  
+- It integrates **Telegram, n8n, AI-powered message parsing, PostgreSQL,** and **Power BI** to deliver real-time financial insights and visual analytics.  
+- The pipeline automatically converts unstructured expense messages into structured transactions, stores them in a database, and visualizes key spending metrics.
 
 ## 🚩 Problem
 Managing personal expenses manually often leads to:

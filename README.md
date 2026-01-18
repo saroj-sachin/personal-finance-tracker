@@ -40,7 +40,7 @@ Features:
 ### 2. Automated Data Collection
 - Messages sent on Telegram are automatically parsed into structured financial entries via n8n.
 - The n8n workflow triggers automatically when a message is received.
-<img src="Screenshots/telegram.png" height="310.5">
+<img src="Screenshots/telegram.png" height="250">
 This approach removes the need for manual data entry while maintaining consistency.
 
 ### 3. Data Processing & Validation
@@ -52,7 +52,7 @@ An **AI Agent** interprets each message and extracts structured fields:
 - ``category``
 - ``sub_category``
 
-<img src="Screenshots/n8n_workflow.png" height="300">
+<img src="Screenshots/n8n_workflow.png" height="250">
 Reduces errors and improves reliability of downstream analytics.
 
 ### 4. Data Storage (PostgreSQL)

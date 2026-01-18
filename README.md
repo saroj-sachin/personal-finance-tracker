@@ -4,6 +4,8 @@
 - **Automated** the conversion of raw transaction inputs into structured financial data.
 - Designed a **3-page Power BI dashboard (Overview, Expense, Savings)** focused on clarity, insights, and recruiter-friendly storytelling.
 
+<img src="Screenshots/dashboard_overview.gif">
+
 ## Problem
 Managing personal expenses manually often leads to:
 - Missing small but frequent transactions
@@ -41,14 +43,14 @@ Features:
 <img src="Screenshots/telegram.png" height="310.5">
 This approach removes the need for manual data entry while maintaining consistency.
 
-### 3. Data Processing & Validation (AI Agent)
-A Google Gemini Chat Model node interprets each message and extracts structured fields:
+### 3. Data Processing & Validation
+An **AI Agent** interprets each message and extracts structured fields:
 
-- transaction_date
-- transaction_type
-- amount
-- category
-- sub_category
+- ``transaction_date``
+- ``transaction_type`` (Income / Savings / Expense)
+- ``amount``
+- ``category``
+- ``sub_category``
 
 <img src="Screenshots/n8n_workflow.png" height="300">
 Reduces errors and improves reliability of downstream analytics.
@@ -56,7 +58,7 @@ Reduces errors and improves reliability of downstream analytics.
 ### 4. Data Storage (PostgreSQL)
 - Parsed transactions are inserted into the ``transactions`` table in PostgreSQL with auto-incrementing ``transaction_id``.
 - Schema:
-<img src="Screenshots/postgres(supabase).png" height="250">
+<img src="Screenshots/postgres.png" height="250">
 
 A confirmation message is sent back to Telegram once a transaction is logged.
 
@@ -66,15 +68,21 @@ A 3-page interactive **Power BI dashboard** is connected directly to the Supabas
 ### Page 1: Overview - Financial Health
 **Purpose:** Identify expense drivers and potential optimization areas.
 
+<img src="Screenshots/page_1.png" height="250">  
+
 **Key Insight:** Savings remained consistently strong across most periods, with clear identification of peak and low-saving months.
 
 ### Page 2: Expense Analysis - Where the Money Goes
 **Purpose:** High-level snapshot of overall financial performance.
 
-**key Insight:** Fixed expenses and lifestyle categories consistently dominate total spending, indicating areas for targeted cost control.
+<img src="Screenshots/page_2.png" height="250">
+
+**Key Insight:** Fixed expenses and lifestyle categories consistently dominate total spending, indicating areas for targeted cost control.
 
 ### Page 3: Savings Analysis - Financial Discipline
 **Purpose:** Evaluate savings consistency and efficiency.
+
+<img src="Screenshots/page_3.png" height="250">
 
 **Key Insight:** Despite expense fluctuations, savings rates remained stable, reflecting disciplined financial behavior.
 

@@ -3,120 +3,135 @@ import random
 from datetime import datetime, timedelta
 import numpy as np
 
-# Set random seed for reproducibility
+# Random seed for reproducibility
 random.seed(42)
 np.random.seed(42)
 
 # Configuration
-START_DATE = datetime(2024, 1, 1)
-END_DATE = datetime(2025, 11, 4)
+START_DATE = datetime(2023, 1, 1)
+END_DATE = datetime(2025, 12, 31)
 START_ID = 10001
+MONTHLY_SALARY = 50000  # Fixed salary
+
+# Helper function to round numbers
+def round_to_nice_number(amount):
+    """Round amounts to nice numbers like 100, 150, 175, 200, 250, etc."""
+    if amount < 50:
+        # Round to nearest 5 or 10
+        return round(amount / 5) * 5
+    elif amount < 100:
+        # Round to nearest 10
+        return round(amount / 10) * 10
+    elif amount < 500:
+        # Round to nearest 25
+        return round(amount / 25) * 25
+    elif amount < 1000:
+        # Round to nearest 50
+        return round(amount / 50) * 50
+    else:
+        # Round to nearest 100
+        return round(amount / 100) * 100
 
 # Category structure with realistic subcategories and amount ranges
 CATEGORIES = {
     'Food': {
         'subcategories': ['Groceries', 'Restaurants', 'Fast Food', 'Delivery', 'Coffee Shop', 'Bakery'],
-        'amount_range': (50, 1000),
-        'frequency': 25  # transactions per month
+        'amount_range': (50, 300),
+        'frequency': 18  # Transactions per month
     },
     'Travel': {
         'subcategories': ['Fuel', 'Ride-share', 'Public Transport', 'Parking', 'Taxi', 'Flight', 'Hotel'],
-        'amount_range': (50, 2500),
-        'frequency': 15
+        'amount_range': (50, 500),
+        'frequency': 10
     },
     'Shopping': {
         'subcategories': ['Clothing', 'Electronics', 'Online', 'Household', 'Personal Care', 'Books'],
-        'amount_range': (500, 10000),
-        'frequency': 5
+        'amount_range': (100, 800),
+        'frequency': 8
     },
     'Entertainment': {
         'subcategories': ['Movies', 'Streaming', 'Gaming', 'Events', 'Sports', 'Hobbies'],
-        'amount_range': (100, 5000),
-        'frequency': 4
+        'amount_range': (50, 250),
+        'frequency': 6
     },
     'Bills': {
-        'subcategories': ['Electricity', 'Water', 'Internet', 'Phone', 'Gas', 'Rent', 'Insurance'],
-        'amount_range': (1000, 10000),
-        'frequency': 1
+        'subcategories': ['Electricity', 'Internet', 'Phone', 'Gas', 'Rent', 'Insurance'],
+        'amount_range': (100, 1500),
+        'frequency': 8
     },
     'Healthcare': {
         'subcategories': ['Medical', 'Pharmacy', 'Insurance', 'Gym', 'Wellness'],
-        'amount_range': (1000, 10000),
-        'frequency': 3
+        'amount_range': (100, 400),
+        'frequency': 4
     },
     'Investment': {
-        'subcategories': ['Mutual Funds', 'Stocks', 'SIP', 'Crypto'],
+        'subcategories': ['Mutual Funds', 'Stocks', 'Fixed Deposit', 'SIP', 'Crypto'],
         'amount_range': (500, 2000),
-        'frequency': 2
+        'frequency': 4
     },
     'Salary': {
         'subcategories': ['Monthly Salary', 'Bonus', 'Freelance', 'Reimbursement'],
-        'amount_range': (20000, 80000),
-        'frequency': 1.5  # Sometimes bonus/freelance
+        'amount_range': (50000, 50000),
+        'frequency': 1
+    },
+    'Investment Returns': {
+        'subcategories': ['Dividend', 'Interest', 'Capital Gains', 'Mutual Fund Returns'],
+        'amount_range': (500, 3000),
+        'frequency': 2  # Occasional returns
     },
     'Other': {
         'subcategories': ['ATM Withdrawal', 'Transfer', 'Miscellaneous', 'Gifts', 'Donations'],
-        'amount_range': (1000, 10000),
-        'frequency': 3
+        'amount_range': (100, 500),
+        'frequency': 5
     }
 }
 
-# Special transaction patterns
+# Fixed recurring transactions
 RECURRING_TRANSACTIONS = [
-    {'category': 'Bills', 'subcategory': 'Rent', 'amount': 20000, 'day_of_month': 1, 'has_variation': False},
-    {'category': 'Bills', 'subcategory': 'Internet', 'amount': 2000, 'day_of_month': 1, 'has_variation': False},
-    {'category': 'Bills', 'subcategory': 'Electricity', 'amount': 2000, 'day_of_month': 10, 'has_variation': True},
-    {'category': 'Bills', 'subcategory': 'Phone', 'amount': 1000, 'day_of_month': 10, 'has_variation': False},
-    {'category': 'Bills', 'subcategory': 'Water', 'amount': 500, 'day_of_month': 10, 'has_variation': False},
-    {'category': 'Bills', 'subcategory': 'Gas', 'amount': 1000, 'day_of_month': 15, 'has_variation': True},
-    {'category': 'Bills', 'subcategory': 'Insurance', 'amount': 500, 'day_of_month': 20, 'has_variation': False},
-    {'category': 'Entertainment', 'subcategory': 'Streaming', 'amount': 1500, 'day_of_month': 15, 'has_variation': False},
-    {'category': 'Healthcare', 'subcategory': 'Gym', 'amount': 2000, 'day_of_month': 1, 'has_variation': False},
-    {'category': 'Investment', 'subcategory': 'SIP', 'amount': 2000, 'day_of_month': 5, 'has_variation': False},
+    {'category': 'Bills', 'subcategory': 'Rent', 'amount': 12000, 'day_of_month': 1, 'type': 'Expense', 'has_variation': False},
+    {'category': 'Healthcare', 'subcategory': 'Gym', 'amount': 500, 'day_of_month': 1, 'type': 'Expense', 'has_variation': False},
+    {'category': 'Bills', 'subcategory': 'Internet', 'amount': 600, 'day_of_month': 5, 'type': 'Expense', 'has_variation': False},
+    {'category': 'Investment', 'subcategory': 'SIP', 'amount': 5000, 'day_of_month': 5, 'type': 'Savings', 'has_variation': False},
+    {'category': 'Bills', 'subcategory': 'Electricity', 'amount': 800, 'day_of_month': 7, 'type': 'Expense', 'has_variation': True},
+    {'category': 'Bills', 'subcategory': 'Phone', 'amount': 400, 'day_of_month': 10, 'type': 'Expense', 'has_variation': False},
+    {'category': 'Bills', 'subcategory': 'Gas', 'amount': 600, 'day_of_month': 12, 'type': 'Expense', 'has_variation': False},
+    {'category': 'Entertainment', 'subcategory': 'Streaming', 'amount': 200, 'day_of_month': 15, 'type': 'Expense', 'has_variation': False},
+    {'category': 'Bills', 'subcategory': 'Insurance', 'amount': 1500, 'day_of_month': 20, 'type': 'Expense', 'has_variation': False},
 ]
 
 def generate_transaction_date(start, end):
-    """Generate random date between start and end"""
+    # Random date between start and end
     delta = end - start
     random_days = random.randint(0, delta.days)
     return start + timedelta(days=random_days)
 
-def add_time_patterns(date):
-    """Add realistic time patterns (weekday vs weekend, time of day)"""
-    # More transactions on weekends for shopping/entertainment
-    if date.weekday() >= 5:  # Saturday or Sunday
-        return random.random() < 0.7  # 70% chance
-    return random.random() < 0.5  # 50% chance on weekdays
-
 def generate_amount(category_name, subcategory):
-    """Generate realistic amount based on category and subcategory"""
+    # Realistic rounded amount based on category and subcategory
     min_amt, max_amt = CATEGORIES[category_name]['amount_range']
     
-    # Add subcategory-specific adjustments
+    # Subcategory-specific adjustments
     if subcategory in ['Rent', 'Flight', 'Hotel']:
         amount = random.uniform(max_amt * 0.7, max_amt)
     elif subcategory in ['Coffee Shop', 'Fast Food', 'Public Transport']:
-        amount = random.uniform(min_amt, min_amt * 3)
+        amount = random.uniform(min_amt, min_amt * 2)
     elif subcategory in ['Monthly Salary']:
-        amount = random.uniform(50000, 70000)
+        amount = MONTHLY_SALARY
     else:
-        # Use log-normal distribution for realistic spending (most small, some large)
-        mean = (min_amt + max_amt) / 2
-        std = (max_amt - min_amt) / 4
-        amount = np.random.lognormal(np.log(mean), 0.5)
-        amount = max(min_amt, min(amount, max_amt))
+        # Uniform distribution for simpler amounts
+        amount = random.uniform(min_amt, max_amt)
     
-    return round(amount, 2)
+    # Round to nice number
+    return round_to_nice_number(amount)
 
 def generate_transactions():
-    """Generate all transactions"""
+    # Generating all transactions
     transactions = []
     transaction_id = START_ID
     
-    # Track recurring transactions to avoid duplicates
+    # Tracking recurring transactions to avoid duplicates
     recurring_subcategories = set([r['subcategory'] for r in RECURRING_TRANSACTIONS])
     
-    # Generate recurring transactions first
+    # Generating recurring transactions first
     current_date = START_DATE
     while current_date <= END_DATE:
         for recurring in RECURRING_TRANSACTIONS:
@@ -131,7 +146,7 @@ def generate_transactions():
                 if recurring.get('has_variation', False):
                     # Add ±15% variation for bills like electricity
                     variance = recurring['amount'] * random.uniform(-0.15, 0.15)
-                    amount = round(recurring['amount'] + variance, 2)
+                    amount = round_to_nice_number(recurring['amount'] + variance)
                 else:
                     # Use fixed amount for other recurring transactions
                     amount = recurring['amount']
@@ -139,8 +154,8 @@ def generate_transactions():
                 transactions.append({
                     'transaction_id': transaction_id,
                     'transaction_date': trans_date.strftime('%d/%m/%Y'),
-                    'transaction_type': 'Credit' if recurring['category'] == 'Salary' else 'Debit',
-                    'amount': round(amount, 2),
+                    'transaction_type': recurring['type'],
+                    'amount': amount,
                     'category': recurring['category'],
                     'sub_category': recurring['subcategory']
                 })
@@ -157,30 +172,29 @@ def generate_transactions():
     while current_date <= END_DATE:
         salary_date = current_date.replace(day=1)
         if salary_date <= END_DATE and salary_date >= START_DATE:
-            # Salary varies slightly
-            salary = random.uniform(55000, 65000)
             transactions.append({
                 'transaction_id': transaction_id,
                 'transaction_date': salary_date.strftime('%d/%m/%Y'),
-                'transaction_type': 'Credit',
-                'amount': round(salary, 2),
+                'transaction_type': 'Income',
+                'amount': MONTHLY_SALARY,
                 'category': 'Salary',
                 'sub_category': 'Monthly Salary'
             })
             transaction_id += 1
         
-        # Occasional bonus/freelance (20% chance per quarter)
-        if current_date.month in [3, 6, 9, 12] and random.random() < 0.2:
+        # Occasional bonus (10% chance per quarter)
+        if current_date.month in [3, 6, 9, 12] and random.random() < 0.1:
             bonus_date = generate_transaction_date(
                 current_date.replace(day=15),
                 current_date.replace(day=28)
             )
             if bonus_date <= END_DATE:
+                bonus_amount = round_to_nice_number(random.uniform(5000, 15000))
                 transactions.append({
                     'transaction_id': transaction_id,
                     'transaction_date': bonus_date.strftime('%d/%m/%Y'),
-                    'transaction_type': 'Credit',
-                    'amount': round(random.uniform(20000, 50000), 2),
+                    'transaction_type': 'Income',
+                    'amount': bonus_amount,
                     'category': 'Salary',
                     'sub_category': random.choice(['Bonus', 'Freelance'])
                 })
@@ -192,13 +206,13 @@ def generate_transactions():
         else:
             current_date = current_date.replace(month=current_date.month + 1)
     
-    # Generate random transactions for each category
+    # Generating random transactions for each category
     for category_name, category_data in CATEGORIES.items():
         if category_name == 'Salary':  # Already handled
             continue
         
-        # Calculate total transactions for this category over 2 years
-        total_transactions = int(category_data['frequency'] * 24)  # 24 months
+        # Calculate total transactions for this category over 3 years
+        total_transactions = int(category_data['frequency'] * 36)  # 36 months
         
         for _ in range(total_transactions):
             trans_date = generate_transaction_date(START_DATE, END_DATE)
@@ -217,16 +231,12 @@ def generate_transactions():
             amount = generate_amount(category_name, subcategory)
             
             # Determine transaction type
-            if category_name == 'Salary':
-                trans_type = 'Credit'
-            elif category_name == 'Investment':
-                # 90% debit (investing), 10% credit (returns/withdrawal)
-                trans_type = 'Debit' if random.random() < 0.9 else 'Credit'
-            elif category_name == 'Other' and subcategory == 'Transfer':
-                # 50-50 for transfers
-                trans_type = random.choice(['Debit', 'Credit'])
+            if category_name == 'Investment':
+                trans_type = 'Savings'
+            elif category_name == 'Investment Returns':
+                trans_type = 'Income'
             else:
-                trans_type = 'Debit'
+                trans_type = 'Expense'
             
             transactions.append({
                 'transaction_id': transaction_id,
@@ -241,7 +251,7 @@ def generate_transactions():
     return transactions
 
 # Generate transactions
-print("Generating 2 years of realistic transaction data...")
+print("Generating 3 years of realistic transaction data...")
 transactions = generate_transactions()
 
 # Convert to DataFrame and sort by date
@@ -254,27 +264,16 @@ df = df.drop('date_sort', axis=1)
 df['transaction_id'] = range(START_ID, START_ID + len(df))
 
 # Display statistics
-print(f"\n✅ Generated {len(df)} transactions")
-print(f"📅 Date Range: {df['transaction_date'].iloc[0]} to {df['transaction_date'].iloc[-1]}")
-print(f"\n📊 Transaction Type Distribution:")
-print(df['transaction_type'].value_counts())
-print(f"\n💰 Amount Statistics:")
-print(df['amount'].describe())
-print(f"\n🏷️ Category Distribution:")
-print(df['category'].value_counts())
-
-# Calculate total income and expenses
-total_credit = df[df['transaction_type'] == 'Credit']['amount'].sum()
-total_debit = df[df['transaction_type'] == 'Debit']['amount'].sum()
-net_savings = total_credit - total_debit
-
-print(f"\n💵 Financial Summary:")
-print(f"Total Income (Credits): ${total_credit:,.2f}")
-print(f"Total Expenses (Debits): ${total_debit:,.2f}")
-print(f"Net Savings: ${net_savings:,.2f}")
-print(f"Savings Rate: {(net_savings/total_credit)*100:.1f}%")
+print(f"\nGenerated {len(df)} transactions")
+print(f"Date Range: {df['transaction_date'].iloc[0]} to {df['transaction_date'].iloc[-1]}")
 
 # Save to CSV
 csv_filename = 'transactions.csv'
 df.to_csv(csv_filename, index=False)
-print(f"\n💾 Saved to: {csv_filename}")
+print(f"\nSaved to: {csv_filename}")
+
+# Display sample data
+print(f"\nSample Transactions:")
+print(df.head(15).to_string(index=False))
+
+print("\nData generation complete!")

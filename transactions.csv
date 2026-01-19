@@ -1,1616 +1,2414 @@
 transaction_id,transaction_date,transaction_type,amount,category,sub_category
-10001,2024-01-01,Debit,20000,Bills,Rent
-10002,2024-01-01,Debit,2000,Bills,Internet
-10003,2024-01-01,Credit,55798,Salary,Monthly Salary
-10004,2024-01-01,Debit,2000,Healthcare,Gym
-10005,2024-01-03,Debit,123,Food,Fast Food
-10006,2024-01-04,Debit,593,Food,Bakery
-10007,2024-01-05,Debit,2000,Investment,SIP
-10008,2024-01-06,Debit,516,Food,Groceries
-10009,2024-01-06,Debit,1503,Investment,Stocks
-10010,2024-01-06,Debit,1490,Travel,Fuel
-10011,2024-01-07,Debit,8382,Shopping,Online
-10012,2024-01-07,Debit,6183,Healthcare,Wellness
-10013,2024-01-07,Debit,80,Food,Fast Food
-10014,2024-01-08,Debit,1018,Travel,Parking
-10015,2024-01-08,Debit,945,Travel,Ride-share
-10016,2024-01-10,Debit,2084,Bills,Electricity
-10017,2024-01-10,Debit,1000,Bills,Phone
-10018,2024-01-10,Debit,7547,Healthcare,Wellness
-10019,2024-01-10,Debit,763,Food,Delivery
-10020,2024-01-10,Debit,5408,Shopping,Online
-10021,2024-01-10,Debit,8605,Other,Gifts
-10022,2024-01-10,Debit,500,Bills,Water
-10023,2024-01-12,Debit,771,Food,Bakery
-10024,2024-01-13,Debit,3339,Healthcare,Medical
-10025,2024-01-13,Debit,78,Food,Coffee Shop
-10026,2024-01-15,Debit,1500,Entertainment,Streaming
-10027,2024-01-15,Debit,858,Bills,Gas
-10028,2024-01-16,Debit,389,Food,Bakery
-10029,2024-01-16,Debit,4076,Entertainment,Gaming
-10030,2024-01-16,Debit,129,Food,Fast Food
-10031,2024-01-17,Debit,2137,Travel,Flight
-10032,2024-01-17,Debit,4319,Entertainment,Gaming
-10033,2024-01-18,Debit,296,Food,Groceries
-10034,2024-01-20,Debit,72,Travel,Public Transport
-10035,2024-01-20,Debit,500,Bills,Insurance
-10036,2024-01-20,Debit,1862,Travel,Parking
-10037,2024-01-21,Debit,88,Food,Coffee Shop
-10038,2024-01-23,Debit,5718,Shopping,Household
-10039,2024-01-24,Debit,3922,Other,Miscellaneous
-10040,2024-01-24,Debit,3303,Entertainment,Events
-10041,2024-01-25,Debit,370,Food,Bakery
-10042,2024-01-26,Debit,830,Food,Restaurants
-10043,2024-01-26,Debit,9616,Other,Gifts
-10044,2024-01-26,Debit,506,Food,Groceries
-10045,2024-01-26,Debit,138,Food,Coffee Shop
-10046,2024-01-27,Debit,1375,Investment,Mutual Funds
-10047,2024-01-27,Debit,806,Food,Restaurants
-10048,2024-01-28,Debit,682,Food,Groceries
-10049,2024-01-29,Debit,143,Travel,Public Transport
-10050,2024-01-30,Debit,246,Food,Bakery
-10051,2024-01-31,Debit,9574,Healthcare,Wellness
-10052,2024-02-01,Debit,729,Food,Restaurants
-10053,2024-02-01,Debit,2000,Healthcare,Gym
-10054,2024-02-01,Debit,454,Food,Groceries
-10055,2024-02-01,Debit,2000,Bills,Internet
-10056,2024-02-01,Debit,20000,Bills,Rent
-10057,2024-02-01,Credit,57328,Salary,Monthly Salary
-10058,2024-02-02,Debit,57,Food,Fast Food
-10059,2024-02-03,Debit,3690,Healthcare,Medical
-10060,2024-02-04,Debit,3263,Entertainment,Sports
-10061,2024-02-04,Debit,86,Food,Coffee Shop
-10062,2024-02-05,Debit,2000,Investment,SIP
-10063,2024-02-07,Debit,4590,Shopping,Household
-10064,2024-02-08,Debit,150,Food,Fast Food
-10065,2024-02-08,Debit,10000,Shopping,Electronics
-10066,2024-02-09,Debit,679,Food,Delivery
-10067,2024-02-09,Debit,1443,Travel,Ride-share
-10068,2024-02-10,Debit,500,Bills,Water
-10069,2024-02-10,Debit,1545,Travel,Ride-share
-10070,2024-02-10,Debit,4317,Entertainment,Movies
-10071,2024-02-10,Debit,1000,Bills,Phone
-10072,2024-02-10,Debit,71,Food,Fast Food
-10073,2024-02-10,Debit,1865,Bills,Electricity
-10074,2024-02-11,Debit,1396,Travel,Fuel
-10075,2024-02-12,Debit,1323,Travel,Parking
-10076,2024-02-12,Debit,143,Travel,Public Transport
-10077,2024-02-12,Debit,2398,Travel,Hotel
-10078,2024-02-12,Debit,86,Food,Fast Food
-10079,2024-02-13,Debit,10000,Shopping,Online
-10080,2024-02-14,Debit,1900,Travel,Hotel
-10081,2024-02-15,Debit,10000,Other,ATM Withdrawal
-10082,2024-02-15,Debit,1500,Entertainment,Streaming
-10083,2024-02-15,Debit,917,Bills,Gas
-10084,2024-02-15,Debit,105,Travel,Public Transport
-10085,2024-02-15,Debit,5234,Other,Donations
-10086,2024-02-17,Debit,130,Food,Fast Food
-10087,2024-02-18,Debit,1412,Travel,Ride-share
-10088,2024-02-18,Debit,467,Food,Groceries
-10089,2024-02-18,Debit,2242,Travel,Hotel
-10090,2024-02-18,Debit,3480,Entertainment,Events
-10091,2024-02-19,Debit,4402,Healthcare,Medical
-10092,2024-02-20,Debit,125,Food,Coffee Shop
-10093,2024-02-20,Debit,500,Bills,Insurance
-10094,2024-02-21,Debit,75,Food,Coffee Shop
-10095,2024-02-21,Debit,98,Food,Coffee Shop
-10096,2024-02-21,Debit,74,Food,Fast Food
-10097,2024-02-22,Debit,110,Food,Fast Food
-10098,2024-02-22,Debit,144,Food,Fast Food
-10099,2024-02-22,Debit,422,Travel,Taxi
-10100,2024-02-23,Debit,5446,Shopping,Clothing
-10101,2024-02-23,Debit,2500,Travel,Ride-share
-10102,2024-02-24,Debit,6696,Other,Miscellaneous
-10103,2024-02-24,Debit,206,Food,Restaurants
-10104,2024-02-25,Debit,79,Food,Coffee Shop
-10105,2024-02-25,Debit,583,Food,Bakery
-10106,2024-02-25,Debit,643,Food,Restaurants
-10107,2024-02-27,Debit,4173,Healthcare,Wellness
-10108,2024-02-27,Debit,101,Travel,Public Transport
-10109,2024-02-28,Debit,842,Travel,Fuel
-10110,2024-02-28,Debit,58,Food,Coffee Shop
-10111,2024-02-28,Debit,133,Travel,Public Transport
-10112,2024-02-29,Debit,124,Food,Coffee Shop
-10113,2024-02-29,Debit,2233,Shopping,Personal Care
-10114,2024-02-29,Debit,316,Food,Restaurants
-10115,2024-03-01,Debit,2000,Bills,Internet
-10116,2024-03-01,Credit,56010,Salary,Monthly Salary
-10117,2024-03-01,Debit,2000,Healthcare,Gym
-10118,2024-03-01,Debit,217,Food,Restaurants
-10119,2024-03-01,Debit,5109,Shopping,Clothing
-10120,2024-03-01,Debit,20000,Bills,Rent
-10121,2024-03-02,Debit,1509,Travel,Ride-share
-10122,2024-03-02,Debit,146,Food,Coffee Shop
-10123,2024-03-02,Debit,3474,Healthcare,Wellness
-10124,2024-03-02,Debit,2812,Entertainment,Movies
-10125,2024-03-03,Debit,713,Food,Bakery
-10126,2024-03-04,Debit,544,Travel,Parking
-10127,2024-03-04,Debit,1854,Travel,Flight
-10128,2024-03-04,Debit,1854,Shopping,Personal Care
-10129,2024-03-04,Debit,789,Food,Restaurants
-10130,2024-03-05,Debit,2000,Investment,SIP
-10131,2024-03-05,Debit,8044,Other,Donations
-10132,2024-03-05,Debit,522,Food,Bakery
-10133,2024-03-06,Debit,485,Food,Delivery
-10134,2024-03-06,Debit,1728,Entertainment,Hobbies
-10135,2024-03-07,Debit,412,Food,Delivery
-10136,2024-03-07,Debit,811,Travel,Taxi
-10137,2024-03-08,Debit,90,Travel,Public Transport
-10138,2024-03-08,Debit,497,Food,Restaurants
-10139,2024-03-09,Debit,5259,Other,Miscellaneous
-10140,2024-03-10,Debit,4235,Healthcare,Wellness
-10141,2024-03-10,Debit,1000,Bills,Phone
-10142,2024-03-10,Debit,1797,Travel,Parking
-10143,2024-03-10,Debit,2142,Bills,Electricity
-10144,2024-03-10,Debit,500,Bills,Water
-10145,2024-03-11,Debit,1000,Food,Restaurants
-10146,2024-03-13,Debit,454,Food,Bakery
-10147,2024-03-14,Debit,721,Food,Groceries
-10148,2024-03-15,Debit,506,Food,Groceries
-10149,2024-03-15,Debit,1053,Bills,Gas
-10150,2024-03-15,Debit,3034,Entertainment,Movies
-10151,2024-03-15,Debit,1500,Entertainment,Streaming
-10152,2024-03-16,Debit,557,Food,Delivery
-10153,2024-03-16,Debit,1452,Travel,Parking
-10154,2024-03-17,Debit,4587,Healthcare,Wellness
-10155,2024-03-17,Debit,556,Food,Delivery
-10156,2024-03-17,Debit,7645,Healthcare,Wellness
-10157,2024-03-18,Debit,1761,Travel,Ride-share
-10158,2024-03-19,Debit,2398,Travel,Flight
-10159,2024-03-19,Debit,1340,Travel,Taxi
-10160,2024-03-20,Debit,242,Food,Bakery
-10161,2024-03-20,Debit,500,Bills,Insurance
-10162,2024-03-21,Debit,1319,Travel,Parking
-10163,2024-03-21,Debit,4066,Shopping,Online
-10164,2024-03-21,Debit,4306,Healthcare,Wellness
-10165,2024-03-21,Debit,4218,Healthcare,Pharmacy
-10166,2024-03-23,Debit,111,Food,Fast Food
-10167,2024-03-23,Debit,9967,Healthcare,Wellness
-10168,2024-03-23,Debit,54,Food,Coffee Shop
-10169,2024-03-23,Debit,135,Food,Fast Food
-10170,2024-03-24,Debit,1532,Travel,Taxi
-10171,2024-03-24,Debit,94,Travel,Public Transport
-10172,2024-03-24,Debit,943,Travel,Fuel
-10173,2024-03-24,Debit,542,Food,Restaurants
-10174,2024-03-25,Debit,1345,Investment,Stocks
-10175,2024-03-27,Debit,106,Travel,Public Transport
-10176,2024-03-27,Credit,3911,Other,Transfer
-10177,2024-03-27,Debit,102,Food,Fast Food
-10178,2024-03-28,Debit,659,Investment,Mutual Funds
-10179,2024-03-28,Debit,2500,Travel,Taxi
-10180,2024-03-28,Debit,740,Food,Restaurants
-10181,2024-03-28,Debit,333,Food,Bakery
-10182,2024-03-29,Debit,2597,Shopping,Household
-10183,2024-03-30,Debit,2261,Travel,Hotel
-10184,2024-03-31,Debit,75,Food,Fast Food
-10185,2024-04-01,Debit,20000,Bills,Rent
-10186,2024-04-01,Credit,61357,Salary,Monthly Salary
-10187,2024-04-01,Debit,2000,Healthcare,Gym
-10188,2024-04-01,Debit,2000,Bills,Internet
-10189,2024-04-02,Debit,460,Travel,Taxi
-10190,2024-04-02,Debit,705,Food,Delivery
-10191,2024-04-02,Debit,1287,Travel,Parking
-10192,2024-04-03,Debit,393,Food,Bakery
-10193,2024-04-03,Debit,531,Food,Groceries
-10194,2024-04-03,Debit,353,Food,Restaurants
-10195,2024-04-03,Debit,590,Food,Bakery
-10196,2024-04-03,Debit,444,Food,Delivery
-10197,2024-04-03,Debit,5559,Shopping,Personal Care
-10198,2024-04-04,Debit,550,Food,Bakery
-10199,2024-04-04,Debit,2829,Entertainment,Hobbies
-10200,2024-04-05,Debit,369,Food,Restaurants
-10201,2024-04-05,Debit,1279,Investment,Crypto
-10202,2024-04-05,Debit,856,Travel,Taxi
-10203,2024-04-05,Debit,673,Food,Delivery
-10204,2024-04-05,Debit,366,Food,Restaurants
-10205,2024-04-05,Debit,2000,Investment,SIP
-10206,2024-04-05,Debit,4135,Healthcare,Pharmacy
-10207,2024-04-07,Debit,93,Food,Fast Food
-10208,2024-04-07,Debit,3558,Shopping,Electronics
-10209,2024-04-08,Debit,1000,Food,Bakery
-10210,2024-04-09,Debit,1083,Travel,Fuel
-10211,2024-04-09,Debit,792,Food,Bakery
-10212,2024-04-09,Debit,531,Food,Bakery
-10213,2024-04-09,Debit,6068,Other,Gifts
-10214,2024-04-10,Debit,270,Food,Groceries
-10215,2024-04-10,Debit,7735,Healthcare,Pharmacy
-10216,2024-04-10,Debit,1000,Bills,Phone
-10217,2024-04-10,Debit,604,Food,Bakery
-10218,2024-04-10,Debit,500,Bills,Water
-10219,2024-04-10,Debit,5000,Entertainment,Sports
-10220,2024-04-10,Debit,2235,Bills,Electricity
-10221,2024-04-10,Debit,3892,Other,Miscellaneous
-10222,2024-04-11,Debit,234,Food,Restaurants
-10223,2024-04-12,Debit,385,Food,Delivery
-10224,2024-04-12,Debit,679,Food,Restaurants
-10225,2024-04-12,Debit,867,Food,Groceries
-10226,2024-04-13,Debit,5000,Entertainment,Hobbies
-10227,2024-04-14,Debit,8147,Other,Donations
-10228,2024-04-14,Debit,623,Food,Bakery
-10229,2024-04-15,Debit,2424,Travel,Hotel
-10230,2024-04-15,Debit,2384,Travel,Flight
-10231,2024-04-15,Debit,876,Bills,Gas
-10232,2024-04-15,Debit,128,Food,Fast Food
-10233,2024-04-15,Debit,2500,Travel,Ride-share
-10234,2024-04-15,Debit,1500,Entertainment,Streaming
-10235,2024-04-16,Debit,2186,Travel,Hotel
-10236,2024-04-16,Debit,516,Food,Restaurants
-10237,2024-04-17,Debit,6528,Other,Miscellaneous
-10238,2024-04-18,Debit,342,Food,Delivery
-10239,2024-04-18,Debit,2565,Other,ATM Withdrawal
-10240,2024-04-19,Debit,5187,Shopping,Online
-10241,2024-04-19,Debit,6659,Healthcare,Medical
-10242,2024-04-19,Debit,471,Food,Restaurants
-10243,2024-04-19,Debit,1694,Investment,Mutual Funds
-10244,2024-04-19,Debit,142,Food,Bakery
-10245,2024-04-20,Debit,500,Bills,Insurance
-10246,2024-04-20,Debit,1930,Travel,Parking
-10247,2024-04-20,Debit,403,Food,Delivery
-10248,2024-04-20,Debit,681,Food,Delivery
-10249,2024-04-21,Debit,520,Food,Delivery
-10250,2024-04-21,Debit,4851,Shopping,Personal Care
-10251,2024-04-21,Debit,93,Food,Coffee Shop
-10252,2024-04-23,Debit,2429,Travel,Hotel
-10253,2024-04-23,Debit,118,Travel,Public Transport
-10254,2024-04-24,Debit,138,Food,Fast Food
-10255,2024-04-24,Debit,628,Food,Groceries
-10256,2024-04-25,Debit,1297,Entertainment,Movies
-10257,2024-04-26,Debit,1673,Travel,Fuel
-10258,2024-04-26,Debit,655,Food,Delivery
-10259,2024-04-26,Debit,5370,Other,Miscellaneous
-10260,2024-04-27,Debit,430,Food,Bakery
-10261,2024-04-27,Debit,72,Food,Coffee Shop
-10262,2024-04-27,Debit,415,Food,Bakery
-10263,2024-04-27,Debit,145,Food,Coffee Shop
-10264,2024-04-27,Debit,792,Food,Restaurants
-10265,2024-04-28,Credit,7313,Other,Transfer
-10266,2024-04-28,Debit,68,Food,Fast Food
-10267,2024-04-28,Debit,379,Food,Delivery
-10268,2024-04-28,Debit,488,Food,Groceries
-10269,2024-04-29,Credit,4779,Other,Transfer
-10270,2024-04-30,Credit,3333,Other,Transfer
-10271,2024-04-30,Debit,3058,Shopping,Books
-10272,2024-04-30,Debit,773,Food,Bakery
-10273,2024-05-01,Debit,20000,Bills,Rent
-10274,2024-05-01,Debit,2000,Healthcare,Gym
-10275,2024-05-01,Debit,2000,Bills,Internet
-10276,2024-05-01,Debit,126,Food,Coffee Shop
-10277,2024-05-01,Credit,58648,Salary,Monthly Salary
-10278,2024-05-01,Debit,1016,Entertainment,Gaming
-10279,2024-05-01,Debit,4353,Shopping,Household
-10280,2024-05-02,Debit,75,Food,Coffee Shop
-10281,2024-05-03,Debit,555,Food,Restaurants
-10282,2024-05-04,Debit,780,Food,Delivery
-10283,2024-05-04,Debit,3536,Shopping,Personal Care
-10284,2024-05-05,Debit,358,Food,Delivery
-10285,2024-05-05,Debit,415,Food,Delivery
-10286,2024-05-05,Debit,2000,Investment,SIP
-10287,2024-05-05,Debit,1306,Travel,Ride-share
-10288,2024-05-07,Debit,58,Travel,Public Transport
-10289,2024-05-07,Debit,725,Travel,Taxi
-10290,2024-05-07,Debit,259,Food,Bakery
-10291,2024-05-08,Debit,71,Food,Coffee Shop
-10292,2024-05-08,Debit,114,Travel,Public Transport
-10293,2024-05-09,Debit,956,Travel,Fuel
-10294,2024-05-09,Debit,147,Food,Coffee Shop
-10295,2024-05-09,Debit,727,Food,Bakery
-10296,2024-05-10,Debit,1953,Bills,Electricity
-10297,2024-05-10,Debit,2277,Travel,Flight
-10298,2024-05-10,Debit,103,Food,Coffee Shop
-10299,2024-05-10,Debit,500,Bills,Water
-10300,2024-05-10,Debit,1000,Bills,Phone
-10301,2024-05-11,Debit,469,Food,Bakery
-10302,2024-05-11,Debit,1510,Travel,Fuel
-10303,2024-05-12,Debit,748,Travel,Parking
-10304,2024-05-12,Debit,797,Travel,Taxi
-10305,2024-05-12,Debit,1936,Travel,Parking
-10306,2024-05-13,Debit,2028,Travel,Hotel
-10307,2024-05-13,Debit,75,Food,Coffee Shop
-10308,2024-05-14,Debit,617,Food,Groceries
-10309,2024-05-14,Debit,1000,Food,Bakery
-10310,2024-05-15,Debit,859,Bills,Gas
-10311,2024-05-15,Debit,1500,Entertainment,Streaming
-10312,2024-05-15,Debit,138,Food,Coffee Shop
-10313,2024-05-16,Debit,333,Food,Delivery
-10314,2024-05-17,Debit,123,Travel,Public Transport
-10315,2024-05-17,Debit,3994,Shopping,Personal Care
-10316,2024-05-18,Debit,595,Food,Delivery
-10317,2024-05-19,Credit,7556,Other,Transfer
-10318,2024-05-19,Debit,315,Food,Groceries
-10319,2024-05-19,Debit,2000,Investment,Stocks
-10320,2024-05-20,Debit,1942,Travel,Hotel
-10321,2024-05-20,Debit,500,Bills,Insurance
-10322,2024-05-20,Debit,1856,Travel,Taxi
-10323,2024-05-20,Debit,1000,Food,Bakery
-10324,2024-05-20,Debit,4439,Shopping,Clothing
-10325,2024-05-20,Debit,1126,Travel,Fuel
-10326,2024-05-21,Debit,665,Food,Restaurants
-10327,2024-05-21,Debit,99,Food,Coffee Shop
-10328,2024-05-22,Debit,2279,Travel,Hotel
-10329,2024-05-22,Debit,1072,Investment,Stocks
-10330,2024-05-23,Debit,5000,Entertainment,Hobbies
-10331,2024-05-23,Credit,3980,Other,Transfer
-10332,2024-05-23,Debit,143,Travel,Public Transport
-10333,2024-05-23,Debit,4218,Healthcare,Wellness
-10334,2024-05-23,Debit,3013,Shopping,Household
-10335,2024-05-23,Debit,855,Food,Groceries
-10336,2024-05-24,Debit,81,Travel,Public Transport
-10337,2024-05-24,Debit,10000,Other,Donations
-10338,2024-05-24,Debit,286,Food,Restaurants
-10339,2024-05-25,Debit,1000,Food,Bakery
-10340,2024-05-26,Debit,64,Food,Fast Food
-10341,2024-05-26,Debit,2206,Travel,Hotel
-10342,2024-05-27,Debit,544,Food,Delivery
-10343,2024-05-27,Debit,5410,Healthcare,Wellness
-10344,2024-05-29,Debit,3979,Entertainment,Movies
-10345,2024-05-29,Debit,10000,Shopping,Online
-10346,2024-05-29,Debit,391,Food,Restaurants
-10347,2024-05-31,Debit,610,Food,Bakery
-10348,2024-06-01,Debit,145,Food,Coffee Shop
-10349,2024-06-01,Debit,2000,Healthcare,Gym
-10350,2024-06-01,Debit,2457,Entertainment,Events
-10351,2024-06-01,Debit,2000,Bills,Internet
-10352,2024-06-01,Debit,133,Food,Fast Food
-10353,2024-06-01,Debit,54,Food,Coffee Shop
-10354,2024-06-01,Debit,20000,Bills,Rent
-10355,2024-06-01,Credit,58702,Salary,Monthly Salary
-10356,2024-06-02,Debit,2500,Travel,Taxi
-10357,2024-06-02,Debit,5002,Shopping,Electronics
-10358,2024-06-03,Debit,4458,Healthcare,Medical
-10359,2024-06-04,Debit,1969,Travel,Parking
-10360,2024-06-05,Debit,470,Food,Delivery
-10361,2024-06-05,Debit,5000,Entertainment,Gaming
-10362,2024-06-05,Debit,1000,Food,Bakery
-10363,2024-06-05,Debit,2000,Investment,SIP
-10364,2024-06-05,Debit,66,Travel,Public Transport
-10365,2024-06-05,Debit,2319,Travel,Hotel
-10366,2024-06-05,Debit,467,Food,Bakery
-10367,2024-06-06,Debit,500,Investment,Crypto
-10368,2024-06-06,Debit,330,Food,Delivery
-10369,2024-06-06,Debit,858,Travel,Ride-share
-10370,2024-06-06,Debit,1535,Travel,Ride-share
-10371,2024-06-07,Debit,645,Food,Delivery
-10372,2024-06-07,Debit,779,Travel,Fuel
-10373,2024-06-09,Debit,737,Food,Groceries
-10374,2024-06-10,Debit,500,Bills,Water
-10375,2024-06-10,Debit,416,Food,Delivery
-10376,2024-06-10,Debit,1831,Bills,Electricity
-10377,2024-06-10,Debit,1000,Bills,Phone
-10378,2024-06-10,Debit,2213,Travel,Hotel
-10379,2024-06-10,Debit,2282,Travel,Flight
-10380,2024-06-11,Debit,704,Food,Bakery
-10381,2024-06-11,Debit,105,Food,Fast Food
-10382,2024-06-12,Debit,1000,Food,Bakery
-10383,2024-06-12,Debit,500,Travel,Parking
-10384,2024-06-12,Debit,1131,Travel,Fuel
-10385,2024-06-13,Debit,91,Food,Fast Food
-10386,2024-06-13,Debit,95,Travel,Public Transport
-10387,2024-06-14,Debit,1900,Travel,Hotel
-10388,2024-06-15,Debit,1002,Bills,Gas
-10389,2024-06-15,Debit,1500,Entertainment,Streaming
-10390,2024-06-17,Debit,5391,Other,Transfer
-10391,2024-06-18,Debit,271,Food,Delivery
-10392,2024-06-18,Debit,110,Food,Fast Food
-10393,2024-06-19,Debit,473,Food,Bakery
-10394,2024-06-19,Debit,417,Food,Delivery
-10395,2024-06-20,Debit,500,Bills,Insurance
-10396,2024-06-22,Debit,2000,Investment,Crypto
-10397,2024-06-22,Debit,643,Food,Bakery
-10398,2024-06-24,Debit,6087,Healthcare,Medical
-10399,2024-06-25,Debit,2084,Travel,Flight
-10400,2024-06-25,Debit,1982,Other,Miscellaneous
-10401,2024-06-26,Debit,2072,Travel,Taxi
-10402,2024-06-27,Debit,55,Food,Fast Food
-10403,2024-06-27,Debit,107,Food,Coffee Shop
-10404,2024-06-27,Debit,1000,Food,Groceries
-10405,2024-06-28,Debit,496,Food,Delivery
-10406,2024-06-28,Debit,3498,Entertainment,Sports
-10407,2024-06-28,Debit,823,Food,Groceries
-10408,2024-06-28,Debit,492,Food,Restaurants
-10409,2024-06-29,Debit,750,Food,Bakery
-10410,2024-06-29,Debit,930,Food,Bakery
-10411,2024-06-30,Debit,409,Food,Delivery
-10412,2024-07-01,Debit,2000,Bills,Internet
-10413,2024-07-01,Credit,57670,Salary,Monthly Salary
-10414,2024-07-01,Debit,20000,Bills,Rent
-10415,2024-07-01,Debit,2000,Healthcare,Gym
-10416,2024-07-03,Debit,1089,Entertainment,Gaming
-10417,2024-07-03,Debit,371,Food,Restaurants
-10418,2024-07-03,Debit,999,Travel,Taxi
-10419,2024-07-03,Debit,120,Food,Fast Food
-10420,2024-07-04,Debit,359,Food,Restaurants
-10421,2024-07-04,Debit,2270,Travel,Hotel
-10422,2024-07-05,Debit,624,Food,Groceries
-10423,2024-07-05,Debit,1851,Travel,Hotel
-10424,2024-07-05,Debit,2000,Investment,SIP
-10425,2024-07-08,Debit,328,Food,Restaurants
-10426,2024-07-09,Debit,2000,Investment,Crypto
-10427,2024-07-09,Debit,10000,Shopping,Clothing
-10428,2024-07-09,Debit,345,Food,Groceries
-10429,2024-07-09,Debit,915,Travel,Parking
-10430,2024-07-10,Debit,500,Bills,Water
-10431,2024-07-10,Debit,1000,Bills,Phone
-10432,2024-07-10,Debit,1268,Investment,Stocks
-10433,2024-07-10,Debit,1716,Bills,Electricity
-10434,2024-07-10,Debit,6804,Other,Miscellaneous
-10435,2024-07-11,Debit,2500,Entertainment,Hobbies
-10436,2024-07-13,Debit,309,Food,Groceries
-10437,2024-07-13,Debit,1970,Entertainment,Movies
-10438,2024-07-13,Debit,75,Food,Coffee Shop
-10439,2024-07-13,Debit,95,Food,Coffee Shop
-10440,2024-07-13,Debit,72,Food,Fast Food
-10441,2024-07-14,Debit,282,Food,Groceries
-10442,2024-07-14,Debit,101,Food,Coffee Shop
-10443,2024-07-14,Debit,2921,Entertainment,Movies
-10444,2024-07-15,Debit,1500,Entertainment,Streaming
-10445,2024-07-15,Debit,910,Bills,Gas
-10446,2024-07-16,Debit,9789,Shopping,Electronics
-10447,2024-07-16,Debit,446,Food,Delivery
-10448,2024-07-16,Debit,62,Food,Fast Food
-10449,2024-07-16,Debit,4001,Shopping,Clothing
-10450,2024-07-17,Debit,118,Travel,Public Transport
-10451,2024-07-20,Debit,93,Food,Fast Food
-10452,2024-07-20,Debit,500,Bills,Insurance
-10453,2024-07-21,Debit,1000,Food,Delivery
-10454,2024-07-22,Debit,597,Food,Restaurants
-10455,2024-07-22,Debit,337,Food,Groceries
-10456,2024-07-23,Debit,322,Food,Groceries
-10457,2024-07-24,Debit,748,Investment,Stocks
-10458,2024-07-24,Debit,1854,Travel,Hotel
-10459,2024-07-24,Debit,543,Food,Bakery
-10460,2024-07-25,Debit,9073,Shopping,Personal Care
-10461,2024-07-27,Debit,2500,Travel,Parking
-10462,2024-07-27,Debit,105,Food,Fast Food
-10463,2024-07-27,Debit,111,Travel,Public Transport
-10464,2024-07-29,Debit,5152,Shopping,Books
-10465,2024-07-30,Debit,1586,Entertainment,Movies
-10466,2024-07-31,Debit,1568,Travel,Taxi
-10467,2024-07-31,Debit,3816,Healthcare,Wellness
-10468,2024-07-31,Debit,5600,Shopping,Books
-10469,2024-08-01,Debit,20000,Bills,Rent
-10470,2024-08-01,Debit,2000,Healthcare,Gym
-10471,2024-08-01,Credit,64367,Salary,Monthly Salary
-10472,2024-08-01,Debit,2000,Bills,Internet
-10473,2024-08-04,Debit,126,Food,Coffee Shop
-10474,2024-08-05,Debit,130,Food,Fast Food
-10475,2024-08-05,Debit,255,Food,Bakery
-10476,2024-08-05,Debit,2000,Investment,SIP
-10477,2024-08-06,Debit,97,Food,Coffee Shop
-10478,2024-08-06,Debit,623,Food,Delivery
-10479,2024-08-07,Debit,63,Food,Coffee Shop
-10480,2024-08-07,Debit,355,Food,Groceries
-10481,2024-08-07,Debit,145,Travel,Public Transport
-10482,2024-08-07,Credit,2491,Other,Transfer
-10483,2024-08-08,Debit,587,Food,Delivery
-10484,2024-08-09,Debit,679,Food,Bakery
-10485,2024-08-10,Debit,1000,Bills,Phone
-10486,2024-08-10,Debit,500,Bills,Water
-10487,2024-08-10,Debit,2090,Bills,Electricity
-10488,2024-08-10,Debit,2710,Entertainment,Movies
-10489,2024-08-11,Debit,2574,Entertainment,Hobbies
-10490,2024-08-11,Debit,3692,Shopping,Electronics
-10491,2024-08-11,Debit,4777,Healthcare,Wellness
-10492,2024-08-12,Debit,4497,Shopping,Electronics
-10493,2024-08-13,Debit,2368,Travel,Parking
-10494,2024-08-13,Debit,389,Food,Groceries
-10495,2024-08-14,Debit,719,Food,Bakery
-10496,2024-08-14,Debit,6559,Other,Gifts
-10497,2024-08-15,Debit,2088,Travel,Hotel
-10498,2024-08-15,Debit,5376,Other,Donations
-10499,2024-08-15,Debit,1500,Entertainment,Streaming
-10500,2024-08-15,Debit,1013,Bills,Gas
-10501,2024-08-15,Debit,551,Food,Restaurants
-10502,2024-08-16,Debit,2583,Entertainment,Movies
-10503,2024-08-17,Debit,1234,Travel,Fuel
-10504,2024-08-17,Debit,345,Food,Groceries
-10505,2024-08-18,Debit,295,Food,Groceries
-10506,2024-08-18,Debit,2991,Shopping,Online
-10507,2024-08-19,Debit,2056,Travel,Ride-share
-10508,2024-08-19,Debit,88,Food,Coffee Shop
-10509,2024-08-19,Debit,3999,Healthcare,Pharmacy
-10510,2024-08-20,Debit,500,Bills,Insurance
-10511,2024-08-21,Debit,1789,Travel,Flight
-10512,2024-08-21,Debit,852,Food,Restaurants
-10513,2024-08-22,Debit,1000,Food,Groceries
-10514,2024-08-23,Debit,4531,Healthcare,Medical
-10515,2024-08-24,Debit,889,Food,Groceries
-10516,2024-08-24,Debit,332,Food,Delivery
-10517,2024-08-25,Debit,397,Food,Delivery
-10518,2024-08-25,Debit,7436,Shopping,Personal Care
-10519,2024-08-25,Debit,10000,Healthcare,Medical
-10520,2024-08-25,Debit,121,Food,Fast Food
-10521,2024-08-26,Debit,127,Food,Fast Food
-10522,2024-08-27,Debit,129,Food,Fast Food
-10523,2024-08-27,Debit,1912,Entertainment,Hobbies
-10524,2024-08-27,Debit,717,Food,Delivery
-10525,2024-08-28,Debit,620,Food,Delivery
-10526,2024-08-28,Debit,1000,Food,Bakery
-10527,2024-08-28,Debit,64,Food,Coffee Shop
-10528,2024-08-29,Debit,60,Food,Fast Food
-10529,2024-08-29,Debit,4656,Shopping,Clothing
-10530,2024-08-29,Debit,2234,Travel,Hotel
-10531,2024-08-30,Debit,350,Food,Restaurants
-10532,2024-08-31,Debit,117,Food,Fast Food
-10533,2024-08-31,Debit,760,Travel,Parking
-10534,2024-08-31,Debit,82,Food,Coffee Shop
-10535,2024-09-01,Debit,88,Food,Coffee Shop
-10536,2024-09-01,Credit,61480,Salary,Monthly Salary
-10537,2024-09-01,Debit,2000,Healthcare,Gym
-10538,2024-09-01,Debit,2000,Bills,Internet
-10539,2024-09-01,Debit,937,Food,Restaurants
-10540,2024-09-01,Debit,20000,Bills,Rent
-10541,2024-09-02,Debit,306,Food,Restaurants
-10542,2024-09-03,Debit,7036,Healthcare,Medical
-10543,2024-09-03,Debit,1501,Travel,Ride-share
-10544,2024-09-03,Debit,719,Food,Delivery
-10545,2024-09-03,Debit,1308,Entertainment,Gaming
-10546,2024-09-03,Debit,2243,Travel,Flight
-10547,2024-09-04,Debit,572,Food,Bakery
-10548,2024-09-04,Debit,1858,Travel,Flight
-10549,2024-09-05,Debit,3165,Shopping,Clothing
-10550,2024-09-05,Debit,2000,Investment,SIP
-10551,2024-09-05,Debit,2000,Investment,Stocks
-10552,2024-09-05,Debit,1540,Travel,Fuel
-10553,2024-09-06,Debit,806,Food,Delivery
-10554,2024-09-06,Debit,116,Food,Fast Food
-10555,2024-09-07,Debit,1660,Entertainment,Movies
-10556,2024-09-07,Debit,201,Food,Delivery
-10557,2024-09-07,Debit,79,Food,Fast Food
-10558,2024-09-08,Debit,246,Food,Groceries
-10559,2024-09-09,Debit,1192,Investment,Crypto
-10560,2024-09-09,Debit,5106,Shopping,Online
-10561,2024-09-10,Debit,1971,Travel,Ride-share
-10562,2024-09-10,Debit,1878,Entertainment,Sports
-10563,2024-09-10,Debit,1832,Bills,Electricity
-10564,2024-09-10,Debit,1000,Bills,Phone
-10565,2024-09-10,Debit,500,Bills,Water
-10566,2024-09-11,Debit,572,Food,Restaurants
-10567,2024-09-11,Debit,66,Food,Fast Food
-10568,2024-09-11,Debit,2427,Travel,Hotel
-10569,2024-09-12,Debit,405,Food,Bakery
-10570,2024-09-12,Debit,251,Food,Groceries
-10571,2024-09-13,Debit,1662,Travel,Ride-share
-10572,2024-09-13,Debit,1205,Travel,Fuel
-10573,2024-09-13,Debit,391,Food,Delivery
-10574,2024-09-14,Debit,452,Food,Groceries
-10575,2024-09-15,Debit,1500,Entertainment,Streaming
-10576,2024-09-15,Debit,1027,Bills,Gas
-10577,2024-09-15,Debit,2389,Travel,Flight
-10578,2024-09-15,Debit,10000,Healthcare,Pharmacy
-10579,2024-09-16,Debit,639,Travel,Fuel
-10580,2024-09-17,Debit,526,Food,Groceries
-10581,2024-09-17,Debit,4789,Shopping,Clothing
-10582,2024-09-18,Debit,2462,Entertainment,Gaming
-10583,2024-09-18,Debit,145,Food,Fast Food
-10584,2024-09-19,Debit,1126,Travel,Ride-share
-10585,2024-09-19,Debit,67,Food,Fast Food
-10586,2024-09-19,Debit,4930,Shopping,Books
-10587,2024-09-20,Debit,4622,Shopping,Books
-10588,2024-09-20,Debit,500,Bills,Insurance
-10589,2024-09-20,Debit,707,Food,Delivery
-10590,2024-09-22,Debit,320,Food,Restaurants
-10591,2024-09-23,Debit,374,Food,Delivery
-10592,2024-09-24,Debit,2850,Shopping,Books
-10593,2024-09-24,Debit,2657,Entertainment,Hobbies
-10594,2024-09-24,Debit,302,Food,Restaurants
-10595,2024-09-25,Debit,88,Food,Coffee Shop
-10596,2024-09-25,Debit,1945,Travel,Hotel
-10597,2024-09-26,Debit,126,Food,Coffee Shop
-10598,2024-09-27,Debit,10000,Shopping,Personal Care
-10599,2024-09-27,Debit,62,Food,Coffee Shop
-10600,2024-09-27,Debit,905,Food,Bakery
-10601,2024-09-27,Debit,1000,Food,Groceries
-10602,2024-09-28,Debit,788,Food,Delivery
-10603,2024-09-28,Debit,112,Food,Fast Food
-10604,2024-09-28,Debit,2337,Travel,Flight
-10605,2024-09-28,Debit,253,Food,Groceries
-10606,2024-09-30,Debit,3998,Healthcare,Pharmacy
-10607,2024-09-30,Debit,404,Food,Groceries
-10608,2024-09-30,Debit,2500,Travel,Parking
-10609,2024-10-01,Debit,2000,Healthcare,Gym
-10610,2024-10-01,Debit,1347,Entertainment,Sports
-10611,2024-10-01,Debit,20000,Bills,Rent
-10612,2024-10-01,Debit,2000,Bills,Internet
-10613,2024-10-01,Credit,56711,Salary,Monthly Salary
-10614,2024-10-02,Debit,54,Food,Coffee Shop
-10615,2024-10-03,Debit,131,Food,Coffee Shop
-10616,2024-10-03,Debit,1027,Investment,Mutual Funds
-10617,2024-10-04,Debit,6501,Healthcare,Medical
-10618,2024-10-04,Debit,2252,Shopping,Personal Care
-10619,2024-10-05,Debit,2000,Investment,SIP
-10620,2024-10-05,Debit,10000,Shopping,Electronics
-10621,2024-10-05,Debit,82,Food,Fast Food
-10622,2024-10-05,Debit,110,Food,Fast Food
-10623,2024-10-06,Debit,598,Food,Delivery
-10624,2024-10-06,Debit,8290,Healthcare,Pharmacy
-10625,2024-10-06,Debit,551,Food,Restaurants
-10626,2024-10-06,Debit,2500,Travel,Fuel
-10627,2024-10-07,Debit,846,Food,Groceries
-10628,2024-10-07,Debit,5872,Shopping,Online
-10629,2024-10-08,Debit,2164,Travel,Taxi
-10630,2024-10-08,Debit,4942,Healthcare,Wellness
-10631,2024-10-08,Debit,113,Food,Coffee Shop
-10632,2024-10-08,Debit,408,Food,Delivery
-10633,2024-10-08,Debit,3633,Entertainment,Movies
-10634,2024-10-08,Debit,371,Travel,Ride-share
-10635,2024-10-09,Debit,1607,Entertainment,Gaming
-10636,2024-10-09,Debit,51,Food,Coffee Shop
-10637,2024-10-09,Debit,463,Food,Delivery
-10638,2024-10-09,Debit,407,Food,Restaurants
-10639,2024-10-10,Debit,613,Food,Restaurants
-10640,2024-10-10,Debit,500,Bills,Water
-10641,2024-10-10,Debit,1000,Bills,Phone
-10642,2024-10-10,Debit,2186,Bills,Electricity
-10643,2024-10-12,Debit,73,Food,Coffee Shop
-10644,2024-10-12,Debit,114,Food,Fast Food
-10645,2024-10-12,Debit,420,Food,Delivery
-10646,2024-10-12,Debit,452,Food,Delivery
-10647,2024-10-13,Debit,348,Food,Groceries
-10648,2024-10-14,Debit,10000,Healthcare,Wellness
-10649,2024-10-15,Debit,1143,Travel,Parking
-10650,2024-10-15,Debit,852,Bills,Gas
-10651,2024-10-15,Debit,1500,Entertainment,Streaming
-10652,2024-10-16,Debit,2850,Entertainment,Sports
-10653,2024-10-18,Debit,5797,Shopping,Household
-10654,2024-10-19,Debit,136,Travel,Public Transport
-10655,2024-10-19,Debit,1363,Shopping,Books
-10656,2024-10-19,Debit,543,Food,Restaurants
-10657,2024-10-20,Debit,5366,Healthcare,Medical
-10658,2024-10-20,Debit,500,Bills,Insurance
-10659,2024-10-20,Debit,3127,Entertainment,Sports
-10660,2024-10-20,Debit,789,Food,Restaurants
-10661,2024-10-20,Debit,2104,Travel,Hotel
-10662,2024-10-21,Debit,712,Food,Bakery
-10663,2024-10-21,Debit,487,Food,Restaurants
-10664,2024-10-21,Debit,1000,Food,Delivery
-10665,2024-10-21,Debit,4581,Shopping,Online
-10666,2024-10-22,Debit,10000,Shopping,Books
-10667,2024-10-22,Debit,609,Travel,Fuel
-10668,2024-10-22,Debit,791,Travel,Ride-share
-10669,2024-10-23,Debit,2467,Travel,Flight
-10670,2024-10-23,Debit,10000,Shopping,Clothing
-10671,2024-10-23,Debit,592,Travel,Fuel
-10672,2024-10-23,Debit,2430,Entertainment,Gaming
-10673,2024-10-24,Debit,2325,Travel,Parking
-10674,2024-10-25,Debit,121,Food,Coffee Shop
-10675,2024-10-25,Debit,947,Investment,Crypto
-10676,2024-10-25,Debit,537,Food,Groceries
-10677,2024-10-27,Debit,416,Food,Delivery
-10678,2024-10-27,Debit,60,Travel,Public Transport
-10679,2024-10-27,Debit,87,Food,Fast Food
-10680,2024-10-27,Debit,759,Travel,Ride-share
-10681,2024-10-28,Debit,628,Food,Restaurants
-10682,2024-10-29,Debit,63,Food,Coffee Shop
-10683,2024-10-29,Debit,7143,Shopping,Online
-10684,2024-10-29,Debit,793,Food,Groceries
-10685,2024-10-29,Debit,1150,Investment,Mutual Funds
-10686,2024-10-29,Debit,125,Food,Fast Food
-10687,2024-10-29,Debit,349,Food,Bakery
-10688,2024-10-29,Debit,909,Food,Bakery
-10689,2024-10-29,Debit,2341,Travel,Hotel
-10690,2024-10-30,Debit,679,Food,Restaurants
-10691,2024-11-01,Credit,62291,Salary,Monthly Salary
-10692,2024-11-01,Debit,2000,Healthcare,Gym
-10693,2024-11-01,Debit,2000,Bills,Internet
-10694,2024-11-01,Debit,20000,Bills,Rent
-10695,2024-11-02,Debit,410,Food,Groceries
-10696,2024-11-02,Debit,4246,Healthcare,Medical
-10697,2024-11-02,Debit,1321,Travel,Taxi
-10698,2024-11-03,Debit,81,Food,Coffee Shop
-10699,2024-11-03,Debit,3084,Entertainment,Gaming
-10700,2024-11-04,Debit,1278,Travel,Ride-share
-10701,2024-11-04,Debit,571,Travel,Fuel
-10702,2024-11-04,Debit,603,Food,Bakery
-10703,2024-11-05,Debit,2000,Investment,SIP
-10704,2024-11-05,Debit,698,Food,Groceries
-10705,2024-11-05,Debit,545,Food,Bakery
-10706,2024-11-05,Debit,5000,Entertainment,Gaming
-10707,2024-11-05,Debit,690,Food,Restaurants
-10708,2024-11-07,Debit,576,Food,Bakery
-10709,2024-11-07,Debit,71,Food,Fast Food
-10710,2024-11-10,Debit,2183,Bills,Electricity
-10711,2024-11-10,Debit,1000,Bills,Phone
-10712,2024-11-10,Debit,500,Bills,Water
-10713,2024-11-10,Debit,7491,Shopping,Electronics
-10714,2024-11-10,Debit,396,Food,Restaurants
-10715,2024-11-11,Debit,2424,Travel,Hotel
-10716,2024-11-11,Debit,7613,Shopping,Books
-10717,2024-11-11,Debit,1630,Entertainment,Events
-10718,2024-11-12,Debit,85,Food,Fast Food
-10719,2024-11-12,Debit,2338,Travel,Hotel
-10720,2024-11-12,Debit,450,Food,Delivery
-10721,2024-11-13,Debit,2005,Travel,Flight
-10722,2024-11-13,Debit,529,Travel,Parking
-10723,2024-11-13,Debit,573,Food,Restaurants
-10724,2024-11-14,Debit,9374,Shopping,Books
-10725,2024-11-14,Debit,1000,Food,Groceries
-10726,2024-11-15,Debit,271,Food,Bakery
-10727,2024-11-15,Debit,258,Food,Delivery
-10728,2024-11-15,Debit,118,Food,Coffee Shop
-10729,2024-11-15,Debit,6880,Other,Miscellaneous
-10730,2024-11-15,Debit,1059,Bills,Gas
-10731,2024-11-15,Debit,1500,Entertainment,Streaming
-10732,2024-11-16,Debit,770,Travel,Ride-share
-10733,2024-11-16,Debit,1820,Travel,Taxi
-10734,2024-11-16,Debit,2289,Travel,Hotel
-10735,2024-11-17,Debit,1959,Travel,Flight
-10736,2024-11-17,Debit,609,Food,Delivery
-10737,2024-11-17,Debit,289,Food,Restaurants
-10738,2024-11-17,Debit,879,Food,Groceries
-10739,2024-11-17,Debit,804,Travel,Parking
-10740,2024-11-18,Debit,2760,Healthcare,Medical
-10741,2024-11-20,Debit,831,Investment,Stocks
-10742,2024-11-20,Debit,500,Bills,Insurance
-10743,2024-11-20,Debit,283,Food,Bakery
-10744,2024-11-21,Debit,560,Food,Bakery
-10745,2024-11-22,Debit,1033,Travel,Ride-share
-10746,2024-11-22,Debit,1931,Travel,Ride-share
-10747,2024-11-23,Debit,2813,Entertainment,Gaming
-10748,2024-11-23,Debit,2011,Travel,Flight
-10749,2024-11-24,Debit,2506,Entertainment,Gaming
-10750,2024-11-25,Debit,257,Food,Restaurants
-10751,2024-11-26,Debit,75,Food,Coffee Shop
-10752,2024-11-26,Debit,1919,Travel,Flight
-10753,2024-11-27,Debit,10000,Shopping,Electronics
-10754,2024-11-28,Debit,633,Investment,Stocks
-10755,2024-11-28,Debit,1505,Travel,Ride-share
-10756,2024-11-28,Debit,110,Food,Coffee Shop
-10757,2024-11-28,Debit,741,Food,Delivery
-10758,2024-11-28,Debit,2109,Travel,Flight
-10759,2024-11-29,Credit,3391,Other,Transfer
-10760,2024-12-01,Debit,1972,Travel,Flight
-10761,2024-12-01,Debit,2000,Healthcare,Gym
-10762,2024-12-01,Debit,1305,Travel,Fuel
-10763,2024-12-01,Debit,20000,Bills,Rent
-10764,2024-12-01,Debit,2000,Bills,Internet
-10765,2024-12-01,Debit,590,Food,Restaurants
-10766,2024-12-01,Credit,56634,Salary,Monthly Salary
-10767,2024-12-01,Debit,460,Travel,Taxi
-10768,2024-12-01,Debit,3998,Shopping,Personal Care
-10769,2024-12-02,Debit,136,Food,Fast Food
-10770,2024-12-03,Debit,1782,Travel,Fuel
-10771,2024-12-03,Debit,2985,Shopping,Online
-10772,2024-12-04,Debit,3676,Shopping,Electronics
-10773,2024-12-04,Debit,81,Food,Coffee Shop
-10774,2024-12-04,Debit,1111,Entertainment,Movies
-10775,2024-12-04,Debit,97,Food,Coffee Shop
-10776,2024-12-05,Debit,3221,Other,Gifts
-10777,2024-12-05,Debit,321,Food,Groceries
-10778,2024-12-05,Debit,2000,Investment,SIP
-10779,2024-12-05,Debit,1832,Travel,Flight
-10780,2024-12-06,Debit,2588,Entertainment,Events
-10781,2024-12-06,Debit,126,Food,Coffee Shop
-10782,2024-12-06,Debit,619,Food,Delivery
-10783,2024-12-06,Debit,829,Travel,Ride-share
-10784,2024-12-07,Debit,117,Food,Fast Food
-10785,2024-12-07,Debit,194,Food,Restaurants
-10786,2024-12-07,Debit,1876,Travel,Hotel
-10787,2024-12-07,Debit,2105,Travel,Hotel
-10788,2024-12-10,Debit,500,Bills,Water
-10789,2024-12-10,Debit,1000,Bills,Phone
-10790,2024-12-10,Debit,2214,Travel,Hotel
-10791,2024-12-10,Debit,1004,Travel,Taxi
-10792,2024-12-10,Debit,584,Food,Groceries
-10793,2024-12-10,Debit,1904,Bills,Electricity
-10794,2024-12-11,Debit,1395,Shopping,Online
-10795,2024-12-11,Debit,2443,Travel,Hotel
-10796,2024-12-12,Debit,2198,Travel,Flight
-10797,2024-12-12,Debit,1000,Food,Groceries
-10798,2024-12-12,Debit,633,Food,Groceries
-10799,2024-12-13,Debit,1036,Travel,Taxi
-10800,2024-12-13,Debit,759,Food,Groceries
-10801,2024-12-14,Debit,77,Food,Coffee Shop
-10802,2024-12-14,Debit,357,Food,Restaurants
-10803,2024-12-14,Debit,138,Food,Fast Food
-10804,2024-12-14,Debit,7365,Healthcare,Wellness
-10805,2024-12-14,Debit,689,Food,Groceries
-10806,2024-12-15,Debit,897,Bills,Gas
-10807,2024-12-15,Debit,1500,Entertainment,Streaming
-10808,2024-12-15,Debit,1000,Food,Groceries
-10809,2024-12-16,Debit,3566,Shopping,Personal Care
-10810,2024-12-17,Debit,1813,Travel,Flight
-10811,2024-12-17,Debit,548,Food,Restaurants
-10812,2024-12-19,Debit,1027,Travel,Parking
-10813,2024-12-19,Debit,80,Food,Coffee Shop
-10814,2024-12-19,Debit,2500,Travel,Parking
-10815,2024-12-20,Debit,9270,Healthcare,Medical
-10816,2024-12-20,Debit,1262,Entertainment,Gaming
-10817,2024-12-20,Debit,500,Bills,Insurance
-10818,2024-12-21,Debit,93,Food,Coffee Shop
-10819,2024-12-22,Debit,5574,Other,Miscellaneous
-10820,2024-12-22,Debit,10000,Other,Gifts
-10821,2024-12-22,Debit,414,Food,Delivery
-10822,2024-12-23,Debit,380,Food,Groceries
-10823,2024-12-23,Debit,956,Travel,Fuel
-10824,2024-12-23,Debit,123,Travel,Public Transport
-10825,2024-12-24,Debit,87,Food,Coffee Shop
-10826,2024-12-24,Debit,1000,Food,Restaurants
-10827,2024-12-26,Debit,1000,Food,Groceries
-10828,2024-12-27,Debit,1306,Travel,Taxi
-10829,2024-12-28,Debit,2818,Shopping,Books
-10830,2024-12-28,Debit,1187,Travel,Fuel
-10831,2024-12-28,Debit,812,Food,Bakery
-10832,2024-12-30,Debit,9375,Healthcare,Wellness
-10833,2024-12-31,Debit,1801,Travel,Hotel
-10834,2025-01-01,Credit,64895,Salary,Monthly Salary
-10835,2025-01-01,Debit,2000,Bills,Internet
-10836,2025-01-01,Debit,20000,Bills,Rent
-10837,2025-01-01,Debit,2000,Healthcare,Gym
-10838,2025-01-03,Debit,2323,Entertainment,Hobbies
-10839,2025-01-03,Debit,1412,Investment,Crypto
-10840,2025-01-03,Debit,7499,Shopping,Books
-10841,2025-01-04,Debit,920,Travel,Taxi
-10842,2025-01-04,Debit,1981,Travel,Fuel
-10843,2025-01-04,Debit,1000,Food,Restaurants
-10844,2025-01-05,Debit,556,Travel,Taxi
-10845,2025-01-05,Debit,2000,Investment,SIP
-10846,2025-01-05,Debit,2768,Shopping,Clothing
-10847,2025-01-05,Debit,1000,Food,Restaurants
-10848,2025-01-05,Debit,751,Travel,Fuel
-10849,2025-01-05,Debit,1860,Travel,Parking
-10850,2025-01-05,Debit,2500,Travel,Fuel
-10851,2025-01-05,Debit,307,Food,Bakery
-10852,2025-01-06,Debit,1875,Travel,Taxi
-10853,2025-01-06,Debit,68,Travel,Public Transport
-10854,2025-01-07,Debit,1243,Travel,Taxi
-10855,2025-01-07,Debit,142,Travel,Public Transport
-10856,2025-01-09,Debit,1858,Travel,Hotel
-10857,2025-01-09,Debit,100,Food,Coffee Shop
-10858,2025-01-10,Debit,553,Travel,Parking
-10859,2025-01-10,Debit,1000,Bills,Phone
-10860,2025-01-10,Debit,500,Bills,Water
-10861,2025-01-10,Debit,2274,Bills,Electricity
-10862,2025-01-11,Debit,140,Food,Coffee Shop
-10863,2025-01-11,Debit,634,Travel,Parking
-10864,2025-01-12,Debit,780,Food,Bakery
-10865,2025-01-12,Debit,902,Food,Delivery
-10866,2025-01-13,Debit,105,Food,Coffee Shop
-10867,2025-01-14,Debit,593,Food,Restaurants
-10868,2025-01-14,Debit,1000,Food,Groceries
-10869,2025-01-14,Debit,4272,Entertainment,Events
-10870,2025-01-15,Debit,951,Bills,Gas
-10871,2025-01-15,Debit,1500,Entertainment,Streaming
-10872,2025-01-15,Debit,1733,Travel,Taxi
-10873,2025-01-16,Debit,848,Food,Restaurants
-10874,2025-01-17,Debit,125,Travel,Public Transport
-10875,2025-01-17,Debit,598,Travel,Ride-share
-10876,2025-01-17,Debit,222,Food,Restaurants
-10877,2025-01-18,Debit,2500,Travel,Ride-share
-10878,2025-01-18,Debit,3230,Entertainment,Sports
-10879,2025-01-18,Debit,2942,Other,Gifts
-10880,2025-01-19,Debit,9869,Healthcare,Pharmacy
-10881,2025-01-19,Debit,4168,Entertainment,Movies
-10882,2025-01-19,Debit,360,Food,Delivery
-10883,2025-01-20,Debit,500,Bills,Insurance
-10884,2025-01-20,Debit,3478,Entertainment,Gaming
-10885,2025-01-20,Debit,671,Food,Delivery
-10886,2025-01-20,Debit,146,Travel,Public Transport
-10887,2025-01-21,Debit,1000,Food,Delivery
-10888,2025-01-21,Debit,1558,Investment,Mutual Funds
-10889,2025-01-23,Debit,3628,Healthcare,Pharmacy
-10890,2025-01-23,Debit,1748,Entertainment,Gaming
-10891,2025-01-23,Debit,125,Food,Fast Food
-10892,2025-01-23,Debit,442,Food,Bakery
-10893,2025-01-23,Debit,617,Food,Groceries
-10894,2025-01-24,Debit,1729,Investment,Mutual Funds
-10895,2025-01-24,Debit,1021,Travel,Ride-share
-10896,2025-01-24,Debit,1000,Investment,Stocks
-10897,2025-01-25,Debit,150,Food,Coffee Shop
-10898,2025-01-25,Debit,256,Food,Delivery
-10899,2025-01-25,Debit,86,Food,Coffee Shop
-10900,2025-01-26,Debit,1298,Travel,Taxi
-10901,2025-01-27,Debit,9915,Shopping,Electronics
-10902,2025-01-28,Debit,1000,Food,Delivery
-10903,2025-01-28,Debit,10000,Healthcare,Wellness
-10904,2025-01-28,Debit,475,Food,Delivery
-10905,2025-01-28,Debit,1825,Travel,Parking
-10906,2025-01-30,Debit,147,Travel,Public Transport
-10907,2025-01-30,Debit,2259,Travel,Taxi
-10908,2025-01-30,Debit,2500,Travel,Fuel
-10909,2025-01-31,Debit,664,Travel,Parking
-10910,2025-02-01,Credit,61400,Salary,Monthly Salary
-10911,2025-02-01,Debit,2000,Healthcare,Gym
-10912,2025-02-01,Debit,7577,Other,Gifts
-10913,2025-02-01,Debit,3208,Entertainment,Gaming
-10914,2025-02-01,Debit,2000,Bills,Internet
-10915,2025-02-01,Debit,20000,Bills,Rent
-10916,2025-02-02,Debit,1637,Other,ATM Withdrawal
-10917,2025-02-02,Debit,117,Food,Fast Food
-10918,2025-02-03,Debit,2103,Travel,Hotel
-10919,2025-02-03,Debit,1000,Food,Delivery
-10920,2025-02-03,Debit,143,Food,Fast Food
-10921,2025-02-05,Debit,2000,Investment,SIP
-10922,2025-02-06,Debit,584,Investment,Stocks
-10923,2025-02-06,Debit,831,Travel,Taxi
-10924,2025-02-07,Debit,129,Travel,Public Transport
-10925,2025-02-07,Debit,106,Food,Coffee Shop
-10926,2025-02-08,Debit,937,Food,Groceries
-10927,2025-02-08,Debit,10000,Shopping,Online
-10928,2025-02-09,Debit,1372,Investment,Stocks
-10929,2025-02-09,Debit,403,Travel,Taxi
-10930,2025-02-09,Debit,4400,Other,ATM Withdrawal
-10931,2025-02-09,Debit,51,Food,Fast Food
-10932,2025-02-10,Debit,500,Bills,Water
-10933,2025-02-10,Debit,1000,Bills,Phone
-10934,2025-02-10,Debit,2052,Entertainment,Gaming
-10935,2025-02-10,Debit,1756,Bills,Electricity
-10936,2025-02-10,Debit,2307,Travel,Hotel
-10937,2025-02-10,Debit,87,Food,Coffee Shop
-10938,2025-02-10,Debit,7390,Healthcare,Pharmacy
-10939,2025-02-11,Debit,731,Food,Bakery
-10940,2025-02-11,Debit,10000,Healthcare,Medical
-10941,2025-02-11,Debit,1336,Investment,Stocks
-10942,2025-02-12,Debit,551,Food,Delivery
-10943,2025-02-13,Debit,477,Food,Restaurants
-10944,2025-02-13,Debit,432,Food,Bakery
-10945,2025-02-13,Debit,2080,Travel,Flight
-10946,2025-02-14,Debit,623,Food,Groceries
-10947,2025-02-14,Debit,2299,Travel,Taxi
-10948,2025-02-14,Debit,54,Food,Coffee Shop
-10949,2025-02-15,Debit,3619,Entertainment,Sports
-10950,2025-02-15,Debit,2500,Travel,Taxi
-10951,2025-02-15,Debit,879,Bills,Gas
-10952,2025-02-15,Debit,1500,Entertainment,Streaming
-10953,2025-02-16,Debit,100,Food,Fast Food
-10954,2025-02-16,Debit,579,Food,Bakery
-10955,2025-02-16,Debit,55,Travel,Public Transport
-10956,2025-02-18,Debit,2415,Travel,Fuel
-10957,2025-02-18,Debit,283,Food,Bakery
-10958,2025-02-18,Debit,2230,Travel,Flight
-10959,2025-02-18,Debit,695,Food,Bakery
-10960,2025-02-19,Debit,6556,Shopping,Books
-10961,2025-02-19,Debit,133,Food,Coffee Shop
-10962,2025-02-19,Debit,4028,Healthcare,Pharmacy
-10963,2025-02-19,Debit,4423,Shopping,Household
-10964,2025-02-19,Debit,95,Travel,Public Transport
-10965,2025-02-20,Debit,4611,Shopping,Books
-10966,2025-02-20,Debit,125,Food,Coffee Shop
-10967,2025-02-20,Debit,637,Food,Delivery
-10968,2025-02-20,Debit,500,Bills,Insurance
-10969,2025-02-22,Debit,90,Food,Fast Food
-10970,2025-02-22,Debit,364,Food,Delivery
-10971,2025-02-22,Debit,2000,Investment,Crypto
-10972,2025-02-22,Debit,10000,Other,Gifts
-10973,2025-02-22,Debit,374,Food,Groceries
-10974,2025-02-24,Debit,2057,Travel,Hotel
-10975,2025-02-24,Debit,118,Travel,Public Transport
-10976,2025-02-24,Debit,421,Food,Groceries
-10977,2025-02-26,Debit,10000,Healthcare,Medical
-10978,2025-02-27,Debit,1213,Entertainment,Movies
-10979,2025-02-27,Debit,1815,Investment,Stocks
-10980,2025-02-27,Debit,2755,Shopping,Online
-10981,2025-02-27,Debit,5000,Entertainment,Events
-10982,2025-02-27,Debit,133,Food,Fast Food
-10983,2025-02-28,Debit,1111,Travel,Fuel
-10984,2025-02-28,Debit,72,Travel,Public Transport
-10985,2025-02-28,Debit,447,Food,Delivery
-10986,2025-03-01,Credit,60570,Salary,Monthly Salary
-10987,2025-03-01,Debit,4786,Shopping,Books
-10988,2025-03-01,Debit,510,Food,Delivery
-10989,2025-03-01,Debit,6911,Other,ATM Withdrawal
-10990,2025-03-01,Debit,2000,Healthcare,Gym
-10991,2025-03-01,Debit,20000,Bills,Rent
-10992,2025-03-01,Debit,2000,Bills,Internet
-10993,2025-03-01,Debit,6071,Other,Gifts
-10994,2025-03-02,Debit,742,Travel,Ride-share
-10995,2025-03-02,Debit,4378,Entertainment,Hobbies
-10996,2025-03-02,Debit,1506,Travel,Taxi
-10997,2025-03-02,Debit,2253,Entertainment,Sports
-10998,2025-03-03,Debit,1969,Entertainment,Events
-10999,2025-03-03,Debit,9221,Shopping,Electronics
-11000,2025-03-04,Debit,1781,Investment,Crypto
-11001,2025-03-05,Debit,2000,Investment,SIP
-11002,2025-03-05,Debit,1565,Entertainment,Hobbies
-11003,2025-03-05,Debit,478,Food,Bakery
-11004,2025-03-05,Debit,2345,Travel,Flight
-11005,2025-03-06,Debit,284,Food,Delivery
-11006,2025-03-06,Debit,718,Food,Delivery
-11007,2025-03-06,Debit,425,Food,Bakery
-11008,2025-03-07,Debit,61,Food,Coffee Shop
-11009,2025-03-07,Debit,133,Food,Fast Food
-11010,2025-03-08,Debit,56,Food,Coffee Shop
-11011,2025-03-08,Debit,496,Food,Restaurants
-11012,2025-03-09,Credit,7323,Other,Transfer
-11013,2025-03-09,Debit,54,Food,Fast Food
-11014,2025-03-09,Debit,1947,Entertainment,Events
-11015,2025-03-09,Debit,575,Food,Bakery
-11016,2025-03-09,Debit,1196,Travel,Fuel
-11017,2025-03-10,Debit,994,Food,Bakery
-11018,2025-03-10,Debit,2299,Travel,Parking
-11019,2025-03-10,Debit,2209,Bills,Electricity
-11020,2025-03-10,Debit,1000,Bills,Phone
-11021,2025-03-10,Debit,1690,Travel,Fuel
-11022,2025-03-10,Debit,2800,Entertainment,Hobbies
-11023,2025-03-10,Debit,500,Bills,Water
-11024,2025-03-11,Debit,293,Food,Restaurants
-11025,2025-03-12,Debit,828,Travel,Ride-share
-11026,2025-03-12,Debit,347,Food,Bakery
-11027,2025-03-15,Debit,107,Food,Fast Food
-11028,2025-03-15,Debit,1500,Entertainment,Streaming
-11029,2025-03-15,Debit,923,Travel,Fuel
-11030,2025-03-15,Debit,147,Food,Coffee Shop
-11031,2025-03-15,Debit,727,Travel,Taxi
-11032,2025-03-15,Debit,1031,Bills,Gas
-11033,2025-03-16,Credit,1377,Investment,Crypto
-11034,2025-03-16,Debit,1741,Travel,Ride-share
-11035,2025-03-16,Debit,921,Travel,Taxi
-11036,2025-03-16,Debit,3137,Healthcare,Medical
-11037,2025-03-16,Debit,1000,Food,Restaurants
-11038,2025-03-17,Debit,92,Food,Fast Food
-11039,2025-03-18,Debit,804,Food,Bakery
-11040,2025-03-20,Debit,500,Bills,Insurance
-11041,2025-03-21,Debit,1416,Investment,Stocks
-11042,2025-03-21,Debit,114,Travel,Public Transport
-11043,2025-03-22,Debit,1354,Travel,Fuel
-11044,2025-03-22,Debit,1351,Travel,Taxi
-11045,2025-03-22,Debit,467,Food,Groceries
-11046,2025-03-23,Debit,978,Travel,Fuel
-11047,2025-03-23,Debit,1829,Travel,Hotel
-11048,2025-03-24,Debit,120,Food,Coffee Shop
-11049,2025-03-24,Debit,1254,Travel,Parking
-11050,2025-03-24,Debit,810,Travel,Fuel
-11051,2025-03-24,Debit,1209,Travel,Fuel
-11052,2025-03-26,Debit,661,Food,Groceries
-11053,2025-03-26,Debit,1038,Travel,Parking
-11054,2025-03-28,Debit,484,Food,Bakery
-11055,2025-03-28,Debit,68,Food,Fast Food
-11056,2025-03-28,Debit,1977,Travel,Flight
-11057,2025-03-28,Debit,6410,Shopping,Clothing
-11058,2025-03-28,Debit,121,Food,Coffee Shop
-11059,2025-03-28,Debit,3201,Shopping,Books
-11060,2025-03-28,Debit,831,Food,Groceries
-11061,2025-03-29,Debit,136,Food,Fast Food
-11062,2025-03-29,Debit,132,Food,Coffee Shop
-11063,2025-03-29,Debit,60,Food,Coffee Shop
-11064,2025-03-30,Debit,95,Travel,Public Transport
-11065,2025-03-30,Debit,1000,Food,Groceries
-11066,2025-03-30,Debit,593,Food,Delivery
-11067,2025-04-01,Debit,517,Travel,Ride-share
-11068,2025-04-01,Debit,948,Travel,Taxi
-11069,2025-04-01,Debit,5660,Shopping,Clothing
-11070,2025-04-01,Debit,20000,Bills,Rent
-11071,2025-04-01,Debit,2000,Bills,Internet
-11072,2025-04-01,Credit,63429,Salary,Monthly Salary
-11073,2025-04-01,Debit,2000,Healthcare,Gym
-11074,2025-04-02,Debit,98,Food,Coffee Shop
-11075,2025-04-02,Debit,7531,Shopping,Online
-11076,2025-04-04,Debit,2898,Entertainment,Sports
-11077,2025-04-04,Debit,967,Travel,Ride-share
-11078,2025-04-04,Debit,1701,Travel,Taxi
-11079,2025-04-04,Debit,101,Food,Fast Food
-11080,2025-04-05,Debit,87,Travel,Public Transport
-11081,2025-04-05,Debit,956,Travel,Parking
-11082,2025-04-05,Debit,3161,Entertainment,Events
-11083,2025-04-05,Debit,2000,Investment,SIP
-11084,2025-04-06,Debit,7798,Other,Donations
-11085,2025-04-06,Debit,2162,Travel,Hotel
-11086,2025-04-07,Debit,528,Food,Restaurants
-11087,2025-04-07,Debit,706,Travel,Fuel
-11088,2025-04-08,Debit,7840,Other,Miscellaneous
-11089,2025-04-09,Debit,66,Food,Fast Food
-11090,2025-04-09,Debit,117,Food,Fast Food
-11091,2025-04-09,Debit,81,Food,Fast Food
-11092,2025-04-09,Debit,4377,Shopping,Electronics
-11093,2025-04-09,Debit,379,Food,Groceries
-11094,2025-04-10,Debit,92,Food,Fast Food
-11095,2025-04-10,Debit,2184,Bills,Electricity
-11096,2025-04-10,Debit,500,Bills,Water
-11097,2025-04-10,Debit,84,Food,Fast Food
-11098,2025-04-10,Debit,2809,Shopping,Books
-11099,2025-04-10,Debit,1000,Bills,Phone
-11100,2025-04-11,Debit,2808,Healthcare,Pharmacy
-11101,2025-04-11,Debit,541,Food,Delivery
-11102,2025-04-11,Credit,7585,Other,Transfer
-11103,2025-04-12,Debit,6123,Shopping,Personal Care
-11104,2025-04-12,Debit,64,Food,Coffee Shop
-11105,2025-04-12,Debit,1013,Travel,Ride-share
-11106,2025-04-13,Debit,1669,Travel,Fuel
-11107,2025-04-13,Debit,874,Travel,Fuel
-11108,2025-04-13,Debit,6104,Other,Donations
-11109,2025-04-14,Debit,5537,Shopping,Books
-11110,2025-04-14,Debit,150,Food,Coffee Shop
-11111,2025-04-15,Debit,2500,Travel,Taxi
-11112,2025-04-15,Debit,1649,Travel,Fuel
-11113,2025-04-15,Debit,1069,Bills,Gas
-11114,2025-04-15,Debit,1500,Entertainment,Streaming
-11115,2025-04-15,Debit,668,Food,Bakery
-11116,2025-04-16,Debit,81,Food,Fast Food
-11117,2025-04-17,Debit,1961,Travel,Hotel
-11118,2025-04-17,Debit,1210,Investment,Crypto
-11119,2025-04-18,Debit,2676,Shopping,Books
-11120,2025-04-18,Credit,3913,Other,Transfer
-11121,2025-04-19,Debit,3460,Entertainment,Movies
-11122,2025-04-19,Debit,1774,Entertainment,Hobbies
-11123,2025-04-19,Debit,10000,Other,Donations
-11124,2025-04-20,Debit,2173,Travel,Hotel
-11125,2025-04-20,Debit,500,Bills,Insurance
-11126,2025-04-20,Debit,2109,Travel,Flight
-11127,2025-04-20,Debit,335,Food,Bakery
-11128,2025-04-21,Debit,352,Food,Delivery
-11129,2025-04-21,Debit,344,Food,Delivery
-11130,2025-04-21,Debit,850,Food,Bakery
-11131,2025-04-22,Debit,1474,Travel,Fuel
-11132,2025-04-22,Debit,2007,Entertainment,Hobbies
-11133,2025-04-23,Debit,285,Food,Bakery
-11134,2025-04-24,Debit,5165,Shopping,Online
-11135,2025-04-24,Debit,317,Food,Groceries
-11136,2025-04-24,Debit,191,Food,Bakery
-11137,2025-04-26,Debit,104,Travel,Public Transport
-11138,2025-04-26,Debit,608,Food,Groceries
-11139,2025-04-27,Debit,2386,Travel,Hotel
-11140,2025-04-28,Debit,1563,Entertainment,Movies
-11141,2025-04-28,Debit,104,Food,Restaurants
-11142,2025-04-28,Debit,2747,Shopping,Clothing
-11143,2025-04-29,Debit,348,Food,Bakery
-11144,2025-04-29,Debit,521,Food,Delivery
-11145,2025-04-29,Debit,1000,Food,Bakery
-11146,2025-04-30,Debit,357,Food,Groceries
-11147,2025-05-01,Debit,67,Food,Coffee Shop
-11148,2025-05-01,Credit,62760,Salary,Monthly Salary
-11149,2025-05-01,Debit,2000,Bills,Internet
-11150,2025-05-01,Debit,1000,Food,Delivery
-11151,2025-05-01,Debit,20000,Bills,Rent
-11152,2025-05-01,Debit,1762,Travel,Hotel
-11153,2025-05-01,Debit,2000,Healthcare,Gym
-11154,2025-05-02,Debit,567,Food,Bakery
-11155,2025-05-02,Debit,2476,Shopping,Household
-11156,2025-05-04,Debit,6180,Shopping,Electronics
-11157,2025-05-04,Debit,466,Food,Groceries
-11158,2025-05-05,Debit,5398,Shopping,Electronics
-11159,2025-05-05,Debit,767,Food,Delivery
-11160,2025-05-05,Debit,2586,Entertainment,Gaming
-11161,2025-05-05,Debit,617,Food,Delivery
-11162,2025-05-05,Debit,2000,Investment,SIP
-11163,2025-05-05,Debit,2676,Entertainment,Gaming
-11164,2025-05-05,Debit,1052,Travel,Taxi
-11165,2025-05-06,Debit,782,Travel,Ride-share
-11166,2025-05-06,Debit,7547,Shopping,Online
-11167,2025-05-09,Debit,1448,Travel,Ride-share
-11168,2025-05-10,Debit,7282,Shopping,Electronics
-11169,2025-05-10,Debit,999,Travel,Parking
-11170,2025-05-10,Debit,2000,Investment,Mutual Funds
-11171,2025-05-10,Debit,500,Bills,Water
-11172,2025-05-10,Debit,2022,Bills,Electricity
-11173,2025-05-10,Debit,1000,Bills,Phone
-11174,2025-05-10,Debit,122,Food,Fast Food
-11175,2025-05-11,Debit,880,Food,Groceries
-11176,2025-05-12,Debit,891,Food,Delivery
-11177,2025-05-12,Debit,776,Food,Groceries
-11178,2025-05-12,Debit,1236,Travel,Ride-share
-11179,2025-05-12,Debit,259,Food,Groceries
-11180,2025-05-13,Debit,374,Food,Restaurants
-11181,2025-05-14,Debit,576,Food,Restaurants
-11182,2025-05-14,Debit,5405,Healthcare,Medical
-11183,2025-05-14,Debit,54,Food,Coffee Shop
-11184,2025-05-15,Debit,5545,Shopping,Online
-11185,2025-05-15,Debit,1500,Entertainment,Streaming
-11186,2025-05-15,Debit,1142,Bills,Gas
-11187,2025-05-15,Debit,10000,Other,Transfer
-11188,2025-05-16,Debit,2172,Travel,Flight
-11189,2025-05-16,Debit,5666,Other,Miscellaneous
-11190,2025-05-16,Debit,91,Food,Coffee Shop
-11191,2025-05-16,Debit,5490,Other,Donations
-11192,2025-05-16,Debit,281,Food,Restaurants
-11193,2025-05-17,Debit,448,Food,Groceries
-11194,2025-05-17,Debit,565,Travel,Ride-share
-11195,2025-05-17,Debit,7088,Healthcare,Medical
-11196,2025-05-17,Debit,541,Food,Delivery
-11197,2025-05-18,Debit,547,Food,Groceries
-11198,2025-05-19,Debit,1395,Investment,Mutual Funds
-11199,2025-05-20,Debit,500,Bills,Insurance
-11200,2025-05-20,Debit,377,Food,Delivery
-11201,2025-05-20,Debit,696,Travel,Fuel
-11202,2025-05-21,Debit,68,Food,Fast Food
-11203,2025-05-22,Debit,116,Food,Fast Food
-11204,2025-05-22,Debit,3019,Shopping,Electronics
-11205,2025-05-22,Debit,528,Food,Groceries
-11206,2025-05-23,Debit,2123,Travel,Flight
-11207,2025-05-24,Debit,2047,Entertainment,Sports
-11208,2025-05-25,Debit,279,Food,Bakery
-11209,2025-05-25,Debit,100,Travel,Public Transport
-11210,2025-05-26,Debit,2578,Healthcare,Pharmacy
-11211,2025-05-27,Credit,5279,Other,Transfer
-11212,2025-05-28,Debit,639,Travel,Ride-share
-11213,2025-05-28,Debit,2209,Travel,Hotel
-11214,2025-05-29,Debit,1792,Travel,Hotel
-11215,2025-05-29,Debit,4383,Shopping,Books
-11216,2025-05-29,Debit,7707,Healthcare,Wellness
-11217,2025-05-30,Debit,318,Food,Restaurants
-11218,2025-05-31,Debit,1000,Food,Delivery
-11219,2025-06-01,Debit,10000,Shopping,Electronics
-11220,2025-06-01,Debit,93,Food,Coffee Shop
-11221,2025-06-01,Debit,2000,Healthcare,Gym
-11222,2025-06-01,Credit,57290,Salary,Monthly Salary
-11223,2025-06-01,Debit,2000,Bills,Internet
-11224,2025-06-01,Debit,20000,Bills,Rent
-11225,2025-06-01,Debit,2500,Travel,Parking
-11226,2025-06-02,Debit,460,Food,Bakery
-11227,2025-06-02,Debit,63,Food,Fast Food
-11228,2025-06-03,Debit,2491,Travel,Hotel
-11229,2025-06-03,Debit,2155,Travel,Hotel
-11230,2025-06-03,Debit,70,Food,Coffee Shop
-11231,2025-06-03,Debit,202,Food,Groceries
-11232,2025-06-05,Debit,2000,Investment,SIP
-11233,2025-06-05,Debit,1620,Travel,Taxi
-11234,2025-06-06,Debit,1836,Travel,Flight
-11235,2025-06-06,Debit,2500,Travel,Ride-share
-11236,2025-06-08,Debit,541,Travel,Fuel
-11237,2025-06-09,Debit,1862,Travel,Ride-share
-11238,2025-06-09,Debit,5103,Shopping,Household
-11239,2025-06-10,Debit,500,Bills,Water
-11240,2025-06-10,Debit,1000,Food,Groceries
-11241,2025-06-10,Debit,1000,Bills,Phone
-11242,2025-06-10,Debit,1927,Bills,Electricity
-11243,2025-06-11,Debit,4360,Shopping,Online
-11244,2025-06-11,Debit,1070,Travel,Parking
-11245,2025-06-11,Debit,1159,Travel,Parking
-11246,2025-06-13,Debit,400,Food,Delivery
-11247,2025-06-13,Debit,63,Travel,Public Transport
-11248,2025-06-14,Debit,765,Food,Delivery
-11249,2025-06-14,Debit,112,Food,Fast Food
-11250,2025-06-14,Debit,1696,Travel,Parking
-11251,2025-06-15,Debit,130,Travel,Public Transport
-11252,2025-06-15,Debit,1500,Entertainment,Streaming
-11253,2025-06-15,Debit,6212,Other,Donations
-11254,2025-06-15,Debit,135,Travel,Public Transport
-11255,2025-06-15,Debit,1016,Bills,Gas
-11256,2025-06-15,Debit,676,Food,Bakery
-11257,2025-06-16,Debit,119,Food,Coffee Shop
-11258,2025-06-17,Debit,96,Food,Fast Food
-11259,2025-06-17,Debit,1864,Entertainment,Gaming
-11260,2025-06-17,Debit,396,Food,Delivery
-11261,2025-06-18,Debit,665,Food,Bakery
-11262,2025-06-20,Credit,32035,Salary,Bonus
-11263,2025-06-20,Debit,453,Travel,Taxi
-11264,2025-06-20,Debit,10000,Healthcare,Medical
-11265,2025-06-20,Debit,500,Bills,Insurance
-11266,2025-06-20,Debit,5977,Healthcare,Medical
-11267,2025-06-20,Debit,2291,Travel,Flight
-11268,2025-06-20,Debit,3941,Shopping,Household
-11269,2025-06-21,Debit,78,Food,Coffee Shop
-11270,2025-06-21,Debit,1773,Entertainment,Events
-11271,2025-06-22,Debit,2411,Shopping,Household
-11272,2025-06-22,Debit,580,Food,Delivery
-11273,2025-06-22,Debit,1270,Travel,Taxi
-11274,2025-06-23,Debit,986,Travel,Fuel
-11275,2025-06-23,Debit,1981,Travel,Flight
-11276,2025-06-23,Debit,1640,Travel,Fuel
-11277,2025-06-24,Debit,92,Food,Coffee Shop
-11278,2025-06-24,Debit,7108,Shopping,Books
-11279,2025-06-24,Debit,899,Travel,Parking
-11280,2025-06-24,Debit,4049,Healthcare,Medical
-11281,2025-06-25,Debit,1000,Food,Groceries
-11282,2025-06-25,Debit,1866,Entertainment,Gaming
-11283,2025-06-25,Debit,147,Food,Fast Food
-11284,2025-06-26,Debit,8997,Healthcare,Wellness
-11285,2025-06-26,Debit,3869,Entertainment,Gaming
-11286,2025-06-27,Debit,335,Food,Restaurants
-11287,2025-06-27,Debit,2295,Shopping,Electronics
-11288,2025-06-27,Debit,803,Food,Delivery
-11289,2025-06-27,Debit,836,Food,Restaurants
-11290,2025-06-27,Debit,110,Food,Coffee Shop
-11291,2025-06-29,Debit,1923,Travel,Flight
-11292,2025-06-29,Debit,1000,Food,Restaurants
-11293,2025-06-30,Debit,926,Food,Restaurants
-11294,2025-06-30,Debit,1000,Food,Delivery
-11295,2025-06-30,Debit,700,Travel,Ride-share
-11296,2025-07-01,Debit,2000,Bills,Internet
-11297,2025-07-01,Debit,2000,Healthcare,Gym
-11298,2025-07-01,Debit,20000,Bills,Rent
-11299,2025-07-01,Credit,750,Investment,Crypto
-11300,2025-07-01,Credit,57110,Salary,Monthly Salary
-11301,2025-07-02,Debit,264,Food,Bakery
-11302,2025-07-03,Debit,943,Investment,Crypto
-11303,2025-07-03,Debit,127,Food,Fast Food
-11304,2025-07-03,Debit,144,Food,Fast Food
-11305,2025-07-04,Debit,1345,Entertainment,Sports
-11306,2025-07-04,Debit,8871,Shopping,Books
-11307,2025-07-04,Debit,2787,Entertainment,Sports
-11308,2025-07-04,Debit,629,Food,Restaurants
-11309,2025-07-05,Debit,2000,Investment,SIP
-11310,2025-07-05,Debit,506,Food,Delivery
-11311,2025-07-05,Debit,235,Food,Bakery
-11312,2025-07-06,Debit,367,Food,Groceries
-11313,2025-07-06,Debit,5000,Entertainment,Gaming
-11314,2025-07-06,Debit,142,Food,Coffee Shop
-11315,2025-07-07,Debit,9964,Healthcare,Pharmacy
-11316,2025-07-07,Debit,347,Food,Delivery
-11317,2025-07-07,Debit,309,Food,Groceries
-11318,2025-07-09,Debit,139,Travel,Public Transport
-11319,2025-07-10,Debit,823,Travel,Parking
-11320,2025-07-10,Debit,6646,Shopping,Household
-11321,2025-07-10,Debit,2198,Bills,Electricity
-11322,2025-07-10,Debit,1000,Bills,Phone
-11323,2025-07-10,Debit,500,Bills,Water
-11324,2025-07-12,Debit,1509,Investment,Mutual Funds
-11325,2025-07-13,Debit,140,Food,Coffee Shop
-11326,2025-07-13,Debit,520,Food,Restaurants
-11327,2025-07-15,Debit,642,Food,Bakery
-11328,2025-07-15,Debit,1500,Entertainment,Streaming
-11329,2025-07-15,Debit,260,Food,Delivery
-11330,2025-07-15,Debit,1036,Bills,Gas
-11331,2025-07-16,Debit,4043,Shopping,Household
-11332,2025-07-17,Debit,85,Food,Fast Food
-11333,2025-07-17,Credit,2000,Investment,Mutual Funds
-11334,2025-07-17,Debit,10000,Shopping,Electronics
-11335,2025-07-18,Debit,2191,Travel,Flight
-11336,2025-07-18,Debit,10000,Healthcare,Pharmacy
-11337,2025-07-18,Debit,1306,Travel,Ride-share
-11338,2025-07-19,Debit,989,Food,Delivery
-11339,2025-07-19,Debit,2185,Entertainment,Events
-11340,2025-07-19,Debit,6962,Healthcare,Pharmacy
-11341,2025-07-19,Debit,367,Food,Groceries
-11342,2025-07-19,Credit,2690,Other,Transfer
-11343,2025-07-20,Debit,500,Bills,Insurance
-11344,2025-07-20,Debit,84,Food,Coffee Shop
-11345,2025-07-20,Debit,792,Food,Restaurants
-11346,2025-07-21,Debit,2500,Travel,Fuel
-11347,2025-07-21,Debit,143,Food,Fast Food
-11348,2025-07-21,Debit,260,Food,Restaurants
-11349,2025-07-22,Debit,337,Food,Restaurants
-11350,2025-07-22,Debit,2000,Investment,Crypto
-11351,2025-07-23,Debit,1000,Food,Groceries
-11352,2025-07-23,Debit,433,Food,Bakery
-11353,2025-07-23,Debit,4147,Entertainment,Sports
-11354,2025-07-24,Debit,389,Food,Groceries
-11355,2025-07-24,Debit,1925,Entertainment,Hobbies
-11356,2025-07-25,Debit,6039,Shopping,Online
-11357,2025-07-25,Debit,2040,Travel,Flight
-11358,2025-07-26,Debit,2251,Travel,Hotel
-11359,2025-07-26,Debit,1726,Investment,Mutual Funds
-11360,2025-07-26,Debit,3585,Entertainment,Gaming
-11361,2025-07-27,Debit,5864,Other,Gifts
-11362,2025-07-27,Debit,6677,Shopping,Books
-11363,2025-07-28,Debit,142,Food,Fast Food
-11364,2025-07-28,Debit,76,Food,Coffee Shop
-11365,2025-07-28,Debit,470,Food,Groceries
-11366,2025-07-29,Debit,3374,Entertainment,Sports
-11367,2025-07-29,Debit,1553,Travel,Fuel
-11368,2025-07-29,Debit,871,Travel,Fuel
-11369,2025-07-29,Debit,9295,Other,Donations
-11370,2025-07-29,Debit,1434,Travel,Ride-share
-11371,2025-07-30,Debit,2914,Entertainment,Gaming
-11372,2025-07-31,Debit,5034,Healthcare,Wellness
-11373,2025-07-31,Debit,6151,Healthcare,Medical
-11374,2025-07-31,Debit,10000,Shopping,Clothing
-11375,2025-07-31,Debit,945,Investment,Mutual Funds
-11376,2025-08-01,Debit,20000,Bills,Rent
-11377,2025-08-01,Debit,4166,Healthcare,Medical
-11378,2025-08-01,Debit,2226,Travel,Flight
-11379,2025-08-01,Debit,3897,Other,ATM Withdrawal
-11380,2025-08-01,Debit,2000,Bills,Internet
-11381,2025-08-01,Debit,2000,Healthcare,Gym
-11382,2025-08-01,Credit,64429,Salary,Monthly Salary
-11383,2025-08-02,Debit,566,Food,Bakery
-11384,2025-08-02,Debit,628,Food,Bakery
-11385,2025-08-02,Debit,528,Food,Groceries
-11386,2025-08-02,Debit,10000,Healthcare,Medical
-11387,2025-08-03,Debit,1638,Travel,Fuel
-11388,2025-08-03,Debit,614,Food,Groceries
-11389,2025-08-03,Debit,6345,Healthcare,Pharmacy
-11390,2025-08-03,Debit,5455,Healthcare,Pharmacy
-11391,2025-08-04,Debit,9061,Shopping,Books
-11392,2025-08-04,Debit,5287,Shopping,Personal Care
-11393,2025-08-05,Debit,2000,Investment,SIP
-11394,2025-08-05,Debit,94,Food,Fast Food
-11395,2025-08-06,Debit,117,Food,Coffee Shop
-11396,2025-08-07,Debit,2500,Travel,Parking
-11397,2025-08-07,Debit,97,Food,Coffee Shop
-11398,2025-08-08,Debit,1891,Travel,Flight
-11399,2025-08-08,Debit,1180,Travel,Parking
-11400,2025-08-09,Debit,5834,Shopping,Personal Care
-11401,2025-08-09,Debit,97,Travel,Public Transport
-11402,2025-08-09,Debit,6705,Shopping,Clothing
-11403,2025-08-09,Debit,1832,Travel,Flight
-11404,2025-08-10,Debit,500,Bills,Water
-11405,2025-08-10,Debit,1000,Bills,Phone
-11406,2025-08-10,Debit,2217,Bills,Electricity
-11407,2025-08-11,Debit,2109,Travel,Fuel
-11408,2025-08-12,Debit,145,Food,Coffee Shop
-11409,2025-08-12,Debit,4530,Entertainment,Events
-11410,2025-08-13,Debit,1000,Food,Bakery
-11411,2025-08-13,Debit,598,Food,Restaurants
-11412,2025-08-14,Debit,1794,Entertainment,Hobbies
-11413,2025-08-14,Debit,71,Food,Coffee Shop
-11414,2025-08-15,Debit,464,Food,Groceries
-11415,2025-08-15,Debit,1023,Bills,Gas
-11416,2025-08-15,Debit,1114,Travel,Taxi
-11417,2025-08-15,Debit,1500,Entertainment,Streaming
-11418,2025-08-16,Debit,115,Food,Coffee Shop
-11419,2025-08-16,Debit,787,Travel,Parking
-11420,2025-08-17,Debit,4875,Other,Donations
-11421,2025-08-17,Debit,2500,Travel,Taxi
-11422,2025-08-19,Debit,4039,Shopping,Books
-11423,2025-08-20,Debit,55,Travel,Public Transport
-11424,2025-08-20,Debit,500,Bills,Insurance
-11425,2025-08-20,Debit,726,Food,Delivery
-11426,2025-08-20,Debit,9115,Shopping,Household
-11427,2025-08-20,Debit,347,Food,Restaurants
-11428,2025-08-20,Debit,102,Food,Coffee Shop
-11429,2025-08-21,Debit,490,Food,Delivery
-11430,2025-08-21,Debit,4344,Entertainment,Hobbies
-11431,2025-08-21,Debit,588,Food,Bakery
-11432,2025-08-22,Debit,809,Food,Delivery
-11433,2025-08-23,Debit,367,Food,Restaurants
-11434,2025-08-23,Debit,106,Food,Coffee Shop
-11435,2025-08-23,Debit,4241,Shopping,Electronics
-11436,2025-08-24,Debit,447,Food,Bakery
-11437,2025-08-24,Debit,4925,Other,ATM Withdrawal
-11438,2025-08-24,Debit,150,Food,Coffee Shop
-11439,2025-08-25,Debit,73,Food,Coffee Shop
-11440,2025-08-29,Debit,82,Food,Fast Food
-11441,2025-08-29,Debit,4387,Other,Gifts
-11442,2025-08-29,Debit,1152,Travel,Taxi
-11443,2025-08-29,Debit,349,Food,Bakery
-11444,2025-08-30,Debit,1204,Travel,Parking
-11445,2025-08-31,Debit,585,Food,Delivery
-11446,2025-08-31,Debit,855,Food,Groceries
-11447,2025-08-31,Debit,1114,Travel,Taxi
-11448,2025-08-31,Debit,1437,Investment,Crypto
-11449,2025-09-01,Credit,63764,Salary,Monthly Salary
-11450,2025-09-01,Debit,2000,Bills,Internet
-11451,2025-09-01,Debit,20000,Bills,Rent
-11452,2025-09-01,Debit,2000,Healthcare,Gym
-11453,2025-09-01,Debit,450,Food,Groceries
-11454,2025-09-02,Debit,472,Food,Groceries
-11455,2025-09-02,Credit,4134,Other,Transfer
-11456,2025-09-02,Debit,2596,Shopping,Clothing
-11457,2025-09-03,Debit,2241,Travel,Hotel
-11458,2025-09-03,Debit,10000,Other,Gifts
-11459,2025-09-03,Debit,79,Food,Coffee Shop
-11460,2025-09-03,Debit,978,Travel,Parking
-11461,2025-09-03,Debit,988,Travel,Parking
-11462,2025-09-03,Debit,626,Travel,Taxi
-11463,2025-09-04,Debit,973,Investment,Stocks
-11464,2025-09-04,Debit,2797,Entertainment,Movies
-11465,2025-09-05,Debit,99,Food,Fast Food
-11466,2025-09-05,Debit,2000,Investment,SIP
-11467,2025-09-05,Debit,574,Travel,Fuel
-11468,2025-09-06,Debit,794,Food,Groceries
-11469,2025-09-08,Debit,1750,Travel,Taxi
-11470,2025-09-09,Debit,1863,Travel,Hotel
-11471,2025-09-10,Debit,2024,Entertainment,Gaming
-11472,2025-09-10,Debit,1000,Bills,Phone
-11473,2025-09-10,Debit,2123,Bills,Electricity
-11474,2025-09-10,Debit,500,Bills,Water
-11475,2025-09-11,Debit,782,Travel,Ride-share
-11476,2025-09-11,Debit,1485,Entertainment,Hobbies
-11477,2025-09-11,Debit,2500,Travel,Parking
-11478,2025-09-11,Debit,1419,Travel,Ride-share
-11479,2025-09-12,Debit,8333,Shopping,Online
-11480,2025-09-12,Debit,129,Food,Coffee Shop
-11481,2025-09-12,Debit,834,Travel,Taxi
-11482,2025-09-12,Debit,62,Food,Coffee Shop
-11483,2025-09-13,Debit,645,Food,Bakery
-11484,2025-09-13,Debit,1008,Travel,Parking
-11485,2025-09-13,Debit,72,Food,Fast Food
-11486,2025-09-15,Debit,1500,Entertainment,Streaming
-11487,2025-09-15,Debit,182,Food,Bakery
-11488,2025-09-15,Debit,864,Bills,Gas
-11489,2025-09-15,Debit,2232,Travel,Taxi
-11490,2025-09-15,Debit,412,Food,Restaurants
-11491,2025-09-16,Debit,612,Food,Delivery
-11492,2025-09-16,Debit,1219,Travel,Ride-share
-11493,2025-09-17,Debit,518,Food,Groceries
-11494,2025-09-17,Debit,125,Travel,Public Transport
-11495,2025-09-17,Debit,8529,Other,Gifts
-11496,2025-09-17,Debit,1862,Shopping,Books
-11497,2025-09-18,Debit,119,Travel,Public Transport
-11498,2025-09-18,Debit,829,Travel,Fuel
-11499,2025-09-18,Debit,629,Food,Bakery
-11500,2025-09-20,Debit,500,Bills,Insurance
-11501,2025-09-20,Debit,4596,Healthcare,Wellness
-11502,2025-09-20,Credit,2138,Other,Transfer
-11503,2025-09-21,Debit,74,Travel,Public Transport
-11504,2025-09-21,Debit,7062,Shopping,Electronics
-11505,2025-09-21,Debit,520,Food,Groceries
-11506,2025-09-21,Debit,4861,Other,Donations
-11507,2025-09-22,Debit,1040,Travel,Parking
-11508,2025-09-23,Debit,3747,Healthcare,Pharmacy
-11509,2025-09-24,Debit,1773,Travel,Flight
-11510,2025-09-24,Debit,877,Travel,Parking
-11511,2025-09-26,Debit,413,Food,Groceries
-11512,2025-09-26,Debit,788,Food,Bakery
-11513,2025-09-26,Debit,6356,Healthcare,Wellness
-11514,2025-09-28,Debit,778,Food,Restaurants
-11515,2025-09-28,Debit,118,Food,Coffee Shop
-11516,2025-09-30,Debit,2208,Travel,Flight
-11517,2025-10-01,Debit,2000,Bills,Internet
-11518,2025-10-01,Debit,2427,Travel,Flight
-11519,2025-10-01,Debit,20000,Bills,Rent
-11520,2025-10-01,Debit,2000,Healthcare,Gym
-11521,2025-10-01,Credit,61554,Salary,Monthly Salary
-11522,2025-10-01,Debit,2427,Travel,Hotel
-11523,2025-10-01,Debit,136,Travel,Public Transport
-11524,2025-10-02,Debit,111,Travel,Public Transport
-11525,2025-10-02,Debit,116,Food,Coffee Shop
-11526,2025-10-02,Debit,134,Food,Fast Food
-11527,2025-10-02,Debit,415,Food,Restaurants
-11528,2025-10-03,Debit,552,Food,Restaurants
-11529,2025-10-04,Debit,2286,Travel,Taxi
-11530,2025-10-04,Debit,65,Travel,Public Transport
-11531,2025-10-04,Debit,505,Food,Restaurants
-11532,2025-10-05,Debit,2500,Travel,Parking
-11533,2025-10-05,Debit,2000,Investment,SIP
-11534,2025-10-06,Debit,8373,Other,Transfer
-11535,2025-10-06,Debit,69,Food,Coffee Shop
-11536,2025-10-06,Debit,2142,Travel,Fuel
-11537,2025-10-07,Debit,10000,Healthcare,Medical
-11538,2025-10-08,Debit,2001,Travel,Flight
-11539,2025-10-08,Debit,389,Food,Groceries
-11540,2025-10-08,Debit,198,Food,Bakery
-11541,2025-10-10,Debit,84,Food,Coffee Shop
-11542,2025-10-10,Credit,881,Investment,Stocks
-11543,2025-10-10,Debit,844,Food,Groceries
-11544,2025-10-10,Debit,1837,Bills,Electricity
-11545,2025-10-10,Debit,1000,Bills,Phone
-11546,2025-10-10,Debit,500,Bills,Water
-11547,2025-10-10,Debit,606,Investment,Stocks
-11548,2025-10-11,Debit,2000,Investment,Mutual Funds
-11549,2025-10-11,Debit,101,Food,Fast Food
-11550,2025-10-12,Debit,1325,Travel,Parking
-11551,2025-10-12,Debit,2500,Travel,Taxi
-11552,2025-10-12,Debit,10000,Other,Donations
-11553,2025-10-12,Debit,288,Food,Delivery
-11554,2025-10-14,Debit,127,Food,Fast Food
-11555,2025-10-14,Debit,66,Food,Fast Food
-11556,2025-10-14,Debit,1460,Travel,Parking
-11557,2025-10-15,Debit,1500,Entertainment,Streaming
-11558,2025-10-15,Debit,937,Bills,Gas
-11559,2025-10-15,Debit,7923,Shopping,Electronics
-11560,2025-10-15,Debit,3329,Healthcare,Wellness
-11561,2025-10-15,Debit,61,Food,Fast Food
-11562,2025-10-15,Debit,96,Food,Fast Food
-11563,2025-10-15,Debit,1755,Travel,Ride-share
-11564,2025-10-16,Debit,147,Food,Coffee Shop
-11565,2025-10-16,Debit,3082,Other,Miscellaneous
-11566,2025-10-17,Debit,3969,Other,Gifts
-11567,2025-10-18,Debit,2183,Travel,Hotel
-11568,2025-10-18,Debit,1701,Travel,Ride-share
-11569,2025-10-18,Debit,4884,Shopping,Personal Care
-11570,2025-10-18,Debit,1142,Travel,Parking
-11571,2025-10-18,Debit,4266,Entertainment,Sports
-11572,2025-10-20,Debit,1163,Entertainment,Sports
-11573,2025-10-20,Debit,1996,Travel,Hotel
-11574,2025-10-20,Debit,609,Food,Delivery
-11575,2025-10-20,Debit,2157,Shopping,Books
-11576,2025-10-20,Debit,673,Food,Delivery
-11577,2025-10-20,Debit,2500,Travel,Ride-share
-11578,2025-10-20,Debit,500,Bills,Insurance
-11579,2025-10-22,Debit,56,Food,Fast Food
-11580,2025-10-22,Debit,96,Food,Fast Food
-11581,2025-10-22,Debit,8733,Other,Transfer
-11582,2025-10-22,Debit,10000,Healthcare,Pharmacy
-11583,2025-10-22,Debit,10000,Other,Gifts
-11584,2025-10-22,Debit,1861,Travel,Hotel
-11585,2025-10-23,Debit,2068,Travel,Flight
-11586,2025-10-23,Debit,1240,Travel,Ride-share
-11587,2025-10-23,Debit,738,Food,Groceries
-11588,2025-10-24,Debit,2026,Travel,Ride-share
-11589,2025-10-24,Debit,7613,Other,Donations
-11590,2025-10-25,Debit,10000,Other,ATM Withdrawal
-11591,2025-10-26,Debit,4778,Entertainment,Events
-11592,2025-10-27,Debit,94,Food,Fast Food
-11593,2025-10-27,Debit,10000,Healthcare,Medical
-11594,2025-10-27,Debit,665,Food,Groceries
-11595,2025-10-27,Debit,129,Travel,Public Transport
-11596,2025-10-28,Debit,122,Food,Coffee Shop
-11597,2025-10-28,Debit,1331,Travel,Ride-share
-11598,2025-10-28,Debit,4643,Shopping,Electronics
-11599,2025-10-29,Debit,289,Food,Groceries
-11600,2025-10-29,Debit,134,Food,Coffee Shop
-11601,2025-10-29,Debit,4677,Shopping,Personal Care
-11602,2025-10-29,Debit,939,Food,Restaurants
-11603,2025-10-30,Debit,4209,Other,Gifts
-11604,2025-10-31,Debit,197,Food,Bakery
-11605,2025-10-31,Debit,4235,Entertainment,Events
-11606,2025-11-01,Debit,20000,Bills,Rent
-11607,2025-11-01,Debit,2000,Bills,Internet
-11608,2025-11-01,Debit,2000,Healthcare,Gym
-11609,2025-11-01,Debit,433,Food,Restaurants
-11610,2025-11-01,Credit,58956,Salary,Monthly Salary
-11611,2025-11-01,Debit,396,Food,Groceries
-11612,2025-11-02,Debit,2247,Travel,Flight
-11613,2025-11-03,Debit,350,Food,Delivery
-11614,2025-11-04,Debit,96,Food,Coffee Shop
-11615,2025-11-04,Debit,1934,Investment,Crypto
+10001,2023-01-01,Expense,12000,Bills,Rent
+10002,2023-01-01,Expense,200,Entertainment,Movies
+10003,2023-01-01,Income,50000,Salary,Monthly Salary
+10004,2023-01-01,Expense,500,Healthcare,Gym
+10005,2023-01-02,Expense,375,Other,ATM Withdrawal
+10006,2023-01-03,Expense,150,Entertainment,Sports
+10007,2023-01-03,Expense,375,Shopping,Clothing
+10008,2023-01-03,Expense,250,Other,ATM Withdrawal
+10009,2023-01-03,Expense,275,Food,Bakery
+10010,2023-01-04,Expense,750,Shopping,Books
+10011,2023-01-05,Savings,5000,Investment,SIP
+10012,2023-01-05,Expense,600,Bills,Internet
+10013,2023-01-06,Expense,90,Food,Fast Food
+10014,2023-01-06,Expense,700,Shopping,Clothing
+10015,2023-01-07,Expense,275,Food,Bakery
+10016,2023-01-07,Expense,850,Bills,Electricity
+10017,2023-01-07,Expense,375,Travel,Flight
+10018,2023-01-08,Savings,500,Investment,Fixed Deposit
+10019,2023-01-08,Expense,150,Shopping,Household
+10020,2023-01-09,Expense,600,Shopping,Books
+10021,2023-01-09,Expense,200,Entertainment,Hobbies
+10022,2023-01-10,Expense,200,Other,Donations
+10023,2023-01-10,Expense,300,Shopping,Household
+10024,2023-01-10,Expense,400,Bills,Phone
+10025,2023-01-11,Expense,50,Food,Groceries
+10026,2023-01-12,Expense,600,Bills,Gas
+10027,2023-01-12,Savings,850,Investment,Crypto
+10028,2023-01-12,Expense,250,Food,Groceries
+10029,2023-01-13,Expense,60,Food,Fast Food
+10030,2023-01-14,Expense,70,Travel,Public Transport
+10031,2023-01-14,Expense,100,Travel,Parking
+10032,2023-01-14,Expense,300,Travel,Taxi
+10033,2023-01-14,Expense,225,Entertainment,Hobbies
+10034,2023-01-15,Expense,200,Healthcare,Wellness
+10035,2023-01-15,Expense,200,Entertainment,Streaming
+10036,2023-01-17,Expense,400,Travel,Flight
+10037,2023-01-18,Expense,100,Other,ATM Withdrawal
+10038,2023-01-18,Savings,1100,Investment,Mutual Funds
+10039,2023-01-18,Expense,350,Travel,Taxi
+10040,2023-01-19,Expense,175,Entertainment,Movies
+10041,2023-01-19,Expense,750,Shopping,Household
+10042,2023-01-19,Expense,275,Travel,Ride-share
+10043,2023-01-20,Expense,100,Shopping,Online
+10044,2023-01-20,Expense,375,Travel,Flight
+10045,2023-01-20,Expense,1500,Bills,Insurance
+10046,2023-01-20,Expense,400,Shopping,Online
+10047,2023-01-22,Expense,250,Healthcare,Medical
+10048,2023-01-24,Savings,600,Investment,Crypto
+10049,2023-01-24,Expense,225,Food,Bakery
+10050,2023-01-24,Expense,80,Travel,Public Transport
+10051,2023-01-25,Expense,100,Travel,Public Transport
+10052,2023-01-25,Expense,300,Travel,Fuel
+10053,2023-01-26,Expense,125,Shopping,Electronics
+10054,2023-01-26,Expense,550,Shopping,Books
+10055,2023-01-26,Expense,200,Entertainment,Hobbies
+10056,2023-01-27,Expense,225,Entertainment,Movies
+10057,2023-01-29,Expense,70,Food,Coffee Shop
+10058,2023-01-29,Expense,60,Travel,Public Transport
+10059,2023-01-30,Expense,350,Other,ATM Withdrawal
+10060,2023-01-31,Expense,275,Food,Groceries
+10061,2023-02-01,Expense,475,Travel,Ride-share
+10062,2023-02-01,Expense,12000,Bills,Rent
+10063,2023-02-01,Income,50000,Salary,Monthly Salary
+10064,2023-02-01,Expense,500,Healthcare,Gym
+10065,2023-02-02,Expense,150,Travel,Ride-share
+10066,2023-02-02,Income,2300,Investment Returns,Interest
+10067,2023-02-05,Expense,425,Travel,Taxi
+10068,2023-02-05,Expense,600,Bills,Internet
+10069,2023-02-05,Savings,5000,Investment,SIP
+10070,2023-02-07,Expense,700,Bills,Electricity
+10071,2023-02-08,Expense,250,Entertainment,Events
+10072,2023-02-08,Expense,350,Healthcare,Wellness
+10073,2023-02-08,Savings,1400,Investment,Stocks
+10074,2023-02-09,Expense,650,Shopping,Household
+10075,2023-02-09,Savings,1800,Investment,Fixed Deposit
+10076,2023-02-10,Expense,70,Food,Coffee Shop
+10077,2023-02-10,Expense,600,Shopping,Clothing
+10078,2023-02-10,Expense,400,Bills,Phone
+10079,2023-02-11,Expense,650,Shopping,Online
+10080,2023-02-11,Expense,60,Food,Coffee Shop
+10081,2023-02-12,Expense,250,Food,Bakery
+10082,2023-02-12,Expense,600,Bills,Gas
+10083,2023-02-13,Expense,225,Healthcare,Wellness
+10084,2023-02-13,Expense,250,Food,Groceries
+10085,2023-02-14,Expense,175,Travel,Parking
+10086,2023-02-14,Savings,850,Investment,Mutual Funds
+10087,2023-02-14,Expense,350,Healthcare,Wellness
+10088,2023-02-15,Expense,400,Healthcare,Medical
+10089,2023-02-15,Expense,200,Entertainment,Streaming
+10090,2023-02-16,Expense,70,Travel,Public Transport
+10091,2023-02-16,Savings,800,Investment,Fixed Deposit
+10092,2023-02-17,Expense,325,Healthcare,Medical
+10093,2023-02-18,Expense,125,Other,Donations
+10094,2023-02-19,Expense,275,Other,Gifts
+10095,2023-02-19,Savings,750,Investment,Fixed Deposit
+10096,2023-02-20,Expense,100,Travel,Parking
+10097,2023-02-20,Expense,1500,Bills,Insurance
+10098,2023-02-21,Expense,80,Entertainment,Sports
+10099,2023-02-22,Expense,50,Food,Restaurants
+10100,2023-02-23,Expense,100,Food,Bakery
+10101,2023-02-23,Expense,100,Food,Coffee Shop
+10102,2023-02-24,Expense,70,Food,Coffee Shop
+10103,2023-02-24,Expense,475,Travel,Hotel
+10104,2023-02-25,Expense,200,Food,Groceries
+10105,2023-02-25,Expense,300,Other,Miscellaneous
+10106,2023-02-25,Expense,425,Travel,Flight
+10107,2023-02-27,Expense,100,Food,Fast Food
+10108,2023-02-27,Expense,600,Shopping,Books
+10109,2023-02-28,Expense,300,Healthcare,Medical
+10110,2023-02-28,Expense,60,Food,Groceries
+10111,2023-03-01,Expense,12000,Bills,Rent
+10112,2023-03-01,Savings,800,Investment,Stocks
+10113,2023-03-01,Expense,300,Other,Gifts
+10114,2023-03-01,Expense,500,Healthcare,Gym
+10115,2023-03-01,Income,50000,Salary,Monthly Salary
+10116,2023-03-02,Expense,650,Shopping,Online
+10117,2023-03-02,Expense,600,Shopping,Household
+10118,2023-03-02,Savings,850,Investment,Fixed Deposit
+10119,2023-03-03,Income,1700,Investment Returns,Dividend
+10120,2023-03-04,Expense,225,Food,Groceries
+10121,2023-03-05,Expense,600,Bills,Internet
+10122,2023-03-05,Income,1600,Investment Returns,Interest
+10123,2023-03-05,Savings,5000,Investment,SIP
+10124,2023-03-05,Expense,80,Entertainment,Sports
+10125,2023-03-05,Expense,300,Food,Groceries
+10126,2023-03-05,Expense,475,Travel,Hotel
+10127,2023-03-05,Expense,100,Food,Restaurants
+10128,2023-03-06,Expense,225,Travel,Fuel
+10129,2023-03-06,Expense,125,Healthcare,Pharmacy
+10130,2023-03-07,Expense,750,Bills,Electricity
+10131,2023-03-08,Expense,175,Travel,Parking
+10132,2023-03-08,Expense,225,Entertainment,Events
+10133,2023-03-09,Expense,475,Travel,Ride-share
+10134,2023-03-10,Expense,125,Shopping,Online
+10135,2023-03-10,Expense,70,Food,Coffee Shop
+10136,2023-03-10,Expense,400,Bills,Phone
+10137,2023-03-10,Expense,250,Healthcare,Medical
+10138,2023-03-12,Expense,275,Healthcare,Pharmacy
+10139,2023-03-12,Expense,600,Bills,Gas
+10140,2023-03-13,Expense,500,Shopping,Personal Care
+10141,2023-03-14,Savings,1200,Investment,Stocks
+10142,2023-03-14,Expense,600,Shopping,Personal Care
+10143,2023-03-15,Expense,200,Entertainment,Streaming
+10144,2023-03-15,Expense,80,Food,Fast Food
+10145,2023-03-16,Income,1500,Investment Returns,Mutual Fund Returns
+10146,2023-03-17,Expense,100,Entertainment,Hobbies
+10147,2023-03-17,Savings,1800,Investment,Stocks
+10148,2023-03-17,Expense,500,Travel,Hotel
+10149,2023-03-18,Income,2800,Investment Returns,Interest
+10150,2023-03-18,Expense,250,Travel,Ride-share
+10151,2023-03-18,Expense,350,Healthcare,Wellness
+10152,2023-03-18,Expense,700,Shopping,Household
+10153,2023-03-18,Expense,300,Shopping,Electronics
+10154,2023-03-19,Expense,250,Shopping,Personal Care
+10155,2023-03-20,Expense,1500,Bills,Insurance
+10156,2023-03-21,Expense,225,Food,Restaurants
+10157,2023-03-22,Expense,125,Entertainment,Events
+10158,2023-03-22,Expense,350,Travel,Hotel
+10159,2023-03-22,Expense,375,Other,Gifts
+10160,2023-03-22,Expense,90,Food,Fast Food
+10161,2023-03-22,Expense,80,Entertainment,Hobbies
+10162,2023-03-23,Expense,60,Food,Fast Food
+10163,2023-03-24,Expense,700,Shopping,Electronics
+10164,2023-03-24,Expense,175,Food,Restaurants
+10165,2023-03-24,Expense,200,Entertainment,Gaming
+10166,2023-03-25,Expense,125,Healthcare,Wellness
+10167,2023-03-25,Expense,100,Entertainment,Sports
+10168,2023-03-26,Expense,275,Food,Delivery
+10169,2023-03-27,Expense,450,Travel,Hotel
+10170,2023-03-27,Savings,1600,Investment,Crypto
+10171,2023-03-28,Savings,1300,Investment,Stocks
+10172,2023-03-28,Expense,375,Healthcare,Wellness
+10173,2023-03-28,Expense,50,Food,Delivery
+10174,2023-03-29,Expense,150,Other,Gifts
+10175,2023-03-30,Expense,350,Other,ATM Withdrawal
+10176,2023-03-30,Expense,250,Food,Bakery
+10177,2023-03-30,Expense,175,Entertainment,Gaming
+10178,2023-03-31,Expense,275,Food,Restaurants
+10179,2023-04-01,Expense,500,Healthcare,Gym
+10180,2023-04-01,Expense,500,Travel,Taxi
+10181,2023-04-01,Expense,12000,Bills,Rent
+10182,2023-04-01,Income,50000,Salary,Monthly Salary
+10183,2023-04-01,Income,1300,Investment Returns,Dividend
+10184,2023-04-02,Expense,400,Shopping,Online
+10185,2023-04-04,Expense,150,Food,Restaurants
+10186,2023-04-04,Expense,375,Other,Transfer
+10187,2023-04-04,Expense,450,Travel,Taxi
+10188,2023-04-05,Expense,150,Shopping,Household
+10189,2023-04-05,Savings,5000,Investment,SIP
+10190,2023-04-05,Expense,600,Bills,Internet
+10191,2023-04-05,Income,1800,Investment Returns,Dividend
+10192,2023-04-07,Expense,90,Food,Groceries
+10193,2023-04-07,Expense,125,Entertainment,Sports
+10194,2023-04-07,Expense,750,Bills,Electricity
+10195,2023-04-08,Expense,125,Food,Bakery
+10196,2023-04-08,Expense,150,Food,Restaurants
+10197,2023-04-09,Expense,175,Shopping,Books
+10198,2023-04-10,Expense,125,Food,Groceries
+10199,2023-04-10,Expense,375,Travel,Ride-share
+10200,2023-04-10,Expense,90,Travel,Fuel
+10201,2023-04-10,Expense,400,Bills,Phone
+10202,2023-04-11,Expense,90,Food,Coffee Shop
+10203,2023-04-11,Savings,1100,Investment,Mutual Funds
+10204,2023-04-11,Expense,300,Shopping,Books
+10205,2023-04-11,Savings,900,Investment,Crypto
+10206,2023-04-12,Expense,600,Bills,Gas
+10207,2023-04-12,Expense,700,Shopping,Electronics
+10208,2023-04-12,Expense,70,Food,Bakery
+10209,2023-04-13,Expense,225,Entertainment,Movies
+10210,2023-04-13,Expense,425,Other,Miscellaneous
+10211,2023-04-13,Expense,70,Food,Coffee Shop
+10212,2023-04-14,Income,1500,Investment Returns,Dividend
+10213,2023-04-14,Income,550,Investment Returns,Interest
+10214,2023-04-15,Expense,80,Food,Coffee Shop
+10215,2023-04-15,Expense,200,Entertainment,Streaming
+10216,2023-04-15,Expense,200,Food,Groceries
+10217,2023-04-16,Expense,425,Other,Miscellaneous
+10218,2023-04-16,Expense,125,Food,Restaurants
+10219,2023-04-16,Savings,950,Investment,Crypto
+10220,2023-04-17,Expense,60,Food,Fast Food
+10221,2023-04-17,Expense,175,Healthcare,Wellness
+10222,2023-04-18,Expense,175,Other,Donations
+10223,2023-04-18,Expense,90,Food,Restaurants
+10224,2023-04-18,Expense,225,Travel,Fuel
+10225,2023-04-19,Income,2300,Investment Returns,Dividend
+10226,2023-04-20,Expense,1500,Bills,Insurance
+10227,2023-04-20,Expense,90,Food,Restaurants
+10228,2023-04-21,Expense,200,Shopping,Electronics
+10229,2023-04-22,Expense,60,Food,Coffee Shop
+10230,2023-04-22,Expense,175,Entertainment,Movies
+10231,2023-04-22,Expense,150,Entertainment,Hobbies
+10232,2023-04-22,Expense,225,Entertainment,Gaming
+10233,2023-04-22,Expense,200,Entertainment,Gaming
+10234,2023-04-22,Savings,1900,Investment,Stocks
+10235,2023-04-23,Expense,100,Food,Groceries
+10236,2023-04-23,Expense,550,Shopping,Online
+10237,2023-04-24,Expense,175,Food,Groceries
+10238,2023-04-24,Expense,100,Travel,Parking
+10239,2023-04-25,Expense,70,Food,Fast Food
+10240,2023-04-25,Expense,425,Other,Miscellaneous
+10241,2023-04-25,Expense,250,Food,Restaurants
+10242,2023-04-25,Expense,500,Shopping,Electronics
+10243,2023-04-26,Expense,100,Entertainment,Gaming
+10244,2023-04-26,Expense,275,Travel,Ride-share
+10245,2023-04-28,Expense,225,Food,Groceries
+10246,2023-04-30,Expense,175,Healthcare,Wellness
+10247,2023-04-30,Savings,1400,Investment,Mutual Funds
+10248,2023-05-01,Income,50000,Salary,Monthly Salary
+10249,2023-05-01,Expense,150,Food,Restaurants
+10250,2023-05-01,Expense,70,Travel,Taxi
+10251,2023-05-01,Expense,12000,Bills,Rent
+10252,2023-05-01,Expense,70,Entertainment,Gaming
+10253,2023-05-01,Expense,500,Healthcare,Gym
+10254,2023-05-02,Expense,200,Travel,Taxi
+10255,2023-05-02,Expense,375,Travel,Hotel
+10256,2023-05-03,Expense,150,Other,Miscellaneous
+10257,2023-05-03,Expense,600,Shopping,Electronics
+10258,2023-05-03,Expense,150,Food,Restaurants
+10259,2023-05-04,Expense,475,Other,Miscellaneous
+10260,2023-05-04,Savings,800,Investment,Fixed Deposit
+10261,2023-05-04,Expense,400,Travel,Hotel
+10262,2023-05-04,Expense,100,Food,Coffee Shop
+10263,2023-05-05,Expense,600,Bills,Internet
+10264,2023-05-05,Savings,5000,Investment,SIP
+10265,2023-05-05,Expense,275,Healthcare,Pharmacy
+10266,2023-05-05,Expense,650,Shopping,Household
+10267,2023-05-05,Expense,125,Food,Bakery
+10268,2023-05-06,Income,1000,Investment Returns,Dividend
+10269,2023-05-07,Expense,850,Bills,Electricity
+10270,2023-05-07,Expense,650,Shopping,Electronics
+10271,2023-05-08,Expense,375,Travel,Flight
+10272,2023-05-09,Expense,100,Travel,Taxi
+10273,2023-05-10,Expense,60,Entertainment,Hobbies
+10274,2023-05-10,Expense,250,Food,Bakery
+10275,2023-05-10,Expense,175,Entertainment,Events
+10276,2023-05-10,Expense,250,Travel,Ride-share
+10277,2023-05-10,Expense,400,Bills,Phone
+10278,2023-05-11,Expense,150,Food,Delivery
+10279,2023-05-11,Expense,150,Food,Delivery
+10280,2023-05-11,Expense,150,Other,ATM Withdrawal
+10281,2023-05-11,Expense,500,Travel,Taxi
+10282,2023-05-12,Expense,50,Food,Fast Food
+10283,2023-05-12,Expense,600,Bills,Gas
+10284,2023-05-13,Savings,1200,Investment,Fixed Deposit
+10285,2023-05-13,Expense,80,Food,Coffee Shop
+10286,2023-05-14,Expense,175,Food,Delivery
+10287,2023-05-14,Expense,300,Shopping,Clothing
+10288,2023-05-15,Expense,70,Food,Fast Food
+10289,2023-05-15,Expense,200,Entertainment,Streaming
+10290,2023-05-16,Expense,600,Shopping,Online
+10291,2023-05-17,Expense,350,Healthcare,Medical
+10292,2023-05-18,Expense,375,Other,Donations
+10293,2023-05-18,Expense,375,Shopping,Clothing
+10294,2023-05-20,Expense,1500,Bills,Insurance
+10295,2023-05-21,Expense,200,Food,Restaurants
+10296,2023-05-21,Expense,125,Entertainment,Gaming
+10297,2023-05-21,Expense,60,Food,Bakery
+10298,2023-05-21,Expense,150,Healthcare,Medical
+10299,2023-05-21,Expense,50,Food,Coffee Shop
+10300,2023-05-22,Expense,60,Travel,Parking
+10301,2023-05-22,Expense,90,Food,Coffee Shop
+10302,2023-05-22,Expense,475,Travel,Hotel
+10303,2023-05-23,Expense,70,Food,Fast Food
+10304,2023-05-23,Expense,90,Food,Fast Food
+10305,2023-05-23,Expense,125,Entertainment,Gaming
+10306,2023-05-24,Expense,200,Other,Donations
+10307,2023-05-25,Expense,225,Entertainment,Hobbies
+10308,2023-05-26,Expense,700,Shopping,Household
+10309,2023-05-26,Expense,375,Healthcare,Medical
+10310,2023-05-26,Expense,400,Other,Transfer
+10311,2023-05-26,Income,1800,Investment Returns,Capital Gains
+10312,2023-05-26,Expense,200,Food,Bakery
+10313,2023-05-26,Expense,450,Travel,Taxi
+10314,2023-05-27,Expense,80,Food,Coffee Shop
+10315,2023-05-28,Expense,400,Other,ATM Withdrawal
+10316,2023-05-29,Expense,225,Entertainment,Events
+10317,2023-05-29,Expense,175,Food,Groceries
+10318,2023-05-30,Expense,175,Entertainment,Events
+10319,2023-05-30,Expense,325,Travel,Fuel
+10320,2023-05-30,Expense,150,Food,Delivery
+10321,2023-05-30,Expense,250,Travel,Fuel
+10322,2023-05-31,Expense,125,Food,Groceries
+10323,2023-05-31,Expense,175,Travel,Fuel
+10324,2023-06-01,Income,50000,Salary,Monthly Salary
+10325,2023-06-01,Expense,12000,Bills,Rent
+10326,2023-06-01,Expense,500,Healthcare,Gym
+10327,2023-06-01,Expense,400,Other,Miscellaneous
+10328,2023-06-01,Expense,90,Food,Delivery
+10329,2023-06-02,Expense,450,Travel,Hotel
+10330,2023-06-02,Expense,500,Travel,Flight
+10331,2023-06-03,Expense,800,Shopping,Clothing
+10332,2023-06-03,Expense,500,Shopping,Personal Care
+10333,2023-06-03,Expense,250,Food,Delivery
+10334,2023-06-03,Expense,750,Shopping,Personal Care
+10335,2023-06-04,Expense,250,Food,Restaurants
+10336,2023-06-04,Expense,275,Food,Bakery
+10337,2023-06-05,Expense,600,Bills,Internet
+10338,2023-06-05,Expense,475,Other,Gifts
+10339,2023-06-05,Savings,5000,Investment,SIP
+10340,2023-06-06,Expense,225,Entertainment,Movies
+10341,2023-06-07,Expense,850,Bills,Electricity
+10342,2023-06-07,Expense,425,Shopping,Household
+10343,2023-06-07,Expense,60,Food,Coffee Shop
+10344,2023-06-07,Expense,60,Travel,Public Transport
+10345,2023-06-08,Expense,200,Healthcare,Wellness
+10346,2023-06-09,Expense,100,Entertainment,Hobbies
+10347,2023-06-09,Expense,350,Shopping,Electronics
+10348,2023-06-09,Expense,350,Shopping,Personal Care
+10349,2023-06-09,Expense,425,Other,Donations
+10350,2023-06-09,Income,800,Investment Returns,Mutual Fund Returns
+10351,2023-06-09,Expense,325,Travel,Ride-share
+10352,2023-06-09,Expense,80,Food,Fast Food
+10353,2023-06-10,Expense,450,Other,Donations
+10354,2023-06-10,Expense,400,Bills,Phone
+10355,2023-06-10,Expense,375,Travel,Taxi
+10356,2023-06-11,Expense,475,Travel,Taxi
+10357,2023-06-11,Expense,150,Entertainment,Sports
+10358,2023-06-11,Expense,100,Travel,Public Transport
+10359,2023-06-12,Expense,600,Bills,Gas
+10360,2023-06-12,Expense,300,Healthcare,Pharmacy
+10361,2023-06-12,Savings,850,Investment,Mutual Funds
+10362,2023-06-13,Expense,350,Healthcare,Pharmacy
+10363,2023-06-13,Expense,150,Healthcare,Medical
+10364,2023-06-15,Expense,200,Entertainment,Streaming
+10365,2023-06-15,Expense,100,Other,ATM Withdrawal
+10366,2023-06-15,Expense,500,Travel,Flight
+10367,2023-06-17,Expense,250,Travel,Taxi
+10368,2023-06-17,Expense,225,Entertainment,Events
+10369,2023-06-17,Expense,700,Shopping,Household
+10370,2023-06-17,Expense,225,Food,Delivery
+10371,2023-06-18,Expense,425,Travel,Flight
+10372,2023-06-20,Expense,1500,Bills,Insurance
+10373,2023-06-20,Expense,175,Healthcare,Medical
+10374,2023-06-20,Expense,400,Other,Donations
+10375,2023-06-22,Expense,500,Shopping,Personal Care
+10376,2023-06-22,Expense,350,Other,Transfer
+10377,2023-06-23,Expense,80,Food,Fast Food
+10378,2023-06-23,Expense,475,Travel,Flight
+10379,2023-06-23,Expense,175,Shopping,Personal Care
+10380,2023-06-24,Expense,90,Entertainment,Events
+10381,2023-06-24,Expense,150,Food,Groceries
+10382,2023-06-24,Expense,400,Travel,Fuel
+10383,2023-06-25,Expense,175,Food,Bakery
+10384,2023-06-26,Income,1500,Investment Returns,Mutual Fund Returns
+10385,2023-06-27,Savings,1800,Investment,Crypto
+10386,2023-06-27,Expense,90,Food,Fast Food
+10387,2023-06-28,Expense,450,Travel,Parking
+10388,2023-06-29,Savings,1300,Investment,Crypto
+10389,2023-06-29,Expense,375,Shopping,Online
+10390,2023-06-30,Expense,250,Food,Delivery
+10391,2023-06-30,Expense,250,Other,Miscellaneous
+10392,2023-06-30,Expense,60,Food,Fast Food
+10393,2023-07-01,Income,50000,Salary,Monthly Salary
+10394,2023-07-01,Expense,300,Other,Transfer
+10395,2023-07-01,Expense,500,Healthcare,Gym
+10396,2023-07-01,Expense,550,Shopping,Books
+10397,2023-07-01,Expense,12000,Bills,Rent
+10398,2023-07-02,Expense,450,Other,Donations
+10399,2023-07-02,Expense,350,Shopping,Electronics
+10400,2023-07-03,Expense,200,Healthcare,Pharmacy
+10401,2023-07-03,Expense,80,Travel,Public Transport
+10402,2023-07-03,Savings,1500,Investment,Mutual Funds
+10403,2023-07-04,Expense,80,Food,Coffee Shop
+10404,2023-07-04,Expense,100,Healthcare,Medical
+10405,2023-07-05,Expense,300,Other,ATM Withdrawal
+10406,2023-07-05,Expense,600,Bills,Internet
+10407,2023-07-05,Expense,650,Shopping,Electronics
+10408,2023-07-05,Savings,5000,Investment,SIP
+10409,2023-07-05,Expense,325,Other,Miscellaneous
+10410,2023-07-05,Expense,125,Shopping,Online
+10411,2023-07-06,Expense,250,Travel,Taxi
+10412,2023-07-06,Expense,125,Food,Delivery
+10413,2023-07-07,Expense,250,Food,Restaurants
+10414,2023-07-07,Expense,900,Bills,Electricity
+10415,2023-07-10,Expense,500,Shopping,Online
+10416,2023-07-10,Expense,500,Travel,Flight
+10417,2023-07-10,Expense,225,Entertainment,Events
+10418,2023-07-10,Expense,275,Travel,Parking
+10419,2023-07-10,Expense,400,Bills,Phone
+10420,2023-07-10,Expense,60,Food,Fast Food
+10421,2023-07-10,Expense,750,Shopping,Clothing
+10422,2023-07-10,Expense,175,Entertainment,Sports
+10423,2023-07-12,Expense,600,Bills,Gas
+10424,2023-07-12,Expense,300,Healthcare,Wellness
+10425,2023-07-14,Expense,50,Entertainment,Movies
+10426,2023-07-14,Expense,70,Food,Fast Food
+10427,2023-07-14,Expense,150,Travel,Fuel
+10428,2023-07-15,Expense,175,Entertainment,Sports
+10429,2023-07-15,Expense,475,Travel,Taxi
+10430,2023-07-15,Expense,475,Travel,Ride-share
+10431,2023-07-15,Expense,300,Healthcare,Wellness
+10432,2023-07-15,Expense,500,Travel,Ride-share
+10433,2023-07-15,Expense,200,Entertainment,Streaming
+10434,2023-07-16,Expense,250,Entertainment,Gaming
+10435,2023-07-18,Expense,550,Shopping,Clothing
+10436,2023-07-18,Expense,125,Food,Groceries
+10437,2023-07-19,Expense,350,Other,Gifts
+10438,2023-07-20,Expense,300,Other,Gifts
+10439,2023-07-20,Expense,1500,Bills,Insurance
+10440,2023-07-20,Expense,225,Food,Groceries
+10441,2023-07-20,Expense,150,Other,Donations
+10442,2023-07-21,Expense,150,Food,Groceries
+10443,2023-07-21,Expense,350,Other,Miscellaneous
+10444,2023-07-22,Expense,275,Healthcare,Medical
+10445,2023-07-23,Expense,200,Food,Restaurants
+10446,2023-07-24,Expense,250,Other,Donations
+10447,2023-07-24,Expense,175,Food,Groceries
+10448,2023-07-25,Expense,125,Food,Restaurants
+10449,2023-07-25,Expense,90,Food,Delivery
+10450,2023-07-25,Expense,500,Shopping,Clothing
+10451,2023-07-25,Expense,400,Travel,Ride-share
+10452,2023-07-26,Expense,475,Shopping,Books
+10453,2023-07-26,Expense,70,Travel,Taxi
+10454,2023-07-26,Expense,700,Shopping,Online
+10455,2023-07-27,Expense,90,Food,Coffee Shop
+10456,2023-07-27,Expense,175,Entertainment,Events
+10457,2023-07-29,Expense,200,Travel,Fuel
+10458,2023-07-29,Expense,225,Entertainment,Hobbies
+10459,2023-07-30,Expense,125,Food,Groceries
+10460,2023-07-30,Expense,550,Shopping,Personal Care
+10461,2023-07-30,Expense,125,Healthcare,Medical
+10462,2023-07-30,Expense,250,Food,Bakery
+10463,2023-07-31,Expense,125,Other,ATM Withdrawal
+10464,2023-08-01,Expense,90,Food,Coffee Shop
+10465,2023-08-01,Income,50000,Salary,Monthly Salary
+10466,2023-08-01,Expense,12000,Bills,Rent
+10467,2023-08-01,Expense,80,Food,Coffee Shop
+10468,2023-08-01,Expense,500,Healthcare,Gym
+10469,2023-08-01,Expense,475,Shopping,Electronics
+10470,2023-08-02,Expense,200,Shopping,Household
+10471,2023-08-03,Expense,600,Shopping,Personal Care
+10472,2023-08-05,Savings,5000,Investment,SIP
+10473,2023-08-05,Expense,600,Bills,Internet
+10474,2023-08-05,Expense,425,Shopping,Electronics
+10475,2023-08-06,Expense,225,Entertainment,Movies
+10476,2023-08-06,Expense,200,Entertainment,Events
+10477,2023-08-06,Expense,375,Other,Gifts
+10478,2023-08-06,Expense,250,Shopping,Household
+10479,2023-08-07,Expense,700,Bills,Electricity
+10480,2023-08-07,Savings,800,Investment,Stocks
+10481,2023-08-08,Expense,250,Healthcare,Medical
+10482,2023-08-08,Expense,60,Travel,Public Transport
+10483,2023-08-08,Income,1900,Investment Returns,Capital Gains
+10484,2023-08-08,Expense,200,Food,Bakery
+10485,2023-08-09,Expense,80,Food,Delivery
+10486,2023-08-10,Expense,50,Food,Coffee Shop
+10487,2023-08-10,Expense,400,Bills,Phone
+10488,2023-08-10,Expense,275,Food,Delivery
+10489,2023-08-10,Expense,90,Food,Fast Food
+10490,2023-08-11,Expense,175,Entertainment,Gaming
+10491,2023-08-12,Expense,600,Bills,Gas
+10492,2023-08-12,Expense,475,Travel,Flight
+10493,2023-08-14,Expense,50,Food,Restaurants
+10494,2023-08-15,Expense,225,Healthcare,Wellness
+10495,2023-08-15,Expense,200,Entertainment,Streaming
+10496,2023-08-16,Expense,80,Food,Fast Food
+10497,2023-08-16,Savings,1200,Investment,Fixed Deposit
+10498,2023-08-18,Expense,425,Travel,Fuel
+10499,2023-08-20,Savings,1700,Investment,Stocks
+10500,2023-08-20,Expense,150,Entertainment,Sports
+10501,2023-08-20,Expense,425,Travel,Fuel
+10502,2023-08-20,Expense,300,Healthcare,Medical
+10503,2023-08-20,Expense,1500,Bills,Insurance
+10504,2023-08-21,Expense,100,Entertainment,Sports
+10505,2023-08-22,Expense,200,Entertainment,Movies
+10506,2023-08-22,Expense,80,Food,Coffee Shop
+10507,2023-08-22,Expense,90,Travel,Public Transport
+10508,2023-08-23,Income,2900,Investment Returns,Dividend
+10509,2023-08-23,Expense,300,Food,Restaurants
+10510,2023-08-23,Expense,225,Food,Bakery
+10511,2023-08-24,Expense,425,Travel,Fuel
+10512,2023-08-25,Expense,600,Shopping,Electronics
+10513,2023-08-26,Expense,275,Food,Delivery
+10514,2023-08-26,Expense,175,Other,ATM Withdrawal
+10515,2023-08-28,Savings,1600,Investment,Fixed Deposit
+10516,2023-08-29,Expense,500,Other,Donations
+10517,2023-08-29,Expense,475,Travel,Flight
+10518,2023-08-29,Expense,500,Travel,Flight
+10519,2023-08-29,Expense,250,Food,Bakery
+10520,2023-08-29,Savings,1900,Investment,Stocks
+10521,2023-08-29,Expense,475,Travel,Hotel
+10522,2023-08-30,Expense,90,Food,Fast Food
+10523,2023-08-30,Expense,175,Shopping,Online
+10524,2023-08-31,Expense,90,Food,Coffee Shop
+10525,2023-08-31,Expense,500,Travel,Ride-share
+10526,2023-08-31,Expense,125,Entertainment,Gaming
+10527,2023-09-01,Income,50000,Salary,Monthly Salary
+10528,2023-09-01,Expense,12000,Bills,Rent
+10529,2023-09-01,Expense,300,Food,Restaurants
+10530,2023-09-01,Expense,500,Healthcare,Gym
+10531,2023-09-02,Expense,175,Food,Bakery
+10532,2023-09-03,Expense,450,Other,ATM Withdrawal
+10533,2023-09-04,Expense,425,Travel,Hotel
+10534,2023-09-04,Expense,325,Healthcare,Medical
+10535,2023-09-05,Expense,600,Bills,Internet
+10536,2023-09-05,Savings,5000,Investment,SIP
+10537,2023-09-05,Expense,90,Food,Coffee Shop
+10538,2023-09-05,Expense,100,Food,Bakery
+10539,2023-09-06,Expense,250,Food,Restaurants
+10540,2023-09-07,Savings,1000,Investment,Fixed Deposit
+10541,2023-09-07,Expense,800,Bills,Electricity
+10542,2023-09-07,Expense,175,Healthcare,Wellness
+10543,2023-09-10,Expense,150,Entertainment,Sports
+10544,2023-09-10,Expense,400,Bills,Phone
+10545,2023-09-11,Expense,125,Shopping,Books
+10546,2023-09-11,Savings,650,Investment,Mutual Funds
+10547,2023-09-11,Expense,150,Food,Delivery
+10548,2023-09-12,Expense,600,Bills,Gas
+10549,2023-09-12,Expense,70,Food,Fast Food
+10550,2023-09-13,Expense,50,Food,Fast Food
+10551,2023-09-13,Expense,275,Food,Bakery
+10552,2023-09-15,Income,550,Investment Returns,Interest
+10553,2023-09-15,Expense,200,Entertainment,Streaming
+10554,2023-09-16,Expense,100,Food,Coffee Shop
+10555,2023-09-16,Expense,275,Food,Bakery
+10556,2023-09-16,Expense,400,Shopping,Clothing
+10557,2023-09-16,Expense,225,Food,Delivery
+10558,2023-09-17,Expense,475,Travel,Flight
+10559,2023-09-17,Expense,125,Other,Donations
+10560,2023-09-18,Expense,375,Other,ATM Withdrawal
+10561,2023-09-18,Income,1500,Investment Returns,Dividend
+10562,2023-09-18,Expense,150,Food,Restaurants
+10563,2023-09-20,Expense,275,Shopping,Books
+10564,2023-09-20,Expense,175,Food,Bakery
+10565,2023-09-20,Expense,80,Food,Coffee Shop
+10566,2023-09-20,Expense,1500,Bills,Insurance
+10567,2023-09-21,Expense,750,Shopping,Clothing
+10568,2023-09-22,Expense,175,Food,Delivery
+10569,2023-09-23,Expense,350,Healthcare,Medical
+10570,2023-09-23,Expense,90,Food,Coffee Shop
+10571,2023-09-24,Expense,375,Other,Gifts
+10572,2023-09-25,Expense,175,Other,ATM Withdrawal
+10573,2023-09-25,Expense,225,Entertainment,Sports
+10574,2023-09-25,Savings,1200,Investment,Stocks
+10575,2023-09-25,Expense,300,Food,Bakery
+10576,2023-09-26,Expense,70,Food,Coffee Shop
+10577,2023-09-26,Expense,350,Healthcare,Wellness
+10578,2023-09-26,Expense,70,Food,Fast Food
+10579,2023-09-27,Expense,275,Food,Groceries
+10580,2023-09-28,Expense,275,Food,Bakery
+10581,2023-09-28,Expense,400,Travel,Flight
+10582,2023-09-28,Expense,80,Travel,Parking
+10583,2023-09-28,Expense,425,Travel,Parking
+10584,2023-09-28,Expense,50,Entertainment,Movies
+10585,2023-09-29,Expense,150,Entertainment,Gaming
+10586,2023-09-30,Expense,500,Travel,Flight
+10587,2023-09-30,Expense,475,Travel,Flight
+10588,2023-10-01,Expense,650,Shopping,Books
+10589,2023-10-01,Income,50000,Salary,Monthly Salary
+10590,2023-10-01,Expense,125,Entertainment,Gaming
+10591,2023-10-01,Expense,12000,Bills,Rent
+10592,2023-10-01,Expense,500,Healthcare,Gym
+10593,2023-10-02,Expense,425,Travel,Hotel
+10594,2023-10-02,Expense,800,Shopping,Online
+10595,2023-10-02,Expense,60,Travel,Public Transport
+10596,2023-10-03,Expense,60,Food,Fast Food
+10597,2023-10-03,Expense,375,Healthcare,Pharmacy
+10598,2023-10-05,Expense,600,Bills,Internet
+10599,2023-10-05,Savings,5000,Investment,SIP
+10600,2023-10-05,Savings,1100,Investment,Crypto
+10601,2023-10-05,Expense,100,Food,Delivery
+10602,2023-10-06,Income,850,Investment Returns,Dividend
+10603,2023-10-06,Expense,175,Shopping,Personal Care
+10604,2023-10-06,Expense,70,Travel,Public Transport
+10605,2023-10-07,Expense,400,Other,Gifts
+10606,2023-10-07,Expense,700,Bills,Electricity
+10607,2023-10-07,Expense,175,Healthcare,Pharmacy
+10608,2023-10-08,Expense,70,Food,Bakery
+10609,2023-10-08,Expense,700,Shopping,Household
+10610,2023-10-09,Expense,475,Travel,Fuel
+10611,2023-10-09,Expense,100,Shopping,Books
+10612,2023-10-09,Expense,425,Other,Miscellaneous
+10613,2023-10-09,Expense,70,Food,Restaurants
+10614,2023-10-10,Expense,400,Bills,Phone
+10615,2023-10-10,Expense,225,Travel,Taxi
+10616,2023-10-11,Expense,125,Entertainment,Gaming
+10617,2023-10-11,Expense,70,Food,Coffee Shop
+10618,2023-10-11,Expense,50,Food,Fast Food
+10619,2023-10-11,Expense,175,Other,Gifts
+10620,2023-10-12,Income,2400,Investment Returns,Dividend
+10621,2023-10-12,Expense,600,Bills,Gas
+10622,2023-10-12,Expense,175,Food,Bakery
+10623,2023-10-14,Expense,100,Shopping,Clothing
+10624,2023-10-14,Expense,125,Shopping,Books
+10625,2023-10-14,Expense,275,Food,Groceries
+10626,2023-10-14,Expense,500,Travel,Hotel
+10627,2023-10-14,Expense,90,Entertainment,Hobbies
+10628,2023-10-15,Expense,200,Entertainment,Streaming
+10629,2023-10-17,Expense,225,Travel,Taxi
+10630,2023-10-17,Expense,60,Entertainment,Movies
+10631,2023-10-17,Expense,175,Other,Gifts
+10632,2023-10-17,Savings,1100,Investment,Mutual Funds
+10633,2023-10-17,Expense,70,Food,Fast Food
+10634,2023-10-18,Expense,700,Shopping,Clothing
+10635,2023-10-18,Expense,70,Travel,Public Transport
+10636,2023-10-19,Expense,750,Shopping,Personal Care
+10637,2023-10-19,Savings,1700,Investment,Crypto
+10638,2023-10-20,Expense,300,Travel,Fuel
+10639,2023-10-20,Expense,1500,Bills,Insurance
+10640,2023-10-21,Expense,425,Travel,Flight
+10641,2023-10-21,Income,2600,Investment Returns,Dividend
+10642,2023-10-22,Expense,90,Food,Fast Food
+10643,2023-10-22,Expense,550,Shopping,Personal Care
+10644,2023-10-22,Expense,70,Food,Fast Food
+10645,2023-10-23,Expense,475,Travel,Hotel
+10646,2023-10-23,Expense,200,Food,Restaurants
+10647,2023-10-24,Expense,100,Food,Delivery
+10648,2023-10-24,Expense,175,Food,Restaurants
+10649,2023-10-24,Savings,1700,Investment,Stocks
+10650,2023-10-24,Expense,475,Other,Transfer
+10651,2023-10-25,Savings,1000,Investment,Stocks
+10652,2023-10-26,Expense,175,Travel,Fuel
+10653,2023-10-26,Savings,1600,Investment,Mutual Funds
+10654,2023-10-27,Expense,50,Travel,Public Transport
+10655,2023-10-27,Expense,175,Healthcare,Medical
+10656,2023-10-27,Expense,200,Entertainment,Movies
+10657,2023-10-27,Expense,250,Entertainment,Sports
+10658,2023-10-29,Expense,750,Shopping,Clothing
+10659,2023-10-30,Expense,275,Shopping,Personal Care
+10660,2023-10-30,Expense,80,Food,Restaurants
+10661,2023-10-30,Savings,500,Investment,Fixed Deposit
+10662,2023-10-30,Expense,600,Shopping,Personal Care
+10663,2023-10-31,Savings,1500,Investment,Mutual Funds
+10664,2023-10-31,Expense,80,Food,Groceries
+10665,2023-10-31,Expense,80,Food,Delivery
+10666,2023-11-01,Expense,500,Healthcare,Gym
+10667,2023-11-01,Expense,550,Shopping,Clothing
+10668,2023-11-01,Expense,12000,Bills,Rent
+10669,2023-11-01,Income,50000,Salary,Monthly Salary
+10670,2023-11-02,Income,1800,Investment Returns,Mutual Fund Returns
+10671,2023-11-02,Expense,200,Other,Donations
+10672,2023-11-02,Expense,450,Other,Donations
+10673,2023-11-02,Savings,1800,Investment,Fixed Deposit
+10674,2023-11-03,Expense,70,Entertainment,Hobbies
+10675,2023-11-03,Expense,500,Shopping,Electronics
+10676,2023-11-03,Expense,200,Travel,Ride-share
+10677,2023-11-03,Savings,1300,Investment,Fixed Deposit
+10678,2023-11-04,Expense,50,Food,Fast Food
+10679,2023-11-05,Expense,600,Bills,Internet
+10680,2023-11-05,Expense,150,Food,Restaurants
+10681,2023-11-05,Savings,5000,Investment,SIP
+10682,2023-11-06,Expense,250,Other,Gifts
+10683,2023-11-07,Expense,750,Bills,Electricity
+10684,2023-11-07,Expense,325,Travel,Parking
+10685,2023-11-08,Expense,300,Food,Delivery
+10686,2023-11-08,Expense,400,Healthcare,Medical
+10687,2023-11-09,Savings,2000,Investment,Crypto
+10688,2023-11-09,Expense,100,Food,Bakery
+10689,2023-11-09,Expense,50,Travel,Public Transport
+10690,2023-11-10,Expense,70,Food,Bakery
+10691,2023-11-10,Expense,400,Bills,Phone
+10692,2023-11-11,Expense,150,Food,Bakery
+10693,2023-11-11,Expense,150,Entertainment,Movies
+10694,2023-11-12,Expense,400,Travel,Flight
+10695,2023-11-12,Expense,600,Bills,Gas
+10696,2023-11-12,Expense,425,Travel,Flight
+10697,2023-11-12,Expense,400,Other,Gifts
+10698,2023-11-12,Expense,225,Food,Restaurants
+10699,2023-11-13,Expense,175,Food,Bakery
+10700,2023-11-13,Expense,100,Healthcare,Medical
+10701,2023-11-13,Expense,225,Food,Delivery
+10702,2023-11-14,Expense,80,Entertainment,Movies
+10703,2023-11-14,Expense,60,Travel,Public Transport
+10704,2023-11-15,Expense,300,Healthcare,Medical
+10705,2023-11-15,Expense,325,Shopping,Personal Care
+10706,2023-11-15,Expense,200,Entertainment,Streaming
+10707,2023-11-16,Savings,650,Investment,Mutual Funds
+10708,2023-11-17,Expense,150,Food,Groceries
+10709,2023-11-18,Expense,450,Other,Donations
+10710,2023-11-18,Expense,175,Shopping,Clothing
+10711,2023-11-18,Expense,225,Entertainment,Hobbies
+10712,2023-11-19,Expense,750,Shopping,Books
+10713,2023-11-20,Expense,250,Travel,Parking
+10714,2023-11-20,Expense,1500,Bills,Insurance
+10715,2023-11-20,Expense,350,Travel,Parking
+10716,2023-11-20,Expense,450,Other,ATM Withdrawal
+10717,2023-11-20,Expense,150,Food,Groceries
+10718,2023-11-22,Expense,70,Food,Fast Food
+10719,2023-11-23,Expense,175,Entertainment,Gaming
+10720,2023-11-24,Expense,150,Food,Bakery
+10721,2023-11-24,Expense,90,Food,Groceries
+10722,2023-11-24,Expense,80,Travel,Public Transport
+10723,2023-11-24,Expense,100,Food,Fast Food
+10724,2023-11-25,Expense,250,Healthcare,Medical
+10725,2023-11-25,Expense,70,Food,Fast Food
+10726,2023-11-26,Expense,70,Food,Fast Food
+10727,2023-11-26,Expense,175,Entertainment,Events
+10728,2023-11-26,Expense,175,Entertainment,Gaming
+10729,2023-11-27,Expense,100,Food,Coffee Shop
+10730,2023-11-27,Expense,150,Food,Bakery
+10731,2023-11-27,Expense,50,Entertainment,Sports
+10732,2023-11-28,Expense,250,Food,Restaurants
+10733,2023-11-29,Expense,250,Food,Restaurants
+10734,2023-12-01,Expense,500,Healthcare,Gym
+10735,2023-12-01,Income,50000,Salary,Monthly Salary
+10736,2023-12-01,Expense,12000,Bills,Rent
+10737,2023-12-02,Savings,850,Investment,Stocks
+10738,2023-12-04,Expense,700,Shopping,Personal Care
+10739,2023-12-04,Expense,125,Shopping,Household
+10740,2023-12-05,Expense,600,Bills,Internet
+10741,2023-12-05,Expense,225,Travel,Fuel
+10742,2023-12-05,Savings,5000,Investment,SIP
+10743,2023-12-05,Expense,80,Food,Fast Food
+10744,2023-12-06,Expense,80,Entertainment,Hobbies
+10745,2023-12-06,Savings,800,Investment,Crypto
+10746,2023-12-06,Expense,150,Food,Bakery
+10747,2023-12-06,Expense,80,Food,Fast Food
+10748,2023-12-07,Expense,225,Entertainment,Events
+10749,2023-12-07,Expense,800,Bills,Electricity
+10750,2023-12-08,Expense,200,Shopping,Online
+10751,2023-12-08,Expense,80,Entertainment,Movies
+10752,2023-12-09,Expense,650,Shopping,Electronics
+10753,2023-12-10,Expense,400,Bills,Phone
+10754,2023-12-12,Expense,650,Shopping,Personal Care
+10755,2023-12-12,Expense,125,Entertainment,Movies
+10756,2023-12-12,Expense,600,Bills,Gas
+10757,2023-12-12,Expense,100,Food,Coffee Shop
+10758,2023-12-14,Expense,70,Food,Bakery
+10759,2023-12-15,Expense,225,Shopping,Household
+10760,2023-12-15,Expense,200,Entertainment,Streaming
+10761,2023-12-16,Income,2400,Investment Returns,Capital Gains
+10762,2023-12-20,Expense,100,Food,Groceries
+10763,2023-12-20,Expense,250,Shopping,Online
+10764,2023-12-20,Expense,1500,Bills,Insurance
+10765,2023-12-20,Expense,450,Travel,Hotel
+10766,2023-12-20,Expense,425,Travel,Hotel
+10767,2023-12-21,Expense,450,Travel,Parking
+10768,2023-12-21,Expense,650,Shopping,Personal Care
+10769,2023-12-21,Expense,125,Travel,Taxi
+10770,2023-12-22,Expense,275,Shopping,Electronics
+10771,2023-12-22,Expense,70,Entertainment,Hobbies
+10772,2023-12-22,Expense,70,Entertainment,Gaming
+10773,2023-12-23,Expense,175,Entertainment,Sports
+10774,2023-12-23,Expense,80,Food,Coffee Shop
+10775,2023-12-23,Expense,50,Food,Fast Food
+10776,2023-12-23,Expense,750,Shopping,Clothing
+10777,2023-12-23,Expense,80,Food,Fast Food
+10778,2023-12-24,Expense,225,Food,Groceries
+10779,2023-12-24,Expense,375,Other,Donations
+10780,2023-12-25,Expense,450,Travel,Flight
+10781,2023-12-25,Income,1400,Investment Returns,Dividend
+10782,2023-12-26,Expense,100,Shopping,Clothing
+10783,2023-12-26,Expense,425,Other,Miscellaneous
+10784,2023-12-26,Expense,325,Shopping,Household
+10785,2023-12-27,Expense,500,Travel,Fuel
+10786,2023-12-27,Expense,175,Food,Bakery
+10787,2023-12-29,Expense,60,Food,Delivery
+10788,2023-12-29,Expense,275,Healthcare,Wellness
+10789,2023-12-29,Expense,550,Shopping,Online
+10790,2023-12-30,Savings,1600,Investment,Crypto
+10791,2023-12-30,Expense,150,Shopping,Online
+10792,2023-12-30,Expense,90,Entertainment,Movies
+10793,2023-12-30,Expense,500,Shopping,Household
+10794,2024-01-01,Expense,500,Healthcare,Gym
+10795,2024-01-01,Income,50000,Salary,Monthly Salary
+10796,2024-01-01,Expense,150,Other,Gifts
+10797,2024-01-01,Savings,1500,Investment,Stocks
+10798,2024-01-01,Expense,12000,Bills,Rent
+10799,2024-01-02,Expense,475,Shopping,Clothing
+10800,2024-01-02,Expense,325,Healthcare,Wellness
+10801,2024-01-03,Expense,475,Travel,Fuel
+10802,2024-01-03,Expense,650,Shopping,Electronics
+10803,2024-01-04,Expense,90,Food,Restaurants
+10804,2024-01-04,Expense,325,Shopping,Clothing
+10805,2024-01-04,Savings,1600,Investment,Stocks
+10806,2024-01-04,Expense,475,Travel,Flight
+10807,2024-01-04,Expense,350,Other,Gifts
+10808,2024-01-04,Expense,325,Other,Miscellaneous
+10809,2024-01-05,Expense,225,Healthcare,Wellness
+10810,2024-01-05,Expense,600,Bills,Internet
+10811,2024-01-05,Expense,60,Food,Coffee Shop
+10812,2024-01-05,Savings,5000,Investment,SIP
+10813,2024-01-05,Expense,450,Shopping,Clothing
+10814,2024-01-06,Expense,175,Shopping,Online
+10815,2024-01-07,Expense,200,Food,Restaurants
+10816,2024-01-07,Expense,375,Healthcare,Medical
+10817,2024-01-07,Expense,125,Entertainment,Hobbies
+10818,2024-01-07,Expense,700,Bills,Electricity
+10819,2024-01-08,Expense,175,Entertainment,Hobbies
+10820,2024-01-08,Expense,150,Food,Restaurants
+10821,2024-01-09,Expense,70,Food,Restaurants
+10822,2024-01-10,Expense,400,Bills,Phone
+10823,2024-01-10,Expense,125,Entertainment,Movies
+10824,2024-01-10,Expense,750,Shopping,Books
+10825,2024-01-12,Expense,60,Entertainment,Hobbies
+10826,2024-01-12,Expense,600,Bills,Gas
+10827,2024-01-13,Expense,350,Travel,Ride-share
+10828,2024-01-14,Expense,375,Other,ATM Withdrawal
+10829,2024-01-15,Expense,100,Food,Restaurants
+10830,2024-01-15,Expense,200,Entertainment,Streaming
+10831,2024-01-16,Expense,325,Travel,Parking
+10832,2024-01-16,Expense,350,Other,Gifts
+10833,2024-01-18,Expense,70,Travel,Public Transport
+10834,2024-01-18,Expense,125,Entertainment,Gaming
+10835,2024-01-19,Expense,250,Travel,Parking
+10836,2024-01-19,Expense,300,Shopping,Online
+10837,2024-01-19,Expense,225,Food,Bakery
+10838,2024-01-20,Expense,250,Shopping,Household
+10839,2024-01-20,Expense,1500,Bills,Insurance
+10840,2024-01-21,Expense,80,Food,Fast Food
+10841,2024-01-21,Income,2600,Investment Returns,Mutual Fund Returns
+10842,2024-01-22,Expense,100,Food,Bakery
+10843,2024-01-24,Expense,150,Healthcare,Wellness
+10844,2024-01-24,Expense,600,Shopping,Online
+10845,2024-01-24,Expense,275,Food,Groceries
+10846,2024-01-25,Expense,50,Food,Fast Food
+10847,2024-01-25,Expense,70,Food,Coffee Shop
+10848,2024-01-26,Expense,175,Travel,Fuel
+10849,2024-01-26,Expense,70,Entertainment,Events
+10850,2024-01-27,Expense,100,Food,Groceries
+10851,2024-01-27,Expense,70,Food,Fast Food
+10852,2024-01-30,Expense,150,Entertainment,Events
+10853,2024-01-30,Income,1200,Investment Returns,Capital Gains
+10854,2024-01-30,Expense,700,Shopping,Electronics
+10855,2024-01-31,Expense,125,Food,Delivery
+10856,2024-01-31,Expense,325,Travel,Ride-share
+10857,2024-01-31,Expense,300,Healthcare,Wellness
+10858,2024-01-31,Expense,400,Other,ATM Withdrawal
+10859,2024-02-01,Expense,12000,Bills,Rent
+10860,2024-02-01,Income,50000,Salary,Monthly Salary
+10861,2024-02-01,Expense,425,Other,ATM Withdrawal
+10862,2024-02-01,Savings,700,Investment,Mutual Funds
+10863,2024-02-01,Expense,500,Healthcare,Gym
+10864,2024-02-02,Expense,80,Food,Fast Food
+10865,2024-02-02,Expense,90,Entertainment,Movies
+10866,2024-02-03,Expense,225,Food,Bakery
+10867,2024-02-04,Expense,400,Travel,Hotel
+10868,2024-02-05,Expense,100,Travel,Parking
+10869,2024-02-05,Savings,5000,Investment,SIP
+10870,2024-02-05,Expense,600,Bills,Internet
+10871,2024-02-06,Expense,70,Entertainment,Gaming
+10872,2024-02-06,Savings,850,Investment,Stocks
+10873,2024-02-07,Expense,750,Bills,Electricity
+10874,2024-02-07,Expense,100,Entertainment,Gaming
+10875,2024-02-08,Expense,70,Food,Fast Food
+10876,2024-02-09,Expense,325,Travel,Parking
+10877,2024-02-09,Expense,400,Shopping,Books
+10878,2024-02-10,Expense,80,Food,Delivery
+10879,2024-02-10,Savings,1100,Investment,Crypto
+10880,2024-02-10,Expense,400,Bills,Phone
+10881,2024-02-10,Income,2900,Investment Returns,Dividend
+10882,2024-02-11,Expense,200,Food,Groceries
+10883,2024-02-12,Expense,60,Food,Restaurants
+10884,2024-02-12,Expense,600,Bills,Gas
+10885,2024-02-12,Expense,150,Food,Restaurants
+10886,2024-02-14,Expense,700,Shopping,Online
+10887,2024-02-14,Expense,500,Travel,Taxi
+10888,2024-02-15,Expense,200,Entertainment,Streaming
+10889,2024-02-15,Expense,375,Shopping,Online
+10890,2024-02-16,Expense,250,Food,Restaurants
+10891,2024-02-16,Expense,175,Entertainment,Gaming
+10892,2024-02-16,Expense,125,Food,Bakery
+10893,2024-02-16,Expense,200,Travel,Parking
+10894,2024-02-17,Expense,350,Shopping,Electronics
+10895,2024-02-18,Expense,425,Travel,Hotel
+10896,2024-02-18,Savings,650,Investment,Crypto
+10897,2024-02-18,Expense,250,Healthcare,Medical
+10898,2024-02-18,Expense,600,Shopping,Online
+10899,2024-02-19,Savings,950,Investment,Stocks
+10900,2024-02-20,Expense,1500,Bills,Insurance
+10901,2024-02-20,Savings,600,Investment,Stocks
+10902,2024-02-21,Expense,70,Travel,Public Transport
+10903,2024-02-22,Expense,275,Travel,Parking
+10904,2024-02-23,Expense,450,Travel,Parking
+10905,2024-02-23,Expense,225,Food,Bakery
+10906,2024-02-25,Expense,250,Food,Groceries
+10907,2024-02-25,Expense,600,Shopping,Books
+10908,2024-02-25,Expense,375,Shopping,Electronics
+10909,2024-02-25,Expense,425,Travel,Flight
+10910,2024-02-26,Expense,90,Travel,Public Transport
+10911,2024-02-27,Expense,350,Other,Transfer
+10912,2024-02-28,Savings,1400,Investment,Stocks
+10913,2024-02-28,Expense,375,Travel,Hotel
+10914,2024-02-28,Expense,550,Shopping,Online
+10915,2024-02-28,Expense,550,Shopping,Electronics
+10916,2024-02-29,Expense,60,Food,Coffee Shop
+10917,2024-02-29,Savings,1100,Investment,Crypto
+10918,2024-02-29,Expense,200,Travel,Taxi
+10919,2024-02-29,Expense,350,Other,ATM Withdrawal
+10920,2024-02-29,Expense,450,Travel,Flight
+10921,2024-03-01,Expense,500,Healthcare,Gym
+10922,2024-03-01,Expense,12000,Bills,Rent
+10923,2024-03-01,Income,50000,Salary,Monthly Salary
+10924,2024-03-02,Expense,225,Healthcare,Pharmacy
+10925,2024-03-03,Expense,250,Healthcare,Wellness
+10926,2024-03-05,Expense,400,Travel,Parking
+10927,2024-03-05,Expense,600,Bills,Internet
+10928,2024-03-05,Expense,600,Shopping,Electronics
+10929,2024-03-05,Savings,5000,Investment,SIP
+10930,2024-03-05,Expense,450,Travel,Hotel
+10931,2024-03-07,Expense,850,Bills,Electricity
+10932,2024-03-07,Expense,225,Entertainment,Gaming
+10933,2024-03-08,Expense,90,Food,Coffee Shop
+10934,2024-03-08,Expense,250,Food,Restaurants
+10935,2024-03-08,Expense,125,Shopping,Books
+10936,2024-03-08,Income,1700,Investment Returns,Interest
+10937,2024-03-09,Savings,1300,Investment,Stocks
+10938,2024-03-10,Savings,1500,Investment,Mutual Funds
+10939,2024-03-10,Expense,400,Bills,Phone
+10940,2024-03-12,Expense,325,Other,ATM Withdrawal
+10941,2024-03-12,Expense,600,Bills,Gas
+10942,2024-03-12,Expense,125,Entertainment,Events
+10943,2024-03-13,Expense,70,Food,Coffee Shop
+10944,2024-03-14,Expense,100,Food,Fast Food
+10945,2024-03-14,Expense,550,Shopping,Electronics
+10946,2024-03-15,Expense,200,Entertainment,Streaming
+10947,2024-03-16,Expense,175,Food,Delivery
+10948,2024-03-16,Expense,150,Food,Delivery
+10949,2024-03-17,Expense,175,Food,Restaurants
+10950,2024-03-19,Expense,300,Other,Donations
+10951,2024-03-19,Expense,175,Entertainment,Sports
+10952,2024-03-20,Expense,350,Other,Donations
+10953,2024-03-20,Expense,150,Food,Delivery
+10954,2024-03-20,Expense,1500,Bills,Insurance
+10955,2024-03-20,Expense,150,Travel,Parking
+10956,2024-03-20,Expense,475,Travel,Hotel
+10957,2024-03-20,Expense,225,Healthcare,Pharmacy
+10958,2024-03-21,Expense,200,Food,Groceries
+10959,2024-03-22,Expense,225,Food,Delivery
+10960,2024-03-23,Expense,375,Travel,Hotel
+10961,2024-03-23,Expense,100,Travel,Parking
+10962,2024-03-24,Expense,750,Shopping,Clothing
+10963,2024-03-24,Expense,275,Travel,Ride-share
+10964,2024-03-24,Expense,250,Food,Restaurants
+10965,2024-03-25,Expense,125,Food,Bakery
+10966,2024-03-26,Expense,200,Entertainment,Gaming
+10967,2024-03-27,Expense,100,Food,Delivery
+10968,2024-03-27,Expense,300,Other,ATM Withdrawal
+10969,2024-03-27,Expense,425,Other,ATM Withdrawal
+10970,2024-03-28,Savings,600,Investment,Stocks
+10971,2024-03-28,Expense,225,Entertainment,Hobbies
+10972,2024-03-28,Expense,225,Travel,Parking
+10973,2024-03-29,Expense,100,Entertainment,Sports
+10974,2024-03-30,Expense,350,Healthcare,Medical
+10975,2024-03-30,Expense,125,Entertainment,Movies
+10976,2024-03-31,Expense,250,Shopping,Electronics
+10977,2024-03-31,Expense,475,Shopping,Books
+10978,2024-04-01,Expense,350,Travel,Hotel
+10979,2024-04-01,Income,50000,Salary,Monthly Salary
+10980,2024-04-01,Expense,500,Healthcare,Gym
+10981,2024-04-01,Expense,12000,Bills,Rent
+10982,2024-04-01,Expense,125,Entertainment,Hobbies
+10983,2024-04-02,Expense,200,Entertainment,Hobbies
+10984,2024-04-03,Expense,150,Entertainment,Events
+10985,2024-04-03,Expense,550,Shopping,Online
+10986,2024-04-03,Income,2700,Investment Returns,Interest
+10987,2024-04-04,Expense,800,Shopping,Books
+10988,2024-04-04,Expense,125,Entertainment,Hobbies
+10989,2024-04-05,Expense,175,Food,Groceries
+10990,2024-04-05,Expense,90,Food,Bakery
+10991,2024-04-05,Expense,600,Bills,Internet
+10992,2024-04-05,Expense,90,Travel,Public Transport
+10993,2024-04-05,Savings,5000,Investment,SIP
+10994,2024-04-06,Expense,425,Shopping,Electronics
+10995,2024-04-06,Expense,100,Food,Fast Food
+10996,2024-04-07,Expense,225,Food,Bakery
+10997,2024-04-07,Expense,70,Food,Coffee Shop
+10998,2024-04-07,Expense,800,Bills,Electricity
+10999,2024-04-08,Expense,700,Shopping,Books
+11000,2024-04-08,Expense,250,Food,Delivery
+11001,2024-04-10,Expense,400,Bills,Phone
+11002,2024-04-10,Savings,850,Investment,Crypto
+11003,2024-04-11,Expense,60,Food,Bakery
+11004,2024-04-11,Expense,300,Shopping,Electronics
+11005,2024-04-11,Expense,60,Food,Restaurants
+11006,2024-04-12,Expense,125,Food,Delivery
+11007,2024-04-12,Expense,600,Bills,Gas
+11008,2024-04-13,Expense,275,Food,Groceries
+11009,2024-04-15,Expense,275,Other,ATM Withdrawal
+11010,2024-04-15,Expense,200,Entertainment,Streaming
+11011,2024-04-15,Expense,450,Travel,Ride-share
+11012,2024-04-15,Expense,250,Travel,Ride-share
+11013,2024-04-16,Expense,60,Food,Coffee Shop
+11014,2024-04-16,Expense,80,Food,Coffee Shop
+11015,2024-04-17,Savings,1000,Investment,Mutual Funds
+11016,2024-04-18,Expense,375,Travel,Fuel
+11017,2024-04-18,Expense,225,Healthcare,Wellness
+11018,2024-04-19,Expense,100,Entertainment,Movies
+11019,2024-04-20,Expense,375,Travel,Taxi
+11020,2024-04-20,Expense,350,Travel,Hotel
+11021,2024-04-20,Expense,1500,Bills,Insurance
+11022,2024-04-21,Expense,250,Shopping,Personal Care
+11023,2024-04-21,Expense,175,Shopping,Electronics
+11024,2024-04-22,Expense,90,Food,Fast Food
+11025,2024-04-23,Expense,750,Shopping,Clothing
+11026,2024-04-23,Savings,1500,Investment,Stocks
+11027,2024-04-24,Expense,350,Travel,Parking
+11028,2024-04-24,Expense,175,Entertainment,Movies
+11029,2024-04-25,Expense,60,Food,Coffee Shop
+11030,2024-04-25,Expense,100,Entertainment,Movies
+11031,2024-04-26,Expense,80,Food,Delivery
+11032,2024-04-26,Expense,125,Food,Bakery
+11033,2024-04-28,Expense,50,Food,Fast Food
+11034,2024-04-28,Expense,175,Other,Gifts
+11035,2024-04-28,Savings,1700,Investment,Fixed Deposit
+11036,2024-04-28,Expense,150,Food,Bakery
+11037,2024-04-28,Expense,350,Travel,Fuel
+11038,2024-04-29,Expense,275,Shopping,Online
+11039,2024-04-29,Expense,300,Food,Restaurants
+11040,2024-04-29,Expense,150,Food,Restaurants
+11041,2024-04-29,Expense,60,Food,Delivery
+11042,2024-05-01,Income,50000,Salary,Monthly Salary
+11043,2024-05-01,Expense,12000,Bills,Rent
+11044,2024-05-01,Expense,125,Shopping,Clothing
+11045,2024-05-01,Expense,500,Healthcare,Gym
+11046,2024-05-01,Expense,200,Food,Delivery
+11047,2024-05-02,Expense,70,Food,Coffee Shop
+11048,2024-05-02,Expense,450,Shopping,Household
+11049,2024-05-03,Expense,275,Shopping,Clothing
+11050,2024-05-03,Expense,250,Other,Gifts
+11051,2024-05-03,Expense,70,Food,Fast Food
+11052,2024-05-04,Expense,325,Healthcare,Pharmacy
+11053,2024-05-05,Expense,70,Travel,Ride-share
+11054,2024-05-05,Expense,90,Food,Bakery
+11055,2024-05-05,Expense,225,Travel,Parking
+11056,2024-05-05,Savings,5000,Investment,SIP
+11057,2024-05-05,Expense,600,Bills,Internet
+11058,2024-05-06,Expense,200,Food,Restaurants
+11059,2024-05-07,Expense,650,Shopping,Clothing
+11060,2024-05-07,Expense,750,Bills,Electricity
+11061,2024-05-07,Expense,275,Healthcare,Wellness
+11062,2024-05-07,Expense,175,Food,Bakery
+11063,2024-05-07,Expense,425,Travel,Taxi
+11064,2024-05-08,Expense,200,Food,Restaurants
+11065,2024-05-08,Expense,100,Food,Coffee Shop
+11066,2024-05-08,Expense,475,Shopping,Online
+11067,2024-05-08,Expense,325,Travel,Parking
+11068,2024-05-10,Expense,400,Other,Donations
+11069,2024-05-10,Expense,400,Bills,Phone
+11070,2024-05-11,Expense,350,Shopping,Household
+11071,2024-05-11,Expense,200,Food,Groceries
+11072,2024-05-12,Expense,275,Travel,Taxi
+11073,2024-05-12,Expense,225,Food,Groceries
+11074,2024-05-12,Expense,600,Bills,Gas
+11075,2024-05-12,Expense,400,Healthcare,Medical
+11076,2024-05-13,Expense,375,Travel,Flight
+11077,2024-05-13,Expense,80,Food,Fast Food
+11078,2024-05-13,Expense,250,Food,Restaurants
+11079,2024-05-13,Expense,200,Food,Delivery
+11080,2024-05-13,Expense,125,Other,Donations
+11081,2024-05-14,Expense,125,Travel,Taxi
+11082,2024-05-14,Income,2900,Investment Returns,Interest
+11083,2024-05-14,Expense,200,Food,Delivery
+11084,2024-05-14,Expense,175,Entertainment,Movies
+11085,2024-05-15,Expense,200,Entertainment,Streaming
+11086,2024-05-16,Expense,200,Food,Delivery
+11087,2024-05-17,Expense,100,Shopping,Electronics
+11088,2024-05-18,Expense,300,Shopping,Books
+11089,2024-05-18,Expense,300,Travel,Parking
+11090,2024-05-19,Expense,80,Travel,Public Transport
+11091,2024-05-19,Expense,80,Food,Coffee Shop
+11092,2024-05-20,Expense,450,Travel,Flight
+11093,2024-05-20,Expense,1500,Bills,Insurance
+11094,2024-05-21,Expense,90,Travel,Public Transport
+11095,2024-05-21,Expense,125,Food,Bakery
+11096,2024-05-21,Expense,475,Travel,Hotel
+11097,2024-05-23,Expense,125,Entertainment,Events
+11098,2024-05-23,Expense,375,Shopping,Online
+11099,2024-05-23,Expense,60,Food,Fast Food
+11100,2024-05-24,Expense,125,Entertainment,Sports
+11101,2024-05-25,Expense,425,Shopping,Clothing
+11102,2024-05-25,Expense,175,Food,Groceries
+11103,2024-05-26,Expense,325,Healthcare,Medical
+11104,2024-05-26,Expense,375,Travel,Ride-share
+11105,2024-05-26,Expense,150,Food,Groceries
+11106,2024-05-26,Expense,80,Food,Bakery
+11107,2024-05-26,Expense,425,Shopping,Clothing
+11108,2024-05-27,Expense,225,Travel,Fuel
+11109,2024-05-27,Expense,70,Food,Groceries
+11110,2024-05-27,Expense,350,Healthcare,Pharmacy
+11111,2024-05-28,Expense,100,Other,Gifts
+11112,2024-05-28,Expense,250,Food,Bakery
+11113,2024-05-28,Expense,90,Entertainment,Movies
+11114,2024-05-28,Expense,200,Food,Restaurants
+11115,2024-05-29,Expense,175,Entertainment,Gaming
+11116,2024-05-30,Expense,300,Healthcare,Wellness
+11117,2024-06-01,Expense,12000,Bills,Rent
+11118,2024-06-01,Expense,500,Healthcare,Gym
+11119,2024-06-01,Expense,80,Food,Delivery
+11120,2024-06-01,Income,50000,Salary,Monthly Salary
+11121,2024-06-01,Expense,600,Shopping,Household
+11122,2024-06-02,Expense,275,Other,Miscellaneous
+11123,2024-06-04,Expense,400,Healthcare,Pharmacy
+11124,2024-06-05,Savings,5000,Investment,SIP
+11125,2024-06-05,Expense,600,Bills,Internet
+11126,2024-06-06,Expense,50,Food,Bakery
+11127,2024-06-06,Expense,125,Entertainment,Movies
+11128,2024-06-06,Expense,100,Food,Fast Food
+11129,2024-06-07,Expense,800,Bills,Electricity
+11130,2024-06-07,Expense,550,Shopping,Personal Care
+11131,2024-06-08,Expense,200,Healthcare,Medical
+11132,2024-06-08,Expense,90,Food,Restaurants
+11133,2024-06-08,Expense,125,Healthcare,Pharmacy
+11134,2024-06-09,Expense,425,Travel,Flight
+11135,2024-06-10,Expense,375,Travel,Flight
+11136,2024-06-10,Expense,400,Bills,Phone
+11137,2024-06-11,Savings,1800,Investment,Crypto
+11138,2024-06-12,Income,1500,Investment Returns,Capital Gains
+11139,2024-06-12,Expense,600,Bills,Gas
+11140,2024-06-13,Expense,125,Entertainment,Sports
+11141,2024-06-13,Savings,1400,Investment,Crypto
+11142,2024-06-13,Expense,275,Travel,Ride-share
+11143,2024-06-13,Expense,700,Shopping,Books
+11144,2024-06-14,Expense,350,Shopping,Electronics
+11145,2024-06-15,Expense,200,Entertainment,Streaming
+11146,2024-06-16,Expense,125,Food,Delivery
+11147,2024-06-18,Expense,200,Food,Restaurants
+11148,2024-06-18,Expense,150,Shopping,Clothing
+11149,2024-06-18,Income,12700,Salary,Bonus
+11150,2024-06-20,Expense,70,Food,Coffee Shop
+11151,2024-06-20,Expense,1500,Bills,Insurance
+11152,2024-06-22,Expense,200,Food,Bakery
+11153,2024-06-23,Expense,700,Shopping,Electronics
+11154,2024-06-23,Expense,150,Entertainment,Hobbies
+11155,2024-06-23,Expense,90,Food,Coffee Shop
+11156,2024-06-24,Expense,70,Food,Coffee Shop
+11157,2024-06-25,Expense,200,Food,Bakery
+11158,2024-06-25,Expense,150,Food,Bakery
+11159,2024-06-25,Expense,80,Entertainment,Gaming
+11160,2024-06-25,Expense,275,Travel,Taxi
+11161,2024-06-25,Expense,200,Entertainment,Gaming
+11162,2024-06-25,Expense,70,Food,Bakery
+11163,2024-06-26,Expense,275,Other,Transfer
+11164,2024-06-26,Expense,100,Food,Restaurants
+11165,2024-06-26,Expense,80,Food,Fast Food
+11166,2024-06-26,Expense,100,Food,Bakery
+11167,2024-06-26,Expense,550,Shopping,Clothing
+11168,2024-06-27,Expense,300,Shopping,Books
+11169,2024-06-27,Expense,80,Food,Groceries
+11170,2024-06-28,Expense,70,Food,Restaurants
+11171,2024-06-29,Expense,375,Other,Transfer
+11172,2024-06-29,Savings,1000,Investment,Crypto
+11173,2024-06-30,Expense,125,Food,Bakery
+11174,2024-06-30,Savings,1400,Investment,Stocks
+11175,2024-07-01,Expense,12000,Bills,Rent
+11176,2024-07-01,Expense,425,Travel,Hotel
+11177,2024-07-01,Expense,500,Healthcare,Gym
+11178,2024-07-01,Income,50000,Salary,Monthly Salary
+11179,2024-07-01,Expense,100,Food,Delivery
+11180,2024-07-01,Expense,400,Travel,Hotel
+11181,2024-07-01,Expense,100,Food,Groceries
+11182,2024-07-03,Expense,90,Travel,Public Transport
+11183,2024-07-03,Expense,90,Food,Fast Food
+11184,2024-07-04,Expense,400,Travel,Flight
+11185,2024-07-04,Expense,700,Shopping,Books
+11186,2024-07-05,Expense,475,Other,Gifts
+11187,2024-07-05,Expense,600,Bills,Internet
+11188,2024-07-05,Savings,5000,Investment,SIP
+11189,2024-07-06,Expense,100,Travel,Fuel
+11190,2024-07-07,Expense,90,Food,Coffee Shop
+11191,2024-07-07,Expense,850,Bills,Electricity
+11192,2024-07-08,Expense,60,Food,Fast Food
+11193,2024-07-09,Savings,1800,Investment,Fixed Deposit
+11194,2024-07-09,Savings,1200,Investment,Mutual Funds
+11195,2024-07-10,Expense,300,Healthcare,Pharmacy
+11196,2024-07-10,Expense,100,Travel,Ride-share
+11197,2024-07-10,Expense,400,Bills,Phone
+11198,2024-07-11,Expense,80,Food,Fast Food
+11199,2024-07-11,Expense,80,Food,Coffee Shop
+11200,2024-07-11,Expense,150,Shopping,Personal Care
+11201,2024-07-11,Expense,225,Healthcare,Wellness
+11202,2024-07-12,Expense,200,Other,Miscellaneous
+11203,2024-07-12,Expense,125,Food,Restaurants
+11204,2024-07-12,Income,900,Investment Returns,Interest
+11205,2024-07-12,Expense,600,Bills,Gas
+11206,2024-07-12,Expense,425,Travel,Ride-share
+11207,2024-07-13,Expense,500,Travel,Hotel
+11208,2024-07-13,Expense,250,Food,Delivery
+11209,2024-07-14,Expense,60,Travel,Public Transport
+11210,2024-07-14,Savings,1700,Investment,Stocks
+11211,2024-07-15,Expense,350,Travel,Fuel
+11212,2024-07-15,Expense,200,Entertainment,Streaming
+11213,2024-07-16,Expense,300,Food,Bakery
+11214,2024-07-16,Expense,70,Food,Delivery
+11215,2024-07-16,Expense,200,Food,Restaurants
+11216,2024-07-16,Expense,500,Travel,Taxi
+11217,2024-07-17,Expense,750,Shopping,Household
+11218,2024-07-17,Expense,375,Healthcare,Wellness
+11219,2024-07-19,Expense,425,Shopping,Personal Care
+11220,2024-07-19,Expense,50,Food,Coffee Shop
+11221,2024-07-19,Expense,125,Healthcare,Wellness
+11222,2024-07-20,Expense,1500,Bills,Insurance
+11223,2024-07-20,Expense,325,Shopping,Books
+11224,2024-07-20,Expense,375,Other,Gifts
+11225,2024-07-20,Expense,50,Food,Groceries
+11226,2024-07-21,Expense,375,Travel,Flight
+11227,2024-07-21,Expense,550,Shopping,Online
+11228,2024-07-23,Expense,500,Travel,Flight
+11229,2024-07-23,Savings,550,Investment,Stocks
+11230,2024-07-23,Expense,150,Entertainment,Movies
+11231,2024-07-23,Expense,150,Other,Miscellaneous
+11232,2024-07-24,Expense,300,Food,Restaurants
+11233,2024-07-24,Expense,175,Food,Bakery
+11234,2024-07-26,Expense,225,Food,Groceries
+11235,2024-07-26,Expense,80,Food,Coffee Shop
+11236,2024-07-29,Expense,650,Shopping,Clothing
+11237,2024-07-29,Expense,300,Travel,Taxi
+11238,2024-07-29,Expense,450,Other,Miscellaneous
+11239,2024-07-30,Savings,1700,Investment,Fixed Deposit
+11240,2024-07-31,Expense,150,Healthcare,Pharmacy
+11241,2024-08-01,Income,50000,Salary,Monthly Salary
+11242,2024-08-01,Expense,600,Shopping,Online
+11243,2024-08-01,Expense,500,Healthcare,Gym
+11244,2024-08-01,Expense,12000,Bills,Rent
+11245,2024-08-02,Expense,225,Entertainment,Movies
+11246,2024-08-02,Expense,225,Healthcare,Pharmacy
+11247,2024-08-02,Expense,150,Food,Delivery
+11248,2024-08-02,Expense,125,Food,Bakery
+11249,2024-08-03,Expense,175,Other,Miscellaneous
+11250,2024-08-03,Income,950,Investment Returns,Interest
+11251,2024-08-04,Expense,300,Healthcare,Pharmacy
+11252,2024-08-05,Savings,5000,Investment,SIP
+11253,2024-08-05,Expense,175,Food,Delivery
+11254,2024-08-05,Expense,600,Bills,Internet
+11255,2024-08-06,Expense,275,Other,Transfer
+11256,2024-08-06,Expense,500,Travel,Hotel
+11257,2024-08-07,Expense,275,Food,Bakery
+11258,2024-08-07,Expense,700,Bills,Electricity
+11259,2024-08-08,Savings,750,Investment,Crypto
+11260,2024-08-08,Expense,125,Food,Restaurants
+11261,2024-08-09,Expense,450,Travel,Flight
+11262,2024-08-09,Expense,200,Food,Restaurants
+11263,2024-08-10,Expense,400,Bills,Phone
+11264,2024-08-10,Expense,225,Food,Delivery
+11265,2024-08-11,Savings,1400,Investment,Crypto
+11266,2024-08-11,Expense,225,Food,Restaurants
+11267,2024-08-11,Expense,60,Travel,Public Transport
+11268,2024-08-12,Expense,600,Bills,Gas
+11269,2024-08-12,Expense,70,Food,Coffee Shop
+11270,2024-08-13,Expense,125,Food,Bakery
+11271,2024-08-13,Expense,125,Food,Restaurants
+11272,2024-08-14,Expense,400,Travel,Ride-share
+11273,2024-08-14,Expense,80,Food,Delivery
+11274,2024-08-14,Expense,125,Travel,Ride-share
+11275,2024-08-15,Expense,200,Entertainment,Streaming
+11276,2024-08-15,Expense,60,Food,Fast Food
+11277,2024-08-15,Expense,150,Food,Groceries
+11278,2024-08-15,Expense,425,Travel,Ride-share
+11279,2024-08-15,Expense,50,Travel,Fuel
+11280,2024-08-16,Savings,700,Investment,Crypto
+11281,2024-08-16,Expense,175,Other,Transfer
+11282,2024-08-18,Expense,150,Entertainment,Gaming
+11283,2024-08-18,Expense,600,Shopping,Household
+11284,2024-08-18,Expense,225,Entertainment,Events
+11285,2024-08-19,Expense,175,Healthcare,Wellness
+11286,2024-08-20,Expense,225,Travel,Parking
+11287,2024-08-20,Expense,1500,Bills,Insurance
+11288,2024-08-20,Expense,150,Entertainment,Hobbies
+11289,2024-08-20,Expense,650,Shopping,Personal Care
+11290,2024-08-21,Expense,175,Travel,Fuel
+11291,2024-08-24,Expense,90,Food,Delivery
+11292,2024-08-24,Expense,250,Entertainment,Gaming
+11293,2024-08-25,Expense,700,Shopping,Household
+11294,2024-08-25,Savings,1500,Investment,Mutual Funds
+11295,2024-08-25,Income,1400,Investment Returns,Dividend
+11296,2024-08-26,Expense,300,Healthcare,Wellness
+11297,2024-08-26,Expense,225,Shopping,Electronics
+11298,2024-08-26,Expense,175,Other,Miscellaneous
+11299,2024-08-27,Expense,375,Travel,Hotel
+11300,2024-08-27,Expense,200,Entertainment,Gaming
+11301,2024-08-27,Expense,100,Entertainment,Gaming
+11302,2024-08-27,Expense,300,Food,Groceries
+11303,2024-08-27,Expense,125,Shopping,Electronics
+11304,2024-08-27,Expense,80,Travel,Public Transport
+11305,2024-08-28,Expense,350,Travel,Flight
+11306,2024-08-28,Expense,350,Other,Transfer
+11307,2024-08-28,Expense,70,Food,Fast Food
+11308,2024-09-01,Expense,500,Healthcare,Gym
+11309,2024-09-01,Expense,325,Travel,Taxi
+11310,2024-09-01,Expense,12000,Bills,Rent
+11311,2024-09-01,Income,50000,Salary,Monthly Salary
+11312,2024-09-03,Expense,175,Food,Bakery
+11313,2024-09-03,Expense,200,Healthcare,Medical
+11314,2024-09-03,Savings,1900,Investment,Fixed Deposit
+11315,2024-09-03,Expense,200,Shopping,Electronics
+11316,2024-09-04,Expense,70,Food,Coffee Shop
+11317,2024-09-04,Expense,225,Travel,Ride-share
+11318,2024-09-04,Savings,1100,Investment,Fixed Deposit
+11319,2024-09-04,Expense,450,Other,Gifts
+11320,2024-09-05,Savings,5000,Investment,SIP
+11321,2024-09-05,Expense,80,Food,Bakery
+11322,2024-09-05,Expense,250,Food,Delivery
+11323,2024-09-05,Savings,1300,Investment,Fixed Deposit
+11324,2024-09-05,Expense,600,Bills,Internet
+11325,2024-09-05,Expense,60,Food,Groceries
+11326,2024-09-06,Expense,700,Shopping,Electronics
+11327,2024-09-06,Expense,225,Food,Restaurants
+11328,2024-09-06,Expense,125,Food,Delivery
+11329,2024-09-07,Expense,850,Bills,Electricity
+11330,2024-09-07,Expense,450,Travel,Hotel
+11331,2024-09-08,Expense,200,Entertainment,Sports
+11332,2024-09-08,Expense,70,Travel,Public Transport
+11333,2024-09-09,Expense,275,Travel,Ride-share
+11334,2024-09-09,Expense,70,Entertainment,Hobbies
+11335,2024-09-09,Expense,200,Food,Bakery
+11336,2024-09-10,Expense,300,Food,Restaurants
+11337,2024-09-10,Expense,100,Food,Delivery
+11338,2024-09-10,Expense,400,Bills,Phone
+11339,2024-09-10,Expense,200,Healthcare,Medical
+11340,2024-09-10,Expense,150,Food,Bakery
+11341,2024-09-10,Expense,200,Shopping,Online
+11342,2024-09-11,Income,1800,Investment Returns,Interest
+11343,2024-09-11,Expense,100,Food,Coffee Shop
+11344,2024-09-12,Expense,175,Travel,Ride-share
+11345,2024-09-12,Expense,80,Food,Fast Food
+11346,2024-09-12,Expense,300,Shopping,Online
+11347,2024-09-12,Expense,600,Bills,Gas
+11348,2024-09-14,Expense,60,Food,Fast Food
+11349,2024-09-14,Expense,200,Other,Donations
+11350,2024-09-14,Expense,90,Food,Restaurants
+11351,2024-09-14,Expense,150,Food,Bakery
+11352,2024-09-14,Expense,375,Healthcare,Medical
+11353,2024-09-14,Expense,300,Food,Groceries
+11354,2024-09-15,Expense,150,Entertainment,Hobbies
+11355,2024-09-15,Income,2300,Investment Returns,Mutual Fund Returns
+11356,2024-09-15,Expense,475,Travel,Fuel
+11357,2024-09-15,Expense,80,Food,Delivery
+11358,2024-09-15,Expense,600,Shopping,Books
+11359,2024-09-15,Expense,200,Entertainment,Streaming
+11360,2024-09-16,Expense,375,Other,Transfer
+11361,2024-09-17,Expense,450,Travel,Flight
+11362,2024-09-17,Expense,800,Shopping,Books
+11363,2024-09-17,Expense,125,Travel,Fuel
+11364,2024-09-18,Expense,80,Entertainment,Hobbies
+11365,2024-09-20,Expense,1500,Bills,Insurance
+11366,2024-09-20,Expense,650,Shopping,Household
+11367,2024-09-22,Savings,1300,Investment,Fixed Deposit
+11368,2024-09-22,Expense,325,Other,Gifts
+11369,2024-09-23,Expense,70,Travel,Public Transport
+11370,2024-09-23,Expense,200,Travel,Parking
+11371,2024-09-23,Expense,425,Shopping,Household
+11372,2024-09-23,Expense,60,Food,Delivery
+11373,2024-09-23,Expense,90,Food,Fast Food
+11374,2024-09-24,Expense,70,Food,Fast Food
+11375,2024-09-25,Expense,275,Food,Delivery
+11376,2024-09-27,Expense,125,Food,Bakery
+11377,2024-09-28,Expense,150,Shopping,Online
+11378,2024-09-29,Income,1900,Investment Returns,Capital Gains
+11379,2024-09-30,Expense,80,Food,Coffee Shop
+11380,2024-10-01,Income,50000,Salary,Monthly Salary
+11381,2024-10-01,Expense,500,Healthcare,Gym
+11382,2024-10-01,Expense,125,Other,Donations
+11383,2024-10-01,Expense,12000,Bills,Rent
+11384,2024-10-01,Expense,150,Healthcare,Pharmacy
+11385,2024-10-01,Income,1300,Investment Returns,Interest
+11386,2024-10-01,Expense,175,Shopping,Electronics
+11387,2024-10-01,Income,1900,Investment Returns,Dividend
+11388,2024-10-02,Expense,250,Food,Restaurants
+11389,2024-10-02,Expense,60,Entertainment,Hobbies
+11390,2024-10-02,Expense,200,Entertainment,Sports
+11391,2024-10-03,Expense,225,Travel,Taxi
+11392,2024-10-04,Expense,200,Food,Delivery
+11393,2024-10-04,Expense,125,Travel,Parking
+11394,2024-10-04,Expense,175,Entertainment,Hobbies
+11395,2024-10-05,Expense,175,Shopping,Household
+11396,2024-10-05,Savings,5000,Investment,SIP
+11397,2024-10-05,Expense,600,Bills,Internet
+11398,2024-10-06,Savings,900,Investment,Mutual Funds
+11399,2024-10-06,Expense,375,Travel,Hotel
+11400,2024-10-06,Expense,225,Food,Restaurants
+11401,2024-10-06,Expense,475,Travel,Fuel
+11402,2024-10-07,Expense,850,Bills,Electricity
+11403,2024-10-07,Expense,600,Shopping,Household
+11404,2024-10-08,Expense,80,Food,Fast Food
+11405,2024-10-08,Expense,125,Food,Delivery
+11406,2024-10-10,Savings,1300,Investment,Fixed Deposit
+11407,2024-10-10,Income,1900,Investment Returns,Capital Gains
+11408,2024-10-10,Expense,325,Healthcare,Wellness
+11409,2024-10-10,Expense,400,Bills,Phone
+11410,2024-10-11,Expense,200,Food,Delivery
+11411,2024-10-11,Expense,70,Food,Bakery
+11412,2024-10-11,Expense,200,Travel,Parking
+11413,2024-10-12,Expense,90,Entertainment,Hobbies
+11414,2024-10-12,Expense,600,Bills,Gas
+11415,2024-10-13,Expense,250,Shopping,Personal Care
+11416,2024-10-13,Expense,600,Shopping,Books
+11417,2024-10-14,Expense,150,Food,Restaurants
+11418,2024-10-15,Expense,175,Travel,Fuel
+11419,2024-10-15,Income,2200,Investment Returns,Mutual Fund Returns
+11420,2024-10-15,Expense,325,Travel,Taxi
+11421,2024-10-15,Expense,300,Food,Bakery
+11422,2024-10-15,Expense,175,Food,Restaurants
+11423,2024-10-15,Expense,200,Entertainment,Streaming
+11424,2024-10-16,Expense,50,Food,Coffee Shop
+11425,2024-10-16,Expense,125,Food,Bakery
+11426,2024-10-16,Expense,550,Shopping,Electronics
+11427,2024-10-18,Expense,175,Travel,Ride-share
+11428,2024-10-18,Savings,1400,Investment,Fixed Deposit
+11429,2024-10-19,Expense,225,Entertainment,Sports
+11430,2024-10-20,Expense,400,Travel,Hotel
+11431,2024-10-20,Expense,1500,Bills,Insurance
+11432,2024-10-21,Expense,125,Healthcare,Medical
+11433,2024-10-21,Expense,150,Food,Delivery
+11434,2024-10-21,Expense,225,Entertainment,Hobbies
+11435,2024-10-22,Expense,200,Entertainment,Movies
+11436,2024-10-22,Expense,60,Entertainment,Hobbies
+11437,2024-10-23,Expense,125,Food,Bakery
+11438,2024-10-24,Expense,175,Other,Miscellaneous
+11439,2024-10-24,Expense,400,Travel,Flight
+11440,2024-10-25,Savings,650,Investment,Mutual Funds
+11441,2024-10-25,Savings,1600,Investment,Stocks
+11442,2024-10-25,Expense,200,Entertainment,Movies
+11443,2024-10-26,Expense,225,Healthcare,Pharmacy
+11444,2024-10-26,Expense,150,Healthcare,Medical
+11445,2024-10-26,Expense,400,Travel,Hotel
+11446,2024-10-26,Expense,80,Food,Coffee Shop
+11447,2024-10-27,Expense,175,Food,Restaurants
+11448,2024-10-27,Expense,300,Food,Delivery
+11449,2024-10-27,Expense,250,Food,Restaurants
+11450,2024-10-28,Expense,250,Healthcare,Pharmacy
+11451,2024-10-29,Expense,400,Other,Transfer
+11452,2024-10-29,Expense,175,Other,Gifts
+11453,2024-10-29,Expense,175,Travel,Parking
+11454,2024-10-29,Expense,150,Other,Transfer
+11455,2024-10-30,Expense,425,Shopping,Online
+11456,2024-10-30,Expense,225,Food,Delivery
+11457,2024-10-31,Expense,150,Food,Bakery
+11458,2024-11-01,Expense,12000,Bills,Rent
+11459,2024-11-01,Income,50000,Salary,Monthly Salary
+11460,2024-11-01,Expense,500,Healthcare,Gym
+11461,2024-11-01,Expense,50,Travel,Taxi
+11462,2024-11-02,Expense,175,Shopping,Electronics
+11463,2024-11-02,Expense,225,Travel,Fuel
+11464,2024-11-02,Expense,60,Food,Coffee Shop
+11465,2024-11-03,Expense,275,Food,Bakery
+11466,2024-11-03,Expense,225,Food,Restaurants
+11467,2024-11-05,Expense,600,Bills,Internet
+11468,2024-11-05,Savings,5000,Investment,SIP
+11469,2024-11-05,Savings,1300,Investment,Crypto
+11470,2024-11-05,Expense,200,Travel,Parking
+11471,2024-11-06,Expense,80,Food,Bakery
+11472,2024-11-06,Expense,225,Travel,Ride-share
+11473,2024-11-06,Expense,80,Travel,Public Transport
+11474,2024-11-07,Expense,150,Entertainment,Movies
+11475,2024-11-07,Income,1600,Investment Returns,Capital Gains
+11476,2024-11-07,Expense,70,Food,Coffee Shop
+11477,2024-11-07,Expense,175,Food,Groceries
+11478,2024-11-07,Expense,350,Travel,Flight
+11479,2024-11-07,Expense,750,Bills,Electricity
+11480,2024-11-08,Expense,375,Travel,Ride-share
+11481,2024-11-08,Expense,90,Food,Fast Food
+11482,2024-11-09,Expense,275,Shopping,Books
+11483,2024-11-09,Expense,275,Shopping,Online
+11484,2024-11-09,Expense,80,Food,Groceries
+11485,2024-11-09,Expense,500,Travel,Taxi
+11486,2024-11-10,Expense,400,Travel,Parking
+11487,2024-11-10,Expense,400,Bills,Phone
+11488,2024-11-10,Expense,150,Entertainment,Sports
+11489,2024-11-10,Expense,200,Entertainment,Hobbies
+11490,2024-11-10,Expense,70,Entertainment,Movies
+11491,2024-11-10,Expense,125,Shopping,Clothing
+11492,2024-11-10,Savings,600,Investment,Fixed Deposit
+11493,2024-11-10,Expense,275,Food,Groceries
+11494,2024-11-11,Expense,250,Food,Delivery
+11495,2024-11-11,Expense,60,Food,Restaurants
+11496,2024-11-11,Expense,450,Travel,Hotel
+11497,2024-11-12,Expense,600,Bills,Gas
+11498,2024-11-12,Expense,100,Travel,Public Transport
+11499,2024-11-12,Expense,125,Other,Donations
+11500,2024-11-13,Expense,80,Food,Fast Food
+11501,2024-11-13,Expense,70,Food,Restaurants
+11502,2024-11-13,Savings,1100,Investment,Fixed Deposit
+11503,2024-11-14,Savings,1300,Investment,Fixed Deposit
+11504,2024-11-15,Expense,425,Other,Donations
+11505,2024-11-15,Expense,200,Entertainment,Streaming
+11506,2024-11-15,Expense,375,Healthcare,Pharmacy
+11507,2024-11-16,Expense,125,Food,Groceries
+11508,2024-11-17,Expense,250,Food,Groceries
+11509,2024-11-17,Expense,80,Food,Restaurants
+11510,2024-11-17,Savings,750,Investment,Stocks
+11511,2024-11-18,Expense,300,Other,ATM Withdrawal
+11512,2024-11-18,Expense,100,Shopping,Household
+11513,2024-11-18,Expense,150,Other,ATM Withdrawal
+11514,2024-11-19,Savings,1200,Investment,Mutual Funds
+11515,2024-11-19,Expense,225,Food,Bakery
+11516,2024-11-20,Expense,1500,Bills,Insurance
+11517,2024-11-21,Expense,400,Travel,Hotel
+11518,2024-11-22,Expense,150,Healthcare,Wellness
+11519,2024-11-22,Expense,300,Travel,Taxi
+11520,2024-11-22,Expense,90,Travel,Public Transport
+11521,2024-11-22,Expense,50,Food,Coffee Shop
+11522,2024-11-23,Savings,1900,Investment,Crypto
+11523,2024-11-23,Expense,200,Food,Bakery
+11524,2024-11-24,Expense,90,Food,Bakery
+11525,2024-11-24,Expense,175,Food,Groceries
+11526,2024-11-24,Expense,125,Healthcare,Wellness
+11527,2024-11-25,Savings,1400,Investment,Crypto
+11528,2024-11-25,Expense,100,Food,Groceries
+11529,2024-11-25,Expense,100,Food,Coffee Shop
+11530,2024-11-27,Expense,425,Other,ATM Withdrawal
+11531,2024-11-28,Expense,300,Food,Restaurants
+11532,2024-11-29,Expense,250,Food,Groceries
+11533,2024-11-29,Expense,150,Food,Restaurants
+11534,2024-11-30,Savings,1500,Investment,Crypto
+11535,2024-12-01,Income,50000,Salary,Monthly Salary
+11536,2024-12-01,Expense,500,Healthcare,Gym
+11537,2024-12-01,Expense,12000,Bills,Rent
+11538,2024-12-01,Income,950,Investment Returns,Interest
+11539,2024-12-02,Expense,200,Travel,Taxi
+11540,2024-12-02,Expense,175,Entertainment,Sports
+11541,2024-12-03,Expense,225,Food,Restaurants
+11542,2024-12-03,Expense,150,Entertainment,Events
+11543,2024-12-04,Expense,450,Other,Transfer
+11544,2024-12-04,Expense,200,Healthcare,Medical
+11545,2024-12-04,Expense,400,Other,Donations
+11546,2024-12-04,Expense,70,Food,Bakery
+11547,2024-12-05,Savings,5000,Investment,SIP
+11548,2024-12-05,Expense,125,Entertainment,Gaming
+11549,2024-12-05,Expense,300,Food,Delivery
+11550,2024-12-05,Expense,600,Bills,Internet
+11551,2024-12-05,Expense,275,Shopping,Household
+11552,2024-12-06,Income,2000,Investment Returns,Dividend
+11553,2024-12-07,Expense,350,Other,ATM Withdrawal
+11554,2024-12-07,Expense,200,Entertainment,Sports
+11555,2024-12-07,Expense,700,Bills,Electricity
+11556,2024-12-08,Expense,80,Food,Delivery
+11557,2024-12-08,Expense,60,Food,Coffee Shop
+11558,2024-12-09,Expense,90,Travel,Fuel
+11559,2024-12-10,Expense,400,Bills,Phone
+11560,2024-12-10,Expense,700,Shopping,Books
+11561,2024-12-12,Expense,70,Food,Coffee Shop
+11562,2024-12-12,Expense,600,Bills,Gas
+11563,2024-12-12,Expense,325,Healthcare,Pharmacy
+11564,2024-12-13,Expense,325,Healthcare,Pharmacy
+11565,2024-12-15,Expense,200,Entertainment,Streaming
+11566,2024-12-15,Expense,275,Food,Groceries
+11567,2024-12-15,Expense,275,Shopping,Household
+11568,2024-12-16,Expense,150,Food,Groceries
+11569,2024-12-16,Expense,90,Food,Fast Food
+11570,2024-12-17,Expense,225,Shopping,Online
+11571,2024-12-17,Savings,1400,Investment,Crypto
+11572,2024-12-18,Expense,650,Shopping,Online
+11573,2024-12-18,Income,1200,Investment Returns,Capital Gains
+11574,2024-12-19,Expense,450,Travel,Hotel
+11575,2024-12-20,Expense,60,Food,Delivery
+11576,2024-12-20,Income,1700,Investment Returns,Mutual Fund Returns
+11577,2024-12-20,Expense,1500,Bills,Insurance
+11578,2024-12-21,Expense,50,Food,Coffee Shop
+11579,2024-12-21,Expense,425,Travel,Hotel
+11580,2024-12-21,Savings,1400,Investment,Fixed Deposit
+11581,2024-12-22,Expense,200,Food,Restaurants
+11582,2024-12-22,Expense,125,Travel,Ride-share
+11583,2024-12-23,Expense,100,Food,Coffee Shop
+11584,2024-12-23,Expense,200,Food,Restaurants
+11585,2024-12-25,Savings,1400,Investment,Stocks
+11586,2024-12-25,Expense,275,Food,Bakery
+11587,2024-12-26,Expense,150,Food,Groceries
+11588,2024-12-27,Expense,70,Food,Fast Food
+11589,2024-12-28,Expense,350,Travel,Ride-share
+11590,2024-12-28,Expense,225,Food,Restaurants
+11591,2024-12-29,Expense,150,Healthcare,Medical
+11592,2024-12-29,Expense,150,Healthcare,Wellness
+11593,2024-12-31,Expense,550,Shopping,Electronics
+11594,2025-01-01,Expense,12000,Bills,Rent
+11595,2025-01-01,Expense,500,Healthcare,Gym
+11596,2025-01-01,Income,50000,Salary,Monthly Salary
+11597,2025-01-01,Expense,125,Food,Groceries
+11598,2025-01-03,Expense,250,Healthcare,Wellness
+11599,2025-01-03,Expense,425,Shopping,Electronics
+11600,2025-01-03,Expense,350,Travel,Hotel
+11601,2025-01-03,Expense,200,Entertainment,Movies
+11602,2025-01-04,Expense,150,Entertainment,Events
+11603,2025-01-04,Expense,60,Entertainment,Hobbies
+11604,2025-01-04,Expense,175,Other,Miscellaneous
+11605,2025-01-04,Expense,150,Food,Groceries
+11606,2025-01-05,Expense,275,Travel,Fuel
+11607,2025-01-05,Income,2700,Investment Returns,Dividend
+11608,2025-01-05,Expense,600,Bills,Internet
+11609,2025-01-05,Expense,375,Other,Miscellaneous
+11610,2025-01-05,Savings,5000,Investment,SIP
+11611,2025-01-05,Expense,60,Food,Coffee Shop
+11612,2025-01-05,Expense,475,Shopping,Household
+11613,2025-01-05,Expense,125,Other,Gifts
+11614,2025-01-06,Expense,175,Entertainment,Gaming
+11615,2025-01-07,Expense,900,Bills,Electricity
+11616,2025-01-07,Income,900,Investment Returns,Mutual Fund Returns
+11617,2025-01-07,Expense,450,Shopping,Clothing
+11618,2025-01-07,Savings,650,Investment,Mutual Funds
+11619,2025-01-08,Expense,250,Shopping,Books
+11620,2025-01-08,Expense,90,Travel,Fuel
+11621,2025-01-09,Expense,125,Food,Restaurants
+11622,2025-01-10,Expense,400,Bills,Phone
+11623,2025-01-10,Expense,475,Travel,Fuel
+11624,2025-01-11,Expense,80,Food,Coffee Shop
+11625,2025-01-11,Expense,275,Food,Bakery
+11626,2025-01-11,Expense,300,Other,Donations
+11627,2025-01-12,Expense,60,Food,Coffee Shop
+11628,2025-01-12,Expense,600,Bills,Gas
+11629,2025-01-12,Expense,60,Food,Fast Food
+11630,2025-01-13,Expense,275,Healthcare,Wellness
+11631,2025-01-13,Expense,60,Food,Fast Food
+11632,2025-01-15,Expense,150,Other,ATM Withdrawal
+11633,2025-01-15,Expense,750,Shopping,Household
+11634,2025-01-15,Expense,200,Entertainment,Streaming
+11635,2025-01-16,Expense,250,Entertainment,Events
+11636,2025-01-17,Expense,350,Shopping,Clothing
+11637,2025-01-18,Expense,175,Entertainment,Hobbies
+11638,2025-01-18,Expense,350,Other,Gifts
+11639,2025-01-18,Expense,175,Other,Miscellaneous
+11640,2025-01-19,Expense,80,Food,Coffee Shop
+11641,2025-01-20,Expense,1500,Bills,Insurance
+11642,2025-01-21,Expense,100,Healthcare,Pharmacy
+11643,2025-01-21,Expense,425,Travel,Taxi
+11644,2025-01-21,Expense,125,Food,Delivery
+11645,2025-01-21,Expense,500,Other,ATM Withdrawal
+11646,2025-01-21,Expense,175,Healthcare,Wellness
+11647,2025-01-22,Expense,250,Food,Groceries
+11648,2025-01-22,Expense,100,Food,Coffee Shop
+11649,2025-01-23,Expense,150,Entertainment,Hobbies
+11650,2025-01-24,Expense,80,Food,Fast Food
+11651,2025-01-24,Expense,450,Shopping,Household
+11652,2025-01-25,Expense,200,Food,Delivery
+11653,2025-01-25,Expense,250,Food,Delivery
+11654,2025-01-25,Expense,200,Food,Restaurants
+11655,2025-01-25,Expense,50,Food,Fast Food
+11656,2025-01-25,Expense,475,Travel,Parking
+11657,2025-01-26,Expense,60,Food,Fast Food
+11658,2025-01-27,Expense,175,Other,Donations
+11659,2025-01-28,Expense,375,Other,Gifts
+11660,2025-01-28,Expense,80,Food,Coffee Shop
+11661,2025-01-28,Expense,175,Food,Groceries
+11662,2025-01-28,Expense,200,Entertainment,Movies
+11663,2025-01-29,Expense,70,Food,Fast Food
+11664,2025-01-30,Expense,225,Food,Groceries
+11665,2025-01-30,Expense,175,Healthcare,Medical
+11666,2025-01-31,Income,2600,Investment Returns,Mutual Fund Returns
+11667,2025-02-01,Expense,12000,Bills,Rent
+11668,2025-02-01,Expense,800,Shopping,Household
+11669,2025-02-01,Expense,500,Shopping,Household
+11670,2025-02-01,Income,50000,Salary,Monthly Salary
+11671,2025-02-01,Expense,500,Healthcare,Gym
+11672,2025-02-02,Expense,200,Food,Restaurants
+11673,2025-02-03,Expense,275,Food,Delivery
+11674,2025-02-03,Expense,150,Entertainment,Movies
+11675,2025-02-03,Expense,90,Food,Fast Food
+11676,2025-02-03,Expense,250,Travel,Parking
+11677,2025-02-03,Expense,700,Shopping,Clothing
+11678,2025-02-03,Expense,325,Travel,Fuel
+11679,2025-02-04,Expense,375,Travel,Parking
+11680,2025-02-05,Expense,600,Bills,Internet
+11681,2025-02-05,Expense,550,Shopping,Personal Care
+11682,2025-02-05,Savings,5000,Investment,SIP
+11683,2025-02-06,Expense,200,Entertainment,Hobbies
+11684,2025-02-07,Expense,125,Travel,Parking
+11685,2025-02-07,Expense,375,Healthcare,Wellness
+11686,2025-02-07,Expense,700,Shopping,Clothing
+11687,2025-02-07,Expense,750,Bills,Electricity
+11688,2025-02-07,Expense,275,Food,Delivery
+11689,2025-02-09,Expense,400,Travel,Ride-share
+11690,2025-02-09,Expense,600,Shopping,Books
+11691,2025-02-10,Expense,400,Bills,Phone
+11692,2025-02-11,Expense,275,Food,Delivery
+11693,2025-02-11,Expense,250,Travel,Fuel
+11694,2025-02-11,Expense,275,Travel,Taxi
+11695,2025-02-12,Expense,90,Travel,Parking
+11696,2025-02-12,Expense,600,Bills,Gas
+11697,2025-02-14,Expense,225,Entertainment,Sports
+11698,2025-02-15,Expense,50,Food,Fast Food
+11699,2025-02-15,Expense,200,Entertainment,Streaming
+11700,2025-02-15,Expense,225,Food,Bakery
+11701,2025-02-15,Income,1700,Investment Returns,Capital Gains
+11702,2025-02-15,Savings,1600,Investment,Mutual Funds
+11703,2025-02-15,Expense,90,Food,Fast Food
+11704,2025-02-16,Expense,425,Travel,Parking
+11705,2025-02-17,Expense,475,Travel,Flight
+11706,2025-02-17,Expense,250,Food,Restaurants
+11707,2025-02-17,Expense,80,Food,Fast Food
+11708,2025-02-17,Expense,400,Travel,Fuel
+11709,2025-02-18,Expense,100,Travel,Ride-share
+11710,2025-02-18,Savings,1700,Investment,Mutual Funds
+11711,2025-02-19,Expense,425,Travel,Hotel
+11712,2025-02-19,Expense,300,Food,Delivery
+11713,2025-02-20,Expense,300,Shopping,Personal Care
+11714,2025-02-20,Expense,325,Healthcare,Medical
+11715,2025-02-20,Expense,1500,Bills,Insurance
+11716,2025-02-20,Expense,225,Shopping,Online
+11717,2025-02-21,Expense,80,Food,Coffee Shop
+11718,2025-02-22,Expense,450,Travel,Parking
+11719,2025-02-22,Expense,225,Other,Gifts
+11720,2025-02-22,Expense,80,Food,Coffee Shop
+11721,2025-02-23,Expense,275,Food,Restaurants
+11722,2025-02-23,Expense,375,Travel,Fuel
+11723,2025-02-23,Expense,50,Food,Coffee Shop
+11724,2025-02-25,Expense,70,Food,Coffee Shop
+11725,2025-02-25,Expense,100,Travel,Public Transport
+11726,2025-02-25,Income,1400,Investment Returns,Dividend
+11727,2025-02-25,Savings,1100,Investment,Stocks
+11728,2025-02-26,Expense,150,Other,Gifts
+11729,2025-02-26,Expense,200,Food,Delivery
+11730,2025-02-27,Expense,225,Entertainment,Gaming
+11731,2025-03-01,Expense,12000,Bills,Rent
+11732,2025-03-01,Income,50000,Salary,Monthly Salary
+11733,2025-03-01,Expense,500,Healthcare,Gym
+11734,2025-03-01,Expense,150,Food,Groceries
+11735,2025-03-02,Expense,70,Food,Coffee Shop
+11736,2025-03-02,Savings,2000,Investment,Stocks
+11737,2025-03-02,Expense,60,Food,Fast Food
+11738,2025-03-02,Expense,100,Food,Fast Food
+11739,2025-03-04,Expense,350,Shopping,Electronics
+11740,2025-03-04,Expense,250,Healthcare,Medical
+11741,2025-03-04,Savings,1200,Investment,Crypto
+11742,2025-03-05,Expense,600,Bills,Internet
+11743,2025-03-05,Savings,5000,Investment,SIP
+11744,2025-03-06,Expense,750,Shopping,Online
+11745,2025-03-06,Expense,250,Healthcare,Wellness
+11746,2025-03-06,Expense,175,Travel,Ride-share
+11747,2025-03-07,Expense,375,Travel,Fuel
+11748,2025-03-07,Expense,475,Travel,Flight
+11749,2025-03-07,Expense,700,Bills,Electricity
+11750,2025-03-08,Expense,150,Entertainment,Movies
+11751,2025-03-09,Expense,175,Healthcare,Pharmacy
+11752,2025-03-09,Expense,175,Food,Delivery
+11753,2025-03-09,Income,1000,Investment Returns,Mutual Fund Returns
+11754,2025-03-09,Expense,175,Healthcare,Pharmacy
+11755,2025-03-09,Expense,200,Other,Gifts
+11756,2025-03-10,Expense,100,Food,Fast Food
+11757,2025-03-10,Expense,400,Bills,Phone
+11758,2025-03-12,Expense,600,Bills,Gas
+11759,2025-03-12,Expense,125,Shopping,Personal Care
+11760,2025-03-12,Expense,400,Other,Gifts
+11761,2025-03-12,Expense,100,Other,Donations
+11762,2025-03-13,Expense,200,Food,Restaurants
+11763,2025-03-14,Expense,100,Travel,Taxi
+11764,2025-03-14,Expense,275,Healthcare,Medical
+11765,2025-03-15,Expense,200,Entertainment,Streaming
+11766,2025-03-15,Expense,100,Travel,Taxi
+11767,2025-03-15,Expense,150,Entertainment,Gaming
+11768,2025-03-15,Expense,60,Travel,Public Transport
+11769,2025-03-15,Savings,1600,Investment,Crypto
+11770,2025-03-15,Expense,125,Travel,Parking
+11771,2025-03-16,Expense,70,Food,Coffee Shop
+11772,2025-03-16,Savings,550,Investment,Stocks
+11773,2025-03-17,Expense,90,Food,Fast Food
+11774,2025-03-18,Income,2300,Investment Returns,Capital Gains
+11775,2025-03-18,Expense,150,Entertainment,Hobbies
+11776,2025-03-18,Savings,1300,Investment,Mutual Funds
+11777,2025-03-19,Expense,125,Food,Groceries
+11778,2025-03-20,Expense,1500,Bills,Insurance
+11779,2025-03-20,Expense,375,Healthcare,Pharmacy
+11780,2025-03-21,Expense,175,Food,Bakery
+11781,2025-03-21,Expense,175,Shopping,Personal Care
+11782,2025-03-21,Savings,1300,Investment,Mutual Funds
+11783,2025-03-21,Expense,50,Food,Fast Food
+11784,2025-03-22,Expense,70,Food,Coffee Shop
+11785,2025-03-23,Expense,400,Travel,Hotel
+11786,2025-03-24,Expense,325,Healthcare,Wellness
+11787,2025-03-24,Expense,70,Food,Coffee Shop
+11788,2025-03-24,Expense,325,Shopping,Personal Care
+11789,2025-03-24,Expense,175,Shopping,Personal Care
+11790,2025-03-24,Expense,425,Travel,Hotel
+11791,2025-03-25,Expense,70,Food,Bakery
+11792,2025-03-26,Expense,175,Travel,Fuel
+11793,2025-03-26,Expense,60,Travel,Public Transport
+11794,2025-03-27,Savings,1700,Investment,Crypto
+11795,2025-03-27,Expense,225,Other,Gifts
+11796,2025-03-28,Expense,60,Food,Fast Food
+11797,2025-03-29,Expense,400,Travel,Hotel
+11798,2025-03-29,Expense,375,Healthcare,Wellness
+11799,2025-03-30,Expense,150,Food,Bakery
+11800,2025-03-31,Expense,600,Shopping,Online
+11801,2025-03-31,Expense,90,Food,Groceries
+11802,2025-03-31,Income,1100,Investment Returns,Mutual Fund Returns
+11803,2025-03-31,Expense,350,Other,ATM Withdrawal
+11804,2025-03-31,Expense,50,Food,Coffee Shop
+11805,2025-04-01,Income,50000,Salary,Monthly Salary
+11806,2025-04-01,Expense,500,Healthcare,Gym
+11807,2025-04-01,Expense,12000,Bills,Rent
+11808,2025-04-02,Expense,375,Shopping,Clothing
+11809,2025-04-02,Expense,225,Food,Delivery
+11810,2025-04-02,Expense,50,Food,Coffee Shop
+11811,2025-04-03,Expense,150,Travel,Parking
+11812,2025-04-03,Expense,150,Other,Miscellaneous
+11813,2025-04-05,Expense,50,Food,Fast Food
+11814,2025-04-05,Expense,600,Bills,Internet
+11815,2025-04-05,Savings,5000,Investment,SIP
+11816,2025-04-06,Expense,125,Entertainment,Movies
+11817,2025-04-07,Expense,325,Shopping,Books
+11818,2025-04-07,Expense,700,Bills,Electricity
+11819,2025-04-08,Expense,90,Food,Bakery
+11820,2025-04-08,Expense,125,Entertainment,Sports
+11821,2025-04-08,Expense,200,Food,Bakery
+11822,2025-04-08,Expense,125,Healthcare,Medical
+11823,2025-04-09,Expense,90,Entertainment,Hobbies
+11824,2025-04-10,Expense,425,Travel,Hotel
+11825,2025-04-10,Expense,400,Bills,Phone
+11826,2025-04-11,Income,2000,Investment Returns,Dividend
+11827,2025-04-11,Expense,80,Food,Fast Food
+11828,2025-04-11,Expense,90,Food,Coffee Shop
+11829,2025-04-11,Expense,70,Food,Fast Food
+11830,2025-04-11,Income,1600,Investment Returns,Mutual Fund Returns
+11831,2025-04-12,Expense,90,Food,Coffee Shop
+11832,2025-04-12,Expense,600,Bills,Gas
+11833,2025-04-12,Expense,150,Other,Transfer
+11834,2025-04-12,Expense,200,Food,Delivery
+11835,2025-04-13,Expense,450,Shopping,Books
+11836,2025-04-13,Expense,70,Food,Restaurants
+11837,2025-04-15,Expense,200,Entertainment,Streaming
+11838,2025-04-16,Savings,1900,Investment,Mutual Funds
+11839,2025-04-17,Expense,425,Travel,Flight
+11840,2025-04-17,Expense,400,Travel,Ride-share
+11841,2025-04-18,Expense,100,Entertainment,Movies
+11842,2025-04-18,Expense,50,Food,Coffee Shop
+11843,2025-04-19,Expense,275,Shopping,Clothing
+11844,2025-04-19,Expense,300,Food,Bakery
+11845,2025-04-20,Expense,1500,Bills,Insurance
+11846,2025-04-21,Expense,80,Food,Fast Food
+11847,2025-04-21,Expense,125,Food,Groceries
+11848,2025-04-21,Expense,80,Entertainment,Hobbies
+11849,2025-04-22,Expense,500,Travel,Fuel
+11850,2025-04-23,Expense,225,Healthcare,Wellness
+11851,2025-04-23,Expense,80,Food,Coffee Shop
+11852,2025-04-23,Expense,425,Shopping,Personal Care
+11853,2025-04-24,Expense,250,Other,Transfer
+11854,2025-04-24,Expense,150,Entertainment,Movies
+11855,2025-04-24,Expense,150,Healthcare,Pharmacy
+11856,2025-04-25,Expense,200,Other,Gifts
+11857,2025-04-25,Savings,1600,Investment,Stocks
+11858,2025-04-26,Expense,60,Travel,Public Transport
+11859,2025-04-27,Savings,1800,Investment,Mutual Funds
+11860,2025-04-27,Savings,1500,Investment,Stocks
+11861,2025-04-27,Savings,950,Investment,Crypto
+11862,2025-04-27,Expense,250,Shopping,Personal Care
+11863,2025-04-28,Expense,225,Entertainment,Movies
+11864,2025-04-29,Expense,100,Food,Fast Food
+11865,2025-04-29,Expense,125,Food,Delivery
+11866,2025-04-30,Expense,300,Travel,Parking
+11867,2025-04-30,Expense,375,Travel,Parking
+11868,2025-04-30,Expense,125,Healthcare,Wellness
+11869,2025-05-01,Expense,12000,Bills,Rent
+11870,2025-05-01,Expense,100,Travel,Fuel
+11871,2025-05-01,Expense,500,Healthcare,Gym
+11872,2025-05-01,Expense,350,Healthcare,Pharmacy
+11873,2025-05-01,Income,50000,Salary,Monthly Salary
+11874,2025-05-01,Income,2700,Investment Returns,Mutual Fund Returns
+11875,2025-05-02,Expense,375,Other,Gifts
+11876,2025-05-02,Expense,325,Shopping,Books
+11877,2025-05-02,Expense,125,Travel,Parking
+11878,2025-05-03,Expense,550,Shopping,Personal Care
+11879,2025-05-03,Expense,70,Food,Coffee Shop
+11880,2025-05-03,Expense,80,Food,Coffee Shop
+11881,2025-05-03,Expense,300,Travel,Taxi
+11882,2025-05-03,Expense,375,Shopping,Household
+11883,2025-05-04,Expense,100,Entertainment,Hobbies
+11884,2025-05-05,Expense,60,Travel,Public Transport
+11885,2025-05-05,Expense,125,Other,ATM Withdrawal
+11886,2025-05-05,Expense,600,Bills,Internet
+11887,2025-05-05,Savings,5000,Investment,SIP
+11888,2025-05-07,Expense,900,Bills,Electricity
+11889,2025-05-07,Expense,375,Shopping,Household
+11890,2025-05-07,Expense,600,Shopping,Personal Care
+11891,2025-05-07,Expense,225,Entertainment,Hobbies
+11892,2025-05-08,Expense,550,Shopping,Electronics
+11893,2025-05-08,Expense,325,Shopping,Electronics
+11894,2025-05-08,Expense,400,Travel,Taxi
+11895,2025-05-08,Expense,90,Food,Coffee Shop
+11896,2025-05-09,Expense,700,Shopping,Electronics
+11897,2025-05-10,Expense,400,Bills,Phone
+11898,2025-05-10,Expense,100,Travel,Public Transport
+11899,2025-05-10,Expense,275,Food,Delivery
+11900,2025-05-11,Expense,80,Travel,Public Transport
+11901,2025-05-12,Expense,600,Bills,Gas
+11902,2025-05-12,Expense,60,Food,Coffee Shop
+11903,2025-05-12,Expense,475,Other,Miscellaneous
+11904,2025-05-12,Expense,70,Travel,Public Transport
+11905,2025-05-13,Expense,275,Healthcare,Wellness
+11906,2025-05-13,Expense,90,Food,Fast Food
+11907,2025-05-14,Expense,125,Food,Restaurants
+11908,2025-05-15,Expense,150,Entertainment,Movies
+11909,2025-05-15,Expense,200,Entertainment,Streaming
+11910,2025-05-16,Expense,275,Food,Restaurants
+11911,2025-05-16,Expense,60,Food,Bakery
+11912,2025-05-17,Savings,1000,Investment,Fixed Deposit
+11913,2025-05-17,Expense,70,Food,Coffee Shop
+11914,2025-05-18,Expense,225,Travel,Taxi
+11915,2025-05-18,Expense,125,Food,Bakery
+11916,2025-05-18,Expense,90,Entertainment,Movies
+11917,2025-05-19,Expense,150,Food,Groceries
+11918,2025-05-20,Expense,1500,Bills,Insurance
+11919,2025-05-21,Expense,175,Other,Donations
+11920,2025-05-22,Expense,225,Food,Restaurants
+11921,2025-05-22,Expense,425,Other,Miscellaneous
+11922,2025-05-22,Expense,375,Other,Miscellaneous
+11923,2025-05-24,Expense,150,Healthcare,Medical
+11924,2025-05-25,Expense,50,Food,Coffee Shop
+11925,2025-05-26,Expense,200,Other,Transfer
+11926,2025-05-26,Expense,325,Travel,Ride-share
+11927,2025-05-26,Expense,500,Travel,Ride-share
+11928,2025-05-28,Expense,80,Food,Fast Food
+11929,2025-05-28,Expense,375,Shopping,Household
+11930,2025-05-29,Expense,375,Travel,Hotel
+11931,2025-05-31,Expense,200,Healthcare,Wellness
+11932,2025-05-31,Expense,500,Travel,Hotel
+11933,2025-05-31,Expense,250,Food,Groceries
+11934,2025-05-31,Expense,275,Healthcare,Pharmacy
+11935,2025-05-31,Expense,50,Travel,Fuel
+11936,2025-06-01,Income,50000,Salary,Monthly Salary
+11937,2025-06-01,Expense,100,Food,Restaurants
+11938,2025-06-01,Expense,12000,Bills,Rent
+11939,2025-06-01,Income,1900,Investment Returns,Mutual Fund Returns
+11940,2025-06-01,Expense,500,Healthcare,Gym
+11941,2025-06-01,Expense,70,Food,Fast Food
+11942,2025-06-02,Expense,350,Other,Transfer
+11943,2025-06-03,Expense,125,Food,Bakery
+11944,2025-06-03,Expense,475,Other,Donations
+11945,2025-06-04,Expense,60,Travel,Parking
+11946,2025-06-05,Expense,600,Bills,Internet
+11947,2025-06-05,Expense,150,Entertainment,Hobbies
+11948,2025-06-05,Savings,5000,Investment,SIP
+11949,2025-06-06,Expense,375,Shopping,Books
+11950,2025-06-07,Expense,800,Bills,Electricity
+11951,2025-06-07,Expense,250,Food,Groceries
+11952,2025-06-07,Expense,400,Shopping,Books
+11953,2025-06-08,Expense,200,Other,Donations
+11954,2025-06-08,Expense,425,Shopping,Clothing
+11955,2025-06-08,Expense,375,Healthcare,Pharmacy
+11956,2025-06-08,Expense,90,Food,Fast Food
+11957,2025-06-09,Expense,750,Shopping,Books
+11958,2025-06-09,Expense,300,Healthcare,Wellness
+11959,2025-06-10,Expense,400,Bills,Phone
+11960,2025-06-10,Expense,800,Shopping,Electronics
+11961,2025-06-10,Expense,200,Entertainment,Movies
+11962,2025-06-11,Expense,60,Food,Delivery
+11963,2025-06-11,Expense,250,Food,Bakery
+11964,2025-06-12,Expense,600,Bills,Gas
+11965,2025-06-12,Expense,175,Food,Groceries
+11966,2025-06-15,Expense,200,Food,Groceries
+11967,2025-06-15,Expense,100,Entertainment,Hobbies
+11968,2025-06-15,Expense,175,Food,Delivery
+11969,2025-06-15,Expense,150,Other,Transfer
+11970,2025-06-15,Expense,125,Entertainment,Sports
+11971,2025-06-15,Expense,200,Entertainment,Streaming
+11972,2025-06-16,Expense,100,Healthcare,Wellness
+11973,2025-06-16,Expense,80,Food,Groceries
+11974,2025-06-16,Expense,450,Travel,Flight
+11975,2025-06-18,Savings,1500,Investment,Crypto
+11976,2025-06-19,Expense,100,Entertainment,Gaming
+11977,2025-06-19,Savings,1800,Investment,Crypto
+11978,2025-06-19,Expense,175,Food,Groceries
+11979,2025-06-20,Expense,1500,Bills,Insurance
+11980,2025-06-20,Expense,90,Travel,Public Transport
+11981,2025-06-20,Expense,175,Food,Groceries
+11982,2025-06-20,Expense,175,Other,Transfer
+11983,2025-06-21,Savings,1900,Investment,Mutual Funds
+11984,2025-06-21,Expense,250,Food,Delivery
+11985,2025-06-24,Expense,60,Food,Fast Food
+11986,2025-06-24,Expense,125,Food,Delivery
+11987,2025-06-25,Expense,375,Travel,Hotel
+11988,2025-06-25,Expense,90,Food,Fast Food
+11989,2025-06-26,Expense,375,Healthcare,Pharmacy
+11990,2025-06-26,Expense,225,Entertainment,Gaming
+11991,2025-06-26,Expense,150,Food,Bakery
+11992,2025-06-26,Expense,325,Healthcare,Medical
+11993,2025-06-26,Expense,300,Shopping,Online
+11994,2025-06-27,Income,2500,Investment Returns,Dividend
+11995,2025-06-28,Expense,125,Travel,Parking
+11996,2025-06-30,Expense,250,Food,Groceries
+11997,2025-06-30,Income,1300,Investment Returns,Interest
+11998,2025-07-01,Income,50000,Salary,Monthly Salary
+11999,2025-07-01,Expense,225,Entertainment,Gaming
+12000,2025-07-01,Expense,60,Entertainment,Sports
+12001,2025-07-01,Expense,500,Healthcare,Gym
+12002,2025-07-01,Expense,12000,Bills,Rent
+12003,2025-07-02,Savings,1400,Investment,Fixed Deposit
+12004,2025-07-02,Expense,225,Food,Restaurants
+12005,2025-07-02,Income,1300,Investment Returns,Capital Gains
+12006,2025-07-02,Expense,200,Other,Miscellaneous
+12007,2025-07-02,Expense,300,Food,Restaurants
+12008,2025-07-03,Expense,400,Travel,Hotel
+12009,2025-07-04,Expense,70,Entertainment,Events
+12010,2025-07-05,Savings,5000,Investment,SIP
+12011,2025-07-05,Expense,100,Healthcare,Pharmacy
+12012,2025-07-05,Expense,600,Bills,Internet
+12013,2025-07-06,Expense,225,Entertainment,Movies
+12014,2025-07-07,Expense,850,Bills,Electricity
+12015,2025-07-08,Expense,175,Food,Restaurants
+12016,2025-07-08,Expense,750,Shopping,Electronics
+12017,2025-07-08,Expense,375,Other,Gifts
+12018,2025-07-08,Expense,275,Food,Bakery
+12019,2025-07-09,Expense,125,Other,ATM Withdrawal
+12020,2025-07-09,Savings,650,Investment,Fixed Deposit
+12021,2025-07-09,Expense,350,Healthcare,Pharmacy
+12022,2025-07-10,Expense,400,Travel,Hotel
+12023,2025-07-10,Expense,250,Other,Gifts
+12024,2025-07-10,Expense,400,Bills,Phone
+12025,2025-07-11,Expense,150,Healthcare,Pharmacy
+12026,2025-07-11,Expense,250,Food,Groceries
+12027,2025-07-11,Expense,175,Entertainment,Events
+12028,2025-07-12,Savings,750,Investment,Mutual Funds
+12029,2025-07-12,Expense,70,Travel,Taxi
+12030,2025-07-12,Expense,600,Bills,Gas
+12031,2025-07-13,Expense,100,Food,Groceries
+12032,2025-07-13,Savings,1700,Investment,Crypto
+12033,2025-07-14,Expense,60,Food,Coffee Shop
+12034,2025-07-14,Expense,325,Travel,Fuel
+12035,2025-07-14,Savings,1600,Investment,Mutual Funds
+12036,2025-07-15,Expense,600,Shopping,Personal Care
+12037,2025-07-15,Expense,200,Entertainment,Streaming
+12038,2025-07-16,Expense,300,Healthcare,Pharmacy
+12039,2025-07-17,Expense,150,Food,Delivery
+12040,2025-07-17,Expense,150,Other,ATM Withdrawal
+12041,2025-07-18,Expense,225,Food,Groceries
+12042,2025-07-18,Expense,80,Food,Fast Food
+12043,2025-07-20,Expense,250,Other,Transfer
+12044,2025-07-20,Expense,70,Food,Fast Food
+12045,2025-07-20,Expense,70,Food,Fast Food
+12046,2025-07-20,Expense,60,Entertainment,Movies
+12047,2025-07-20,Expense,1500,Bills,Insurance
+12048,2025-07-20,Expense,225,Food,Groceries
+12049,2025-07-20,Expense,500,Travel,Flight
+12050,2025-07-21,Expense,375,Travel,Hotel
+12051,2025-07-23,Expense,225,Entertainment,Events
+12052,2025-07-23,Expense,125,Entertainment,Events
+12053,2025-07-24,Expense,225,Food,Groceries
+12054,2025-07-24,Expense,350,Shopping,Clothing
+12055,2025-07-24,Expense,100,Entertainment,Events
+12056,2025-07-25,Expense,80,Food,Groceries
+12057,2025-07-26,Expense,325,Shopping,Electronics
+12058,2025-07-26,Expense,175,Travel,Fuel
+12059,2025-07-26,Expense,125,Food,Groceries
+12060,2025-07-26,Savings,1100,Investment,Stocks
+12061,2025-07-30,Expense,90,Food,Bakery
+12062,2025-07-30,Expense,100,Travel,Fuel
+12063,2025-07-31,Expense,275,Food,Bakery
+12064,2025-07-31,Expense,70,Food,Fast Food
+12065,2025-08-01,Savings,1200,Investment,Fixed Deposit
+12066,2025-08-01,Expense,12000,Bills,Rent
+12067,2025-08-01,Expense,500,Healthcare,Gym
+12068,2025-08-01,Income,50000,Salary,Monthly Salary
+12069,2025-08-02,Expense,125,Food,Bakery
+12070,2025-08-02,Expense,225,Shopping,Clothing
+12071,2025-08-03,Expense,60,Food,Delivery
+12072,2025-08-04,Expense,125,Food,Delivery
+12073,2025-08-04,Expense,475,Travel,Flight
+12074,2025-08-04,Expense,60,Food,Delivery
+12075,2025-08-04,Expense,400,Travel,Ride-share
+12076,2025-08-05,Expense,100,Other,Miscellaneous
+12077,2025-08-05,Savings,5000,Investment,SIP
+12078,2025-08-05,Expense,600,Bills,Internet
+12079,2025-08-06,Expense,450,Travel,Hotel
+12080,2025-08-06,Income,1900,Investment Returns,Capital Gains
+12081,2025-08-06,Expense,300,Travel,Fuel
+12082,2025-08-06,Expense,700,Shopping,Online
+12083,2025-08-07,Expense,850,Bills,Electricity
+12084,2025-08-08,Expense,200,Other,Transfer
+12085,2025-08-09,Expense,175,Food,Bakery
+12086,2025-08-09,Expense,175,Food,Bakery
+12087,2025-08-10,Expense,80,Food,Fast Food
+12088,2025-08-10,Expense,650,Shopping,Online
+12089,2025-08-10,Savings,1600,Investment,Mutual Funds
+12090,2025-08-10,Expense,400,Bills,Phone
+12091,2025-08-11,Expense,60,Travel,Public Transport
+12092,2025-08-11,Income,1100,Investment Returns,Mutual Fund Returns
+12093,2025-08-11,Expense,275,Other,Gifts
+12094,2025-08-11,Income,750,Investment Returns,Interest
+12095,2025-08-12,Expense,600,Bills,Gas
+12096,2025-08-12,Expense,70,Food,Delivery
+12097,2025-08-12,Expense,175,Food,Bakery
+12098,2025-08-12,Expense,350,Travel,Taxi
+12099,2025-08-13,Expense,550,Shopping,Online
+12100,2025-08-14,Expense,60,Food,Bakery
+12101,2025-08-15,Expense,300,Food,Restaurants
+12102,2025-08-15,Expense,200,Entertainment,Streaming
+12103,2025-08-16,Expense,60,Food,Coffee Shop
+12104,2025-08-17,Income,1600,Investment Returns,Dividend
+12105,2025-08-18,Savings,800,Investment,Fixed Deposit
+12106,2025-08-18,Expense,300,Other,Gifts
+12107,2025-08-18,Expense,400,Other,Donations
+12108,2025-08-19,Expense,475,Travel,Hotel
+12109,2025-08-20,Expense,50,Food,Fast Food
+12110,2025-08-20,Expense,200,Food,Groceries
+12111,2025-08-20,Expense,1500,Bills,Insurance
+12112,2025-08-21,Expense,100,Food,Restaurants
+12113,2025-08-21,Expense,225,Food,Groceries
+12114,2025-08-21,Expense,125,Other,Donations
+12115,2025-08-21,Expense,80,Food,Fast Food
+12116,2025-08-21,Expense,700,Shopping,Clothing
+12117,2025-08-22,Expense,425,Travel,Hotel
+12118,2025-08-23,Expense,475,Travel,Hotel
+12119,2025-08-23,Expense,80,Entertainment,Sports
+12120,2025-08-23,Expense,200,Food,Groceries
+12121,2025-08-24,Expense,350,Shopping,Personal Care
+12122,2025-08-24,Expense,125,Entertainment,Gaming
+12123,2025-08-25,Expense,350,Travel,Fuel
+12124,2025-08-25,Expense,175,Food,Restaurants
+12125,2025-08-26,Expense,200,Entertainment,Events
+12126,2025-08-26,Expense,250,Food,Restaurants
+12127,2025-08-26,Expense,275,Food,Bakery
+12128,2025-08-27,Expense,425,Travel,Ride-share
+12129,2025-08-27,Expense,50,Food,Fast Food
+12130,2025-08-27,Expense,175,Other,Donations
+12131,2025-08-27,Expense,125,Healthcare,Wellness
+12132,2025-08-28,Expense,70,Food,Coffee Shop
+12133,2025-08-29,Expense,175,Other,Gifts
+12134,2025-08-29,Expense,70,Food,Groceries
+12135,2025-08-30,Expense,700,Shopping,Personal Care
+12136,2025-08-30,Expense,125,Food,Delivery
+12137,2025-08-31,Expense,50,Travel,Public Transport
+12138,2025-08-31,Expense,750,Shopping,Online
+12139,2025-08-31,Expense,275,Healthcare,Wellness
+12140,2025-09-01,Savings,1100,Investment,Crypto
+12141,2025-09-01,Income,50000,Salary,Monthly Salary
+12142,2025-09-01,Expense,12000,Bills,Rent
+12143,2025-09-01,Expense,350,Shopping,Books
+12144,2025-09-01,Expense,500,Healthcare,Gym
+12145,2025-09-01,Expense,350,Travel,Parking
+12146,2025-09-01,Expense,175,Entertainment,Hobbies
+12147,2025-09-02,Expense,150,Shopping,Online
+12148,2025-09-03,Savings,1300,Investment,Stocks
+12149,2025-09-04,Expense,100,Travel,Public Transport
+12150,2025-09-05,Savings,5000,Investment,SIP
+12151,2025-09-05,Expense,600,Bills,Internet
+12152,2025-09-06,Expense,175,Entertainment,Sports
+12153,2025-09-06,Expense,225,Travel,Taxi
+12154,2025-09-07,Expense,70,Food,Coffee Shop
+12155,2025-09-07,Expense,800,Bills,Electricity
+12156,2025-09-07,Expense,90,Entertainment,Sports
+12157,2025-09-07,Expense,375,Travel,Ride-share
+12158,2025-09-08,Expense,225,Travel,Taxi
+12159,2025-09-10,Expense,400,Bills,Phone
+12160,2025-09-10,Expense,175,Food,Restaurants
+12161,2025-09-10,Expense,175,Entertainment,Hobbies
+12162,2025-09-10,Expense,175,Shopping,Electronics
+12163,2025-09-11,Expense,100,Entertainment,Events
+12164,2025-09-11,Expense,80,Food,Fast Food
+12165,2025-09-12,Expense,600,Bills,Gas
+12166,2025-09-12,Expense,275,Food,Restaurants
+12167,2025-09-13,Expense,325,Shopping,Clothing
+12168,2025-09-13,Expense,90,Food,Fast Food
+12169,2025-09-13,Expense,150,Other,ATM Withdrawal
+12170,2025-09-13,Expense,175,Healthcare,Wellness
+12171,2025-09-15,Expense,200,Entertainment,Streaming
+12172,2025-09-15,Expense,175,Entertainment,Hobbies
+12173,2025-09-15,Expense,125,Shopping,Books
+12174,2025-09-15,Expense,250,Healthcare,Medical
+12175,2025-09-16,Expense,150,Other,Miscellaneous
+12176,2025-09-16,Expense,100,Food,Groceries
+12177,2025-09-16,Expense,70,Travel,Public Transport
+12178,2025-09-16,Expense,425,Travel,Flight
+12179,2025-09-17,Income,2400,Investment Returns,Capital Gains
+12180,2025-09-17,Expense,150,Food,Delivery
+12181,2025-09-18,Expense,70,Food,Fast Food
+12182,2025-09-18,Expense,100,Food,Delivery
+12183,2025-09-18,Expense,90,Food,Fast Food
+12184,2025-09-19,Expense,450,Other,ATM Withdrawal
+12185,2025-09-19,Expense,750,Shopping,Online
+12186,2025-09-19,Expense,60,Food,Groceries
+12187,2025-09-19,Savings,800,Investment,Mutual Funds
+12188,2025-09-20,Expense,225,Healthcare,Wellness
+12189,2025-09-20,Expense,1500,Bills,Insurance
+12190,2025-09-20,Expense,400,Travel,Hotel
+12191,2025-09-21,Expense,550,Shopping,Personal Care
+12192,2025-09-22,Expense,100,Food,Restaurants
+12193,2025-09-23,Expense,80,Food,Coffee Shop
+12194,2025-09-23,Income,2900,Investment Returns,Mutual Fund Returns
+12195,2025-09-23,Expense,100,Food,Restaurants
+12196,2025-09-24,Expense,325,Shopping,Books
+12197,2025-09-24,Expense,125,Entertainment,Events
+12198,2025-09-26,Expense,50,Food,Coffee Shop
+12199,2025-09-27,Expense,450,Travel,Flight
+12200,2025-09-27,Expense,475,Travel,Ride-share
+12201,2025-09-27,Expense,80,Food,Groceries
+12202,2025-09-28,Expense,300,Other,ATM Withdrawal
+12203,2025-09-29,Expense,70,Food,Coffee Shop
+12204,2025-09-29,Expense,200,Shopping,Clothing
+12205,2025-09-29,Expense,475,Travel,Taxi
+12206,2025-09-29,Expense,150,Food,Restaurants
+12207,2025-09-30,Expense,150,Food,Groceries
+12208,2025-09-30,Expense,650,Shopping,Online
+12209,2025-10-01,Expense,125,Travel,Parking
+12210,2025-10-01,Income,50000,Salary,Monthly Salary
+12211,2025-10-01,Expense,200,Travel,Ride-share
+12212,2025-10-01,Expense,500,Healthcare,Gym
+12213,2025-10-01,Expense,275,Food,Bakery
+12214,2025-10-01,Expense,175,Shopping,Clothing
+12215,2025-10-01,Expense,275,Other,Gifts
+12216,2025-10-01,Expense,12000,Bills,Rent
+12217,2025-10-02,Expense,400,Travel,Taxi
+12218,2025-10-02,Expense,150,Shopping,Electronics
+12219,2025-10-02,Expense,275,Food,Groceries
+12220,2025-10-02,Expense,250,Food,Delivery
+12221,2025-10-02,Expense,80,Food,Restaurants
+12222,2025-10-03,Expense,100,Entertainment,Events
+12223,2025-10-03,Expense,600,Shopping,Books
+12224,2025-10-04,Expense,200,Healthcare,Pharmacy
+12225,2025-10-04,Expense,350,Other,Transfer
+12226,2025-10-04,Expense,200,Healthcare,Medical
+12227,2025-10-04,Expense,375,Travel,Parking
+12228,2025-10-05,Expense,600,Bills,Internet
+12229,2025-10-05,Savings,5000,Investment,SIP
+12230,2025-10-05,Expense,325,Shopping,Personal Care
+12231,2025-10-05,Expense,225,Entertainment,Gaming
+12232,2025-10-06,Expense,350,Shopping,Household
+12233,2025-10-07,Expense,600,Shopping,Electronics
+12234,2025-10-07,Expense,900,Bills,Electricity
+12235,2025-10-08,Expense,250,Entertainment,Gaming
+12236,2025-10-08,Expense,250,Food,Delivery
+12237,2025-10-09,Expense,100,Food,Delivery
+12238,2025-10-10,Expense,400,Bills,Phone
+12239,2025-10-11,Expense,275,Travel,Taxi
+12240,2025-10-11,Expense,80,Food,Fast Food
+12241,2025-10-12,Expense,60,Entertainment,Gaming
+12242,2025-10-12,Expense,500,Travel,Fuel
+12243,2025-10-12,Expense,600,Bills,Gas
+12244,2025-10-13,Expense,175,Food,Bakery
+12245,2025-10-13,Expense,475,Shopping,Online
+12246,2025-10-13,Expense,200,Entertainment,Gaming
+12247,2025-10-13,Savings,1200,Investment,Crypto
+12248,2025-10-15,Expense,200,Entertainment,Streaming
+12249,2025-10-15,Expense,150,Healthcare,Wellness
+12250,2025-10-15,Expense,150,Food,Bakery
+12251,2025-10-15,Expense,90,Travel,Parking
+12252,2025-10-15,Expense,275,Shopping,Online
+12253,2025-10-15,Expense,70,Entertainment,Movies
+12254,2025-10-16,Expense,60,Food,Coffee Shop
+12255,2025-10-16,Expense,350,Other,Transfer
+12256,2025-10-16,Savings,1300,Investment,Crypto
+12257,2025-10-16,Expense,175,Food,Bakery
+12258,2025-10-17,Expense,125,Food,Bakery
+12259,2025-10-17,Expense,375,Other,Transfer
+12260,2025-10-17,Expense,250,Healthcare,Pharmacy
+12261,2025-10-17,Expense,150,Food,Bakery
+12262,2025-10-17,Expense,70,Food,Coffee Shop
+12263,2025-10-20,Expense,80,Food,Coffee Shop
+12264,2025-10-20,Expense,425,Travel,Hotel
+12265,2025-10-20,Expense,300,Healthcare,Medical
+12266,2025-10-20,Expense,1500,Bills,Insurance
+12267,2025-10-21,Expense,700,Shopping,Clothing
+12268,2025-10-21,Expense,200,Travel,Ride-share
+12269,2025-10-21,Income,1000,Investment Returns,Interest
+12270,2025-10-22,Savings,1300,Investment,Crypto
+12271,2025-10-23,Expense,300,Food,Restaurants
+12272,2025-10-25,Expense,175,Entertainment,Movies
+12273,2025-10-25,Expense,750,Shopping,Books
+12274,2025-10-25,Expense,375,Shopping,Online
+12275,2025-10-26,Expense,475,Travel,Flight
+12276,2025-10-27,Expense,325,Shopping,Personal Care
+12277,2025-10-29,Expense,250,Entertainment,Gaming
+12278,2025-10-30,Expense,175,Shopping,Electronics
+12279,2025-10-30,Savings,850,Investment,Mutual Funds
+12280,2025-10-30,Expense,250,Food,Delivery
+12281,2025-10-31,Expense,125,Entertainment,Gaming
+12282,2025-11-01,Income,50000,Salary,Monthly Salary
+12283,2025-11-01,Expense,300,Travel,Ride-share
+12284,2025-11-01,Expense,500,Healthcare,Gym
+12285,2025-11-01,Expense,12000,Bills,Rent
+12286,2025-11-01,Expense,425,Travel,Flight
+12287,2025-11-02,Expense,325,Healthcare,Pharmacy
+12288,2025-11-02,Expense,60,Food,Fast Food
+12289,2025-11-03,Expense,200,Shopping,Household
+12290,2025-11-03,Expense,450,Travel,Hotel
+12291,2025-11-04,Expense,225,Entertainment,Movies
+12292,2025-11-04,Expense,80,Food,Fast Food
+12293,2025-11-05,Expense,275,Food,Groceries
+12294,2025-11-05,Expense,600,Bills,Internet
+12295,2025-11-05,Expense,90,Food,Fast Food
+12296,2025-11-05,Savings,5000,Investment,SIP
+12297,2025-11-05,Expense,50,Food,Coffee Shop
+12298,2025-11-06,Expense,275,Food,Bakery
+12299,2025-11-06,Expense,275,Food,Groceries
+12300,2025-11-07,Savings,1900,Investment,Mutual Funds
+12301,2025-11-07,Expense,750,Bills,Electricity
+12302,2025-11-07,Expense,200,Entertainment,Gaming
+12303,2025-11-09,Expense,225,Food,Delivery
+12304,2025-11-09,Expense,375,Travel,Ride-share
+12305,2025-11-09,Expense,325,Other,Gifts
+12306,2025-11-09,Expense,70,Food,Coffee Shop
+12307,2025-11-10,Expense,400,Bills,Phone
+12308,2025-11-11,Income,2600,Investment Returns,Mutual Fund Returns
+12309,2025-11-11,Expense,125,Entertainment,Movies
+12310,2025-11-12,Expense,200,Entertainment,Events
+12311,2025-11-12,Expense,600,Bills,Gas
+12312,2025-11-13,Expense,150,Food,Groceries
+12313,2025-11-13,Expense,800,Shopping,Books
+12314,2025-11-13,Expense,275,Healthcare,Wellness
+12315,2025-11-13,Expense,200,Entertainment,Movies
+12316,2025-11-15,Expense,80,Entertainment,Gaming
+12317,2025-11-15,Expense,100,Travel,Parking
+12318,2025-11-15,Expense,225,Entertainment,Events
+12319,2025-11-15,Expense,125,Food,Groceries
+12320,2025-11-15,Expense,200,Entertainment,Streaming
+12321,2025-11-17,Expense,250,Food,Restaurants
+12322,2025-11-17,Expense,700,Shopping,Clothing
+12323,2025-11-18,Income,1000,Investment Returns,Dividend
+12324,2025-11-19,Expense,90,Entertainment,Events
+12325,2025-11-20,Expense,1500,Bills,Insurance
+12326,2025-11-21,Expense,125,Food,Restaurants
+12327,2025-11-21,Expense,150,Shopping,Electronics
+12328,2025-11-21,Expense,60,Food,Coffee Shop
+12329,2025-11-21,Expense,200,Food,Bakery
+12330,2025-11-23,Savings,800,Investment,Mutual Funds
+12331,2025-11-23,Expense,650,Shopping,Online
+12332,2025-11-23,Income,1000,Investment Returns,Interest
+12333,2025-11-24,Expense,175,Entertainment,Sports
+12334,2025-11-24,Expense,550,Shopping,Personal Care
+12335,2025-11-24,Expense,350,Healthcare,Wellness
+12336,2025-11-26,Expense,275,Food,Delivery
+12337,2025-11-26,Expense,125,Entertainment,Events
+12338,2025-11-26,Expense,60,Food,Delivery
+12339,2025-11-26,Expense,400,Healthcare,Medical
+12340,2025-11-27,Expense,80,Food,Fast Food
+12341,2025-11-28,Expense,90,Food,Fast Food
+12342,2025-11-28,Expense,300,Travel,Taxi
+12343,2025-11-29,Expense,90,Food,Fast Food
+12344,2025-11-29,Expense,425,Travel,Flight
+12345,2025-11-29,Expense,125,Healthcare,Medical
+12346,2025-11-30,Expense,375,Other,Miscellaneous
+12347,2025-11-30,Expense,600,Shopping,Household
+12348,2025-12-01,Income,50000,Salary,Monthly Salary
+12349,2025-12-01,Expense,12000,Bills,Rent
+12350,2025-12-01,Expense,500,Healthcare,Gym
+12351,2025-12-01,Expense,100,Travel,Parking
+12352,2025-12-02,Expense,175,Healthcare,Medical
+12353,2025-12-03,Expense,225,Entertainment,Events
+12354,2025-12-03,Expense,200,Food,Delivery
+12355,2025-12-03,Expense,70,Food,Fast Food
+12356,2025-12-04,Expense,450,Other,Gifts
+12357,2025-12-05,Savings,5000,Investment,SIP
+12358,2025-12-05,Expense,600,Bills,Internet
+12359,2025-12-05,Income,500,Investment Returns,Dividend
+12360,2025-12-06,Expense,100,Food,Fast Food
+12361,2025-12-06,Expense,175,Shopping,Household
+12362,2025-12-06,Expense,175,Entertainment,Hobbies
+12363,2025-12-07,Expense,475,Other,Gifts
+12364,2025-12-07,Expense,800,Bills,Electricity
+12365,2025-12-07,Expense,275,Other,Gifts
+12366,2025-12-08,Savings,1100,Investment,Stocks
+12367,2025-12-08,Expense,50,Food,Fast Food
+12368,2025-12-09,Savings,1000,Investment,Mutual Funds
+12369,2025-12-09,Expense,150,Food,Groceries
+12370,2025-12-09,Expense,125,Shopping,Personal Care
+12371,2025-12-09,Expense,150,Travel,Ride-share
+12372,2025-12-09,Expense,400,Shopping,Online
+12373,2025-12-09,Expense,450,Travel,Parking
+12374,2025-12-10,Expense,400,Bills,Phone
+12375,2025-12-10,Expense,60,Food,Coffee Shop
+12376,2025-12-12,Expense,550,Shopping,Electronics
+12377,2025-12-12,Expense,600,Bills,Gas
+12378,2025-12-13,Expense,80,Food,Coffee Shop
+12379,2025-12-14,Expense,200,Food,Groceries
+12380,2025-12-14,Expense,275,Other,Miscellaneous
+12381,2025-12-14,Expense,90,Travel,Public Transport
+12382,2025-12-14,Expense,100,Shopping,Household
+12383,2025-12-14,Expense,225,Food,Groceries
+12384,2025-12-14,Savings,900,Investment,Mutual Funds
+12385,2025-12-15,Expense,200,Entertainment,Streaming
+12386,2025-12-16,Expense,80,Food,Delivery
+12387,2025-12-16,Expense,225,Other,ATM Withdrawal
+12388,2025-12-19,Savings,1200,Investment,Mutual Funds
+12389,2025-12-19,Expense,225,Food,Groceries
+12390,2025-12-20,Savings,1000,Investment,Fixed Deposit
+12391,2025-12-20,Expense,1500,Bills,Insurance
+12392,2025-12-21,Expense,150,Other,ATM Withdrawal
+12393,2025-12-22,Expense,250,Entertainment,Sports
+12394,2025-12-22,Expense,200,Food,Groceries
+12395,2025-12-22,Expense,100,Other,Gifts
+12396,2025-12-22,Expense,70,Food,Fast Food
+12397,2025-12-23,Expense,60,Food,Restaurants
+12398,2025-12-23,Expense,300,Other,Gifts
+12399,2025-12-23,Expense,325,Travel,Ride-share
+12400,2025-12-23,Expense,125,Shopping,Electronics
+12401,2025-12-24,Expense,475,Other,Miscellaneous
+12402,2025-12-24,Expense,200,Entertainment,Hobbies
+12403,2025-12-25,Expense,225,Healthcare,Pharmacy
+12404,2025-12-26,Expense,250,Other,Transfer
+12405,2025-12-27,Savings,800,Investment,Mutual Funds
+12406,2025-12-28,Expense,175,Entertainment,Movies
+12407,2025-12-28,Expense,175,Food,Groceries
+12408,2025-12-29,Expense,125,Food,Restaurants
+12409,2025-12-29,Expense,275,Food,Groceries
+12410,2025-12-29,Expense,100,Food,Bakery
+12411,2025-12-29,Expense,375,Healthcare,Pharmacy
+12412,2025-12-30,Expense,150,Travel,Parking
+12413,2025-12-31,Expense,300,Healthcare,Medical
